@@ -1,0 +1,23 @@
+{
+  "name": "perfect-schedule",
+  "version": "0.0.0",
+  "description": "Create your perfect course schedule with easiness. A free, opensource and extensible scheduling app.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorix-lpan/perfect-schedule.git"
+  },
+  "author": "Lawrence Pan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lorix-lpan/perfect-schedule/issues"
+  },
+  "homepage": "https://github.com/lorix-lpan/perfect-schedule#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "pdf2json": "^0.7.1"
+  }
+}
