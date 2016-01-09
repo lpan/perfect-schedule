@@ -11,7 +11,7 @@ var compareKey = function (a, b) {
 
 var _onPFBinDataReady = function (evtData) {
   var arr = evtData.data.Pages[0].Texts.sort(compareKey).map(function (file) {
-    return file.R[0].T;
+    return decodeURIComponent(file.R[0].T);
   });
   console.log(arr);
 };
