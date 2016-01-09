@@ -5,10 +5,15 @@ var nodeUtil = require("util"),
 
 var pdfParser = new PDFParser();
 
+var compareKey = function (a, b) {
+  return a.y - b.y;
+};
+
 var _onPFBinDataReady = function (evtData) {
-  evtData.data.Pages[1].Texts.forEach(function (file) {
-    console.log(file.x);
+  var arr = evtData.data.Pages[0].Texts.sort(compareKey).map(function (file) {
+    return file.R[0].T;
   });
+  console.log(arr);
 };
 
 var _onPFBinDataError = function (evtError) {
@@ -25,7 +30,6 @@ pdfParser.loadPDF(pdfFilePath);
 
 // or call directly with buffer
 fs.readFile(pdfFilePath, function (err, pdfBuffer) {
-  if (!err) {
+  if (!err)
     pdfParser.parseBuffer(pdfBuffer);
-  }
 });
