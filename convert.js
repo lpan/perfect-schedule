@@ -6,6 +6,7 @@ var pdfParser = new PDFParser();
 var pdfData = [];
 
 var _onPFBinDataReady = function (evtData) {
+  var data = [];
   var chomp = function (raw_text) {
     return raw_text.replace(/(\n|\u0000)+$/, '');
   };
@@ -35,6 +36,8 @@ var _onPFBinDataReady = function (evtData) {
           return a.y - b.y;
         }
       }).
+      // Find items with certain expression and replace them with 
+      // blank space. 
       map(function (file) {
         var isValid = true;
         regexes.forEach(function (regex) {
@@ -45,37 +48,45 @@ var _onPFBinDataReady = function (evtData) {
           return chomp(decodeURIComponent(file.R[0].T));
         }
       }).
+      // Delete blank space by the previous map function
       filter(function (item) {
         return item !== undefined && item !== '';
       }).
+      // Convert array to a list of js objects
       forEach(function (file) {
         if (file.match(/^[0-9]{5}$/) !== null) {
-          console.log('yeah');
           count ++;
           course = -1;
-          pdfData.push({});
-          pdfData[count].section = file;
-          pdfData[count].meeting = [];
+          data.push({});
+          data[count].section = file;
+          data[count].meeting = [];
+          data[count].name = '';
         } else if (file.match(/^.{3}-.{3}/) !== null) {
-          pdfData[count].code = file;
+          if (file.match(/[0-9]{5}/) !== null) {
+            count ++;
+            course = -1;
+            data.push({});
+            data[count].section = file.match(/[0-9]{5}/)[0];
+            data[count].code = file.match(/^.{3}-.{3}/)[0];
+            data[count].meeting = []; 
+            data[count].name = '';
+          }
         } else if (file.match(/^[A-Z]{1,2}$/) !== null) {
           course ++;
-          pdfData[count].meeting.push({});
-          pdfData[count].meeting[course].day = file;
+          data[count].meeting.push({});
+          data[count].meeting[course].day = file;
         } else if (file.match(/^[0-9]{2}\:[0-9]{2}-/) !== null) {
-          pdfData[count].meeting[course].time = file;
+          data[count].meeting[course].time = file;
         } else if (file.match(/^[A-Z]-[0-9]{3}/) !== null) {
-          pdfData[count].meeting[course].room = file;
+          data[count].meeting[course].room = file;
         } else if (file.match(/^.+\,\s[a-zA-Z]+$/) !== null) {
-          pdfData[count].teacher = file;
+          data[count].teacher = file;
         } else {
-          pdfData[count].name = file;
+          data[count].name += file.toString();
         }
       });
   });
-  pdfData.filter(function (file) {
-    return JSON.stringify(file) !== '{}';
-  });
+  pdfData = data;
   console.log(pdfData);
 };
 
@@ -87,7 +98,10 @@ pdfParser.on('pdfParser_dataReady', _.bind(_onPFBinDataReady, this));
 
 pdfParser.on('pdfParser_dataError', _.bind(_onPFBinDataError, this));
 
-var pdfFilePath = 'test_files/science.pdf';
+var fileName = 'science.pdf';
+var pdfFilePath = 'test_files/' + 'science.pdf';
+
+var jsonName = fileName.match(/^[a-zA-Z]+/)[0] + '.json';
 
 pdfParser.loadPDF(pdfFilePath);
 
@@ -98,5 +112,5 @@ fs.readFile(pdfFilePath, function (err, pdfBuffer) {
 });
 
 setTimeout(function () {
-  fs.writeFile('test.json', JSON.stringify(pdfData, null, 2), 'utf8');
+  fs.writeFile(jsonName, JSON.stringify(pdfData, null, 2), 'utf8');
 }, 3000);
