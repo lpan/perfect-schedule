@@ -1,6 +1,6 @@
 var fs = require('fs');
 var _ = require('underscore');
-var PDFParser = require('./node_modules/pdf2json/pdfparser');
+var PDFParser = require('../node_modules/pdf2json/pdfparser');
 
 var pdfParser = new PDFParser();
 var pdfData = [];

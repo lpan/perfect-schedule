@@ -5894,172 +5894,6 @@
     "section": "00002",
     "meeting": [
       {
-        "day": "WF",
-        "time": "14:15-15:45",
-        "room": "A-104"
-      }
-    ],
-    "name": "FICTIONS",
-    "teacher": "Savescu, Olivia"
-  },
-  {
-    "section": "00003",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "09:45-11:15",
-        "room": "D-414"
-      }
-    ],
-    "name": "FICTIONS",
-    "teacher": "Boulanger, Cynthia"
-  },
-  {
-    "section": "00004",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "09:45-11:15",
-        "room": "F-306"
-      }
-    ],
-    "name": "FICTIONS",
-    "teacher": "Boulanger, Cynthia"
-  },
-  {
-    "section": "00005",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "14:15-15:45",
-        "room": "F-306"
-      }
-    ],
-    "name": "FICTIONS",
-    "teacher": "Boulanger, Cynthia"
-  },
-  {
-    "section": "00001",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "08:15-09:45",
-        "room": "D-414"
-      }
-    ],
-    "name": "HISTOIRE DE L'AMOUR",
-    "teacher": "Poirier, Bertrand"
-  },
-  {
-    "section": "00002",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "11:15-12:45",
-        "room": "F-306"
-      }
-    ],
-    "name": "HISTOIRE DE L'AMOUR",
-    "teacher": "Poirier, Bertrand"
-  },
-  {
-    "section": "00003",
-    "meeting": [
-      {
-        "day": "WF",
-        "time": "14:15-15:45",
-        "room": "F-306"
-      }
-    ],
-    "name": "SCIENCE MODERNE",
-    "teacher": "Pagé, Sylvain"
-  },
-  {
-    "section": "00004",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "14:15-15:45",
-        "room": "G-102"
-      },
-      {
-        "day": "H",
-        "time": "11:15-12:45",
-        "room": "G-102"
-      }
-    ],
-    "name": "SCIENCE MODERNE",
-    "teacher": "Pagé, Sylvain"
-  },
-  {
-    "section": "00005",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "09:45-11:15",
-        "room": "G-102"
-      }
-    ],
-    "name": "L'ABSURDE DANS LA LITTÉRATURE",
-    "teacher": "Savescu, Olivia"
-  },
-  {
-    "section": "00006",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "14:15-15:45",
-        "room": "G-102"
-      }
-    ],
-    "name": "L'ABSURDE DANS LA LITTÉRATURE",
-    "teacher": "Savescu, Olivia"
-  },
-  {
-    "section": "00007",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "12:45-14:15",
-        "room": "G-102"
-      },
-      {
-        "day": "H",
-        "time": "09:45-11:15",
-        "room": "G-102"
-      }
-    ],
-    "name": "LITÉRATURE MIGRANTE",
-    "teacher": "Soucy, Lily"
-  },
-  {
-    "section": "00008",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "09:45-11:15",
-        "room": "A-104"
-      }
-    ],
-    "name": "LITÉRATURE MIGRANTE",
-    "teacher": "Soucy, Lily"
-  },
-  {
-    "section": "00009",
-    "meeting": [
-      {
-        "day": "WF",
-        "time": "12:45-14:15",
-        "room": "D-414"
-      }
-    ],
-    "name": "LITÉRATURE MIGRANTE",
-    "teacher": "Soucy, Lily"
-  },
-  {
-    "section": "00002",
-    "meeting": [
-      {
         "day": "MW",
         "time": "09:45-11:15",
         "room": "D-414"
@@ -6276,6 +6110,338 @@
     "teacher": "Pagé, Sylvain"
   },
   {
+    "section": "00002",
+    "meeting": [
+      {
+        "day": "WF",
+        "time": "14:15-15:45",
+        "room": "A-104"
+      }
+    ],
+    "name": "FICTIONS",
+    "teacher": "Savescu, Olivia"
+  },
+  {
+    "section": "00003",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "09:45-11:15",
+        "room": "D-414"
+      }
+    ],
+    "name": "FICTIONS",
+    "teacher": "Boulanger, Cynthia"
+  },
+  {
+    "section": "00004",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "09:45-11:15",
+        "room": "F-306"
+      }
+    ],
+    "name": "FICTIONS",
+    "teacher": "Boulanger, Cynthia"
+  },
+  {
+    "section": "00005",
+    "meeting": [
+      {
+        "day": "TH",
+        "time": "14:15-15:45",
+        "room": "F-306"
+      }
+    ],
+    "name": "FICTIONS",
+    "teacher": "Boulanger, Cynthia"
+  },
+  {
+    "section": "00001",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "08:15-09:45",
+        "room": "D-414"
+      }
+    ],
+    "name": "HISTOIRE DE L'AMOUR",
+    "teacher": "Poirier, Bertrand"
+  },
+  {
+    "section": "00002",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "11:15-12:45",
+        "room": "F-306"
+      }
+    ],
+    "name": "HISTOIRE DE L'AMOUR",
+    "teacher": "Poirier, Bertrand"
+  },
+  {
+    "section": "00003",
+    "meeting": [
+      {
+        "day": "WF",
+        "time": "14:15-15:45",
+        "room": "F-306"
+      }
+    ],
+    "name": "SCIENCE MODERNE",
+    "teacher": "Pagé, Sylvain"
+  },
+  {
+    "section": "00004",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "14:15-15:45",
+        "room": "G-102"
+      },
+      {
+        "day": "H",
+        "time": "11:15-12:45",
+        "room": "G-102"
+      }
+    ],
+    "name": "SCIENCE MODERNE",
+    "teacher": "Pagé, Sylvain"
+  },
+  {
+    "section": "00005",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "09:45-11:15",
+        "room": "G-102"
+      }
+    ],
+    "name": "L'ABSURDE DANS LA LITTÉRATURE",
+    "teacher": "Savescu, Olivia"
+  },
+  {
+    "section": "00006",
+    "meeting": [
+      {
+        "day": "TH",
+        "time": "14:15-15:45",
+        "room": "G-102"
+      }
+    ],
+    "name": "L'ABSURDE DANS LA LITTÉRATURE",
+    "teacher": "Savescu, Olivia"
+  },
+  {
+    "section": "00007",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:45-14:15",
+        "room": "G-102"
+      },
+      {
+        "day": "H",
+        "time": "09:45-11:15",
+        "room": "G-102"
+      }
+    ],
+    "name": "LITÉRATURE MIGRANTE",
+    "teacher": "Soucy, Lily"
+  },
+  {
+    "section": "00008",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "09:45-11:15",
+        "room": "A-104"
+      }
+    ],
+    "name": "LITÉRATURE MIGRANTE",
+    "teacher": "Soucy, Lily"
+  },
+  {
+    "section": "00009",
+    "meeting": [
+      {
+        "day": "WF",
+        "time": "12:45-14:15",
+        "room": "D-414"
+      }
+    ],
+    "name": "LITÉRATURE MIGRANTE",
+    "teacher": "Soucy, Lily"
+  },
+  {
+    "section": "00002",
+    "meeting": [
+      {
+        "day": "WF",
+        "time": "14:15-15:45",
+        "room": "A-104"
+      }
+    ],
+    "name": "FICTIONS",
+    "teacher": "Savescu, Olivia"
+  },
+  {
+    "section": "00003",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "09:45-11:15",
+        "room": "D-414"
+      }
+    ],
+    "name": "FICTIONS",
+    "teacher": "Boulanger, Cynthia"
+  },
+  {
+    "section": "00004",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "09:45-11:15",
+        "room": "F-306"
+      }
+    ],
+    "name": "FICTIONS",
+    "teacher": "Boulanger, Cynthia"
+  },
+  {
+    "section": "00005",
+    "meeting": [
+      {
+        "day": "TH",
+        "time": "14:15-15:45",
+        "room": "F-306"
+      }
+    ],
+    "name": "FICTIONS",
+    "teacher": "Boulanger, Cynthia"
+  },
+  {
+    "section": "00001",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "08:15-09:45",
+        "room": "D-414"
+      }
+    ],
+    "name": "HISTOIRE DE L'AMOUR",
+    "teacher": "Poirier, Bertrand"
+  },
+  {
+    "section": "00002",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "11:15-12:45",
+        "room": "F-306"
+      }
+    ],
+    "name": "HISTOIRE DE L'AMOUR",
+    "teacher": "Poirier, Bertrand"
+  },
+  {
+    "section": "00003",
+    "meeting": [
+      {
+        "day": "WF",
+        "time": "14:15-15:45",
+        "room": "F-306"
+      }
+    ],
+    "name": "SCIENCE MODERNE",
+    "teacher": "Pagé, Sylvain"
+  },
+  {
+    "section": "00004",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "14:15-15:45",
+        "room": "G-102"
+      },
+      {
+        "day": "H",
+        "time": "11:15-12:45",
+        "room": "G-102"
+      }
+    ],
+    "name": "SCIENCE MODERNE",
+    "teacher": "Pagé, Sylvain"
+  },
+  {
+    "section": "00005",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "09:45-11:15",
+        "room": "G-102"
+      }
+    ],
+    "name": "L'ABSURDE DANS LA LITTÉRATURE",
+    "teacher": "Savescu, Olivia"
+  },
+  {
+    "section": "00006",
+    "meeting": [
+      {
+        "day": "TH",
+        "time": "14:15-15:45",
+        "room": "G-102"
+      }
+    ],
+    "name": "L'ABSURDE DANS LA LITTÉRATURE",
+    "teacher": "Savescu, Olivia"
+  },
+  {
+    "section": "00007",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:45-14:15",
+        "room": "G-102"
+      },
+      {
+        "day": "H",
+        "time": "09:45-11:15",
+        "room": "G-102"
+      }
+    ],
+    "name": "LITÉRATURE MIGRANTE",
+    "teacher": "Soucy, Lily"
+  },
+  {
+    "section": "00008",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "09:45-11:15",
+        "room": "A-104"
+      }
+    ],
+    "name": "LITÉRATURE MIGRANTE",
+    "teacher": "Soucy, Lily"
+  },
+  {
+    "section": "00009",
+    "meeting": [
+      {
+        "day": "WF",
+        "time": "12:45-14:15",
+        "room": "D-414"
+      }
+    ],
+    "name": "LITÉRATURE MIGRANTE",
+    "teacher": "Soucy, Lily"
+  },
+  {
     "section": "00001",
     "meeting": [
       {
@@ -6483,170 +6649,211 @@
     "teacher": "Pettit, James"
   },
   {
-    "section": "00002",
-    "meeting": [
-      {
-        "day": "WF",
-        "time": "14:15-15:45",
-        "room": "A-104"
-      }
-    ],
-    "name": "FICTIONS",
-    "teacher": "Savescu, Olivia"
-  },
-  {
-    "section": "00003",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "09:45-11:15",
-        "room": "D-414"
-      }
-    ],
-    "name": "FICTIONS",
-    "teacher": "Boulanger, Cynthia"
-  },
-  {
-    "section": "00004",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "09:45-11:15",
-        "room": "F-306"
-      }
-    ],
-    "name": "FICTIONS",
-    "teacher": "Boulanger, Cynthia"
-  },
-  {
-    "section": "00005",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "14:15-15:45",
-        "room": "F-306"
-      }
-    ],
-    "name": "FICTIONS",
-    "teacher": "Boulanger, Cynthia"
-  },
-  {
     "section": "00001",
     "meeting": [
       {
-        "day": "MW",
-        "time": "08:15-09:45",
-        "room": "D-414"
+        "day": "WF",
+        "time": "14:15-16:15",
+        "room": "D-205"
       }
     ],
-    "name": "HISTOIRE DE L'AMOUR",
-    "teacher": "Poirier, Bertrand"
+    "name": "GENDER BENDER",
+    "teacher": "Chew, Dolores"
   },
   {
     "section": "00002",
     "meeting": [
       {
-        "day": "TF",
-        "time": "11:15-12:45",
-        "room": "F-306"
+        "day": "TH",
+        "time": "14:15-16:15",
+        "room": "A-361"
       }
     ],
-    "name": "HISTOIRE DE L'AMOUR",
-    "teacher": "Poirier, Bertrand"
+    "name": "ADOLESCENT EXPLORATIONS",
+    "teacher": "Richardson, Wendy"
   },
   {
     "section": "00003",
     "meeting": [
       {
-        "day": "WF",
-        "time": "14:15-15:45",
-        "room": "F-306"
+        "day": "MW",
+        "time": "10:15-12:15",
+        "room": "A-319"
       }
     ],
-    "name": "SCIENCE MODERNE",
-    "teacher": "Pagé, Sylvain"
+    "name": "MEDIEVAL KNOWLEDGE (Liberal Arts Only)",
+    "teacher": "Lamont, Larry"
   },
   {
     "section": "00004",
     "meeting": [
       {
-        "day": "M",
-        "time": "14:15-15:45",
-        "room": "G-102"
-      },
-      {
-        "day": "H",
-        "time": "11:15-12:45",
-        "room": "G-102"
+        "day": "TH",
+        "time": "16:15-18:15",
+        "room": "A-311"
       }
     ],
-    "name": "SCIENCE MODERNE",
-    "teacher": "Pagé, Sylvain"
+    "name": "STUFF OF NONSENSE",
+    "teacher": "Polak, Monique"
   },
   {
     "section": "00005",
     "meeting": [
       {
         "day": "TF",
-        "time": "09:45-11:15",
-        "room": "G-102"
+        "time": "10:15-12:15",
+        "room": "A-107"
       }
     ],
-    "name": "L'ABSURDE DANS LA LITTÉRATURE",
-    "teacher": "Savescu, Olivia"
+    "name": "SOUNDS OF MUSIC",
+    "teacher": "McKay, Cory"
   },
   {
     "section": "00006",
     "meeting": [
       {
-        "day": "TH",
-        "time": "14:15-15:45",
-        "room": "G-102"
+        "day": "MW",
+        "time": "08:15-10:15",
+        "room": "I-218"
       }
     ],
-    "name": "L'ABSURDE DANS LA LITTÉRATURE",
-    "teacher": "Savescu, Olivia"
+    "name": "TRUTH: PHOTOGRAPHY, DOCUMENTARY AND REALITY TV",
+    "teacher": "Liss, Selena"
   },
   {
     "section": "00007",
     "meeting": [
       {
-        "day": "M",
-        "time": "12:45-14:15",
-        "room": "G-102"
-      },
-      {
-        "day": "H",
-        "time": "09:45-11:15",
-        "room": "G-102"
+        "day": "TH",
+        "time": "14:15-16:15",
+        "room": "I-218"
       }
     ],
-    "name": "LITÉRATURE MIGRANTE",
-    "teacher": "Soucy, Lily"
+    "name": "TRUTH: PHOTOGRAPHY, DOCUMENTARY AND REALITY TV",
+    "teacher": "Liss, Selena"
   },
   {
     "section": "00008",
     "meeting": [
       {
-        "day": "MW",
-        "time": "09:45-11:15",
-        "room": "A-104"
+        "day": "M",
+        "time": "12:15-14:15",
+        "room": "A-109"
+      },
+      {
+        "day": "H",
+        "time": "08:15-10:15",
+        "room": "A-109"
       }
     ],
-    "name": "LITÉRATURE MIGRANTE",
-    "teacher": "Soucy, Lily"
+    "name": "KNOWLEDGE",
+    "teacher": "Waurechen, Sarah"
   },
   {
     "section": "00009",
     "meeting": [
       {
-        "day": "WF",
-        "time": "12:45-14:15",
-        "room": "D-414"
+        "day": "MW",
+        "time": "16:15-18:15",
+        "room": "I-218"
       }
     ],
-    "name": "LITÉRATURE MIGRANTE",
-    "teacher": "Soucy, Lily"
+    "name": "WHY ROME?",
+    "teacher": "Levine, Rachel"
+  },
+  {
+    "section": "00010",
+    "meeting": [
+      {
+        "day": "TH",
+        "time": "16:15-18:15",
+        "room": "I-216"
+      }
+    ],
+    "name": "WHY ROME?",
+    "teacher": "Levine, Rachel"
+  },
+  {
+    "section": "00011",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "10:15-12:15",
+        "room": "I-218"
+      }
+    ],
+    "name": "ARCHAEOLOGY: WHAT LIES BENEATH",
+    "teacher": "Levine, Rachel"
+  },
+  {
+    "section": "00001",
+    "meeting": [
+      {
+        "day": "TH",
+        "time": "16:15-17:45",
+        "room": "F-217"
+      }
+    ],
+    "name": "LISTEN TO THE MUSIC",
+    "teacher": "Berman, Nancy"
+  },
+  {
+    "section": "00002",
+    "meeting": [
+      {
+        "day": "WF",
+        "time": "14:15-15:45",
+        "room": "F-217"
+      }
+    ],
+    "name": "LISTEN TO THE MUSIC",
+    "teacher": "Berman, Nancy"
+  },
+  {
+    "section": "00003",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:45-14:15",
+        "room": "A-401"
+      },
+      {
+        "day": "H",
+        "time": "09:45-11:15",
+        "room": "A-401"
+      }
+    ],
+    "name": "ART AND CULTURE OF THE ANCIENT AMERICAS",
+    "teacher": "Cerrolaza, Elena"
+  },
+  {
+    "section": "00004",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:45-14:15",
+        "room": "I-218"
+      },
+      {
+        "day": "H",
+        "time": "09:45-11:15",
+        "room": "I-218"
+      }
+    ],
+    "name": "TATTOOS, TROPHIES, AND T-CELLS",
+    "teacher": "Richardson, Wendy"
+  },
+  {
+    "section": "00005",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "16:15-17:45",
+        "room": "I-216"
+      }
+    ],
+    "name": "MEN AND MASCULINITY",
+    "teacher": "Pettit, James"
   },
   {
     "section": "00006",
@@ -6867,210 +7074,221 @@
     "teacher": "Pettit, James"
   },
   {
-    "section": "00001",
-    "meeting": [
-      {
-        "day": "WF",
-        "time": "14:15-16:15",
-        "room": "D-205"
-      }
-    ],
-    "name": "GENDER BENDER",
-    "teacher": "Chew, Dolores"
-  },
-  {
-    "section": "00002",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "14:15-16:15",
-        "room": "A-361"
-      }
-    ],
-    "name": "ADOLESCENT EXPLORATIONS",
-    "teacher": "Richardson, Wendy"
-  },
-  {
-    "section": "00003",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "10:15-12:15",
-        "room": "A-319"
-      }
-    ],
-    "name": "MEDIEVAL KNOWLEDGE (Liberal Arts Only)",
-    "teacher": "Lamont, Larry"
-  },
-  {
-    "section": "00004",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "16:15-18:15",
-        "room": "A-311"
-      }
-    ],
-    "name": "STUFF OF NONSENSE",
-    "teacher": "Polak, Monique"
-  },
-  {
-    "section": "00005",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "10:15-12:15",
-        "room": "A-107"
-      }
-    ],
-    "name": "SOUNDS OF MUSIC",
-    "teacher": "McKay, Cory"
-  },
-  {
     "section": "00006",
     "meeting": [
       {
-        "day": "MW",
-        "time": "08:15-10:15",
-        "room": "I-218"
+        "day": "TH",
+        "time": "16:15-17:45",
+        "room": "D-409"
       }
     ],
-    "name": "TRUTH: PHOTOGRAPHY, DOCUMENTARY AND REALITY TV",
-    "teacher": "Liss, Selena"
+    "name": "ANCIENT GREEKS",
+    "teacher": "Skaperdas, Theodore"
   },
   {
     "section": "00007",
     "meeting": [
       {
         "day": "TH",
-        "time": "14:15-16:15",
-        "room": "I-218"
+        "time": "14:15-15:45",
+        "room": "D-409"
       }
     ],
-    "name": "TRUTH: PHOTOGRAPHY, DOCUMENTARY AND REALITY TV",
-    "teacher": "Liss, Selena"
+    "name": "ANCIENT GREEKS",
+    "teacher": "Skaperdas, Theodore"
   },
   {
     "section": "00008",
     "meeting": [
       {
-        "day": "M",
-        "time": "12:15-14:15",
-        "room": "A-109"
-      },
-      {
-        "day": "H",
-        "time": "08:15-10:15",
-        "room": "A-109"
+        "day": "TH",
+        "time": "14:15-15:45",
+        "room": "F-105"
       }
     ],
-    "name": "KNOWLEDGE",
-    "teacher": "Waurechen, Sarah"
+    "name": "STORIES AND STORYTELLING",
+    "teacher": "Willmer, Andrew"
   },
   {
     "section": "00009",
     "meeting": [
       {
         "day": "MW",
-        "time": "16:15-18:15",
-        "room": "I-218"
+        "time": "08:15-09:45",
+        "room": "A-311"
       }
     ],
-    "name": "WHY ROME?",
-    "teacher": "Levine, Rachel"
+    "name": "WORLD VIEWS",
+    "teacher": "Barbone, Patrizia"
   },
   {
     "section": "00010",
     "meeting": [
       {
-        "day": "TH",
-        "time": "16:15-18:15",
-        "room": "I-216"
+        "day": "WF",
+        "time": "14:15-15:45",
+        "room": "D-209"
       }
     ],
-    "name": "WHY ROME?",
-    "teacher": "Levine, Rachel"
+    "name": "WORLD VIEWS",
+    "teacher": "Waurechen, Sarah"
   },
   {
     "section": "00011",
     "meeting": [
       {
         "day": "TF",
-        "time": "10:15-12:15",
-        "room": "I-218"
+        "time": "11:15-12:45",
+        "room": "A-315"
       }
     ],
-    "name": "ARCHAEOLOGY: WHAT LIES BENEATH",
-    "teacher": "Levine, Rachel"
+    "name": "WORLD VIEWS",
+    "teacher": "Waurechen, Sarah"
+  },
+  {
+    "section": "00071",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:45-14:15",
+        "room": "A-311"
+      },
+      {
+        "day": "H",
+        "time": "09:45-11:15",
+        "room": "A-311"
+      }
+    ],
+    "name": "WAYS OF KNOWING",
+    "teacher": "Queen, James"
+  },
+  {
+    "section": "00071",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:45-14:15",
+        "room": "A-310"
+      },
+      {
+        "day": "H",
+        "time": "09:45-11:15",
+        "room": "A-310"
+      }
+    ],
+    "name": "JUST AND UNJUST WARS",
+    "teacher": "Dufour, Maurice"
   },
   {
     "section": "00001",
     "meeting": [
       {
-        "day": "TH",
-        "time": "16:15-17:45",
-        "room": "F-217"
+        "day": "WF",
+        "time": "14:15-15:45"
       }
     ],
-    "name": "LISTEN TO THE MUSIC",
-    "teacher": "Berman, Nancy"
+    "name": "ETHICS ON STAGEAUD",
+    "teacher": "Willmer, Andrew"
   },
   {
     "section": "00002",
     "meeting": [
       {
-        "day": "WF",
-        "time": "14:15-15:45",
-        "room": "F-217"
+        "day": "MW",
+        "time": "08:15-09:45",
+        "room": "A-401"
       }
     ],
-    "name": "LISTEN TO THE MUSIC",
-    "teacher": "Berman, Nancy"
+    "name": "DA VINCI CODE",
+    "teacher": "Cerrolaza, Elena"
   },
   {
     "section": "00003",
     "meeting": [
       {
-        "day": "M",
-        "time": "12:45-14:15",
-        "room": "A-401"
-      },
-      {
-        "day": "H",
-        "time": "09:45-11:15",
-        "room": "A-401"
+        "day": "TH",
+        "time": "14:15-15:45",
+        "room": "I-216"
       }
     ],
-    "name": "ART AND CULTURE OF THE ANCIENT AMERICAS",
+    "name": "DA VINCI CODE",
     "teacher": "Cerrolaza, Elena"
   },
   {
     "section": "00004",
     "meeting": [
       {
-        "day": "M",
-        "time": "12:45-14:15",
-        "room": "I-218"
-      },
-      {
-        "day": "H",
-        "time": "09:45-11:15",
+        "day": "TH",
+        "time": "16:15-17:45",
         "room": "I-218"
       }
     ],
-    "name": "TATTOOS, TROPHIES, AND T-CELLS",
-    "teacher": "Richardson, Wendy"
+    "name": "VIDEO GAMES",
+    "teacher": "McKay, Cory"
   },
   {
     "section": "00005",
     "meeting": [
       {
+        "day": "TH",
+        "time": "14:15-15:45",
+        "room": "A-310"
+      }
+    ],
+    "name": "JUST AND UNJUST WARS (Liberal Arts Only)",
+    "teacher": "Dufour, Maurice"
+  },
+  {
+    "section": "00006",
+    "meeting": [
+      {
         "day": "MW",
-        "time": "16:15-17:45",
+        "time": "08:15-09:45",
         "room": "I-216"
       }
     ],
-    "name": "MEN AND MASCULINITY",
+    "name": "ETHICS AND THE FAMILY",
+    "teacher": "Richardson, Wendy"
+  },
+  {
+    "section": "00007",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "11:15-12:45",
+        "room": "A-401"
+      }
+    ],
+    "name": "ETHICS AND THE FAMILY",
+    "teacher": "Richardson, Wendy"
+  },
+  {
+    "section": "00008",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:45-14:15",
+        "room": "I-214"
+      },
+      {
+        "day": "H",
+        "time": "09:45-11:15",
+        "room": "I-214"
+      }
+    ],
+    "name": "ETHICS AND SEXUALITY",
+    "teacher": "Pettit, James"
+  },
+  {
+    "section": "00009",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "11:15-12:45",
+        "room": "A-314"
+      }
+    ],
+    "name": "ETHICS AND SEXUALITY",
     "teacher": "Pettit, James"
   },
   {
@@ -7163,222 +7381,93 @@
     "teacher": "Koumouzelis, Angelique"
   },
   {
-    "section": "00006",
+    "section": "00010",
     "meeting": [
       {
-        "day": "TH",
+        "day": "MW",
         "time": "16:15-17:45",
         "room": "D-409"
       }
     ],
-    "name": "ANCIENT GREEKS",
+    "name": "ETHICS AND DEMOCRACY",
     "teacher": "Skaperdas, Theodore"
-  },
-  {
-    "section": "00007",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "14:15-15:45",
-        "room": "D-409"
-      }
-    ],
-    "name": "ANCIENT GREEKS",
-    "teacher": "Skaperdas, Theodore"
-  },
-  {
-    "section": "00008",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "14:15-15:45",
-        "room": "F-105"
-      }
-    ],
-    "name": "STORIES AND STORYTELLING",
-    "teacher": "Willmer, Andrew"
-  },
-  {
-    "section": "00009",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "08:15-09:45",
-        "room": "A-311"
-      }
-    ],
-    "name": "WORLD VIEWS",
-    "teacher": "Barbone, Patrizia"
-  },
-  {
-    "section": "00010",
-    "meeting": [
-      {
-        "day": "WF",
-        "time": "14:15-15:45",
-        "room": "D-209"
-      }
-    ],
-    "name": "WORLD VIEWS",
-    "teacher": "Waurechen, Sarah"
   },
   {
     "section": "00011",
     "meeting": [
       {
-        "day": "TF",
-        "time": "11:15-12:45",
-        "room": "A-315"
-      }
-    ],
-    "name": "WORLD VIEWS",
-    "teacher": "Waurechen, Sarah"
-  },
-  {
-    "section": "00071",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "12:45-14:15",
-        "room": "A-311"
-      },
-      {
-        "day": "H",
-        "time": "09:45-11:15",
-        "room": "A-311"
-      }
-    ],
-    "name": "WAYS OF KNOWING",
-    "teacher": "Queen, James"
-  },
-  {
-    "section": "00071",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "12:45-14:15",
-        "room": "A-310"
-      },
-      {
-        "day": "H",
-        "time": "09:45-11:15",
-        "room": "A-310"
-      }
-    ],
-    "name": "JUST AND UNJUST WARS",
-    "teacher": "Dufour, Maurice"
-  },
-  {
-    "section": "00001",
-    "meeting": [
-      {
         "day": "WF",
-        "time": "14:15-15:45"
-      }
-    ],
-    "name": "ETHICS ON STAGEAUD",
-    "teacher": "Willmer, Andrew"
-  },
-  {
-    "section": "00002",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "08:15-09:45",
-        "room": "A-401"
-      }
-    ],
-    "name": "DA VINCI CODE",
-    "teacher": "Cerrolaza, Elena"
-  },
-  {
-    "section": "00003",
-    "meeting": [
-      {
-        "day": "TH",
         "time": "14:15-15:45",
-        "room": "I-216"
+        "room": "D-409"
       }
     ],
-    "name": "DA VINCI CODE",
-    "teacher": "Cerrolaza, Elena"
+    "name": "ETHICS AND DEMOCRACY",
+    "teacher": "Skaperdas, Theodore"
   },
   {
-    "section": "00004",
+    "section": "00012",
     "meeting": [
       {
         "day": "TH",
         "time": "16:15-17:45",
-        "room": "I-218"
+        "room": "D-120B"
       }
     ],
-    "name": "VIDEO GAMES",
-    "teacher": "McKay, Cory"
+    "name": "ETHICS ON STAGE",
+    "teacher": "Willmer, Andrew"
   },
   {
-    "section": "00005",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "14:15-15:45",
-        "room": "A-310"
-      }
-    ],
-    "name": "JUST AND UNJUST WARS (Liberal Arts Only)",
-    "teacher": "Dufour, Maurice"
-  },
-  {
-    "section": "00006",
+    "section": "00013",
     "meeting": [
       {
         "day": "MW",
-        "time": "08:15-09:45",
-        "room": "I-216"
+        "time": "16:15-17:45",
+        "room": "A-310"
       }
     ],
-    "name": "ETHICS AND THE FAMILY",
-    "teacher": "Richardson, Wendy"
+    "name": "BIBLICAL SEX",
+    "teacher": "Koumouzelis, Angelique"
   },
   {
-    "section": "00007",
+    "section": "00014",
     "meeting": [
       {
-        "day": "TF",
-        "time": "11:15-12:45",
-        "room": "A-401"
+        "day": "WF",
+        "time": "14:15-15:45",
+        "room": "A-314"
       }
     ],
-    "name": "ETHICS AND THE FAMILY",
-    "teacher": "Richardson, Wendy"
+    "name": "ETHICAL ISSUES",
+    "teacher": "Barbone, Patrizia"
   },
   {
-    "section": "00008",
+    "section": "00015",
     "meeting": [
       {
         "day": "M",
         "time": "12:45-14:15",
-        "room": "I-214"
+        "room": "I-216"
       },
       {
         "day": "H",
         "time": "09:45-11:15",
-        "room": "I-214"
+        "room": "I-216"
       }
     ],
-    "name": "ETHICS AND SEXUALITY",
-    "teacher": "Pettit, James"
+    "name": "MUSIC AND ETHICS",
+    "teacher": "Cawker, Hugh"
   },
   {
-    "section": "00009",
+    "section": "00016",
     "meeting": [
       {
-        "day": "TF",
-        "time": "11:15-12:45",
+        "day": "TH",
+        "time": "16:15-17:45",
         "room": "A-314"
       }
     ],
-    "name": "ETHICS AND SEXUALITY",
-    "teacher": "Pettit, James"
+    "name": "BIBLICAL SEX",
+    "teacher": "Koumouzelis, Angelique"
   },
   {
     "section": "00001",
@@ -7573,93 +7662,196 @@
     "teacher": "Dafniotis, Zoe"
   },
   {
+    "section": "00001",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "08:15-10:15",
+        "room": "F-204"
+      }
+    ],
+    "name": "Fitness/Yoga",
+    "teacher": "Scrase, Julia"
+  },
+  {
+    "section": "00002",
+    "meeting": [
+      {
+        "day": "W",
+        "time": "14:15-16:15",
+        "room": "F-204"
+      }
+    ],
+    "name": "Fitness/Yoga",
+    "teacher": "TBAPHE3, Marianopolis"
+  },
+  {
+    "section": "00003",
+    "meeting": [
+      {
+        "day": "H",
+        "time": "16:15-18:15",
+        "room": "F-204"
+      }
+    ],
+    "name": "Fitness/Aerobics",
+    "teacher": "McDonald, Shelly"
+  },
+  {
+    "section": "00004",
+    "meeting": [
+      {
+        "day": "W",
+        "time": "10:15-12:15",
+        "room": "F-204"
+      }
+    ],
+    "name": "Fitness/Zumba",
+    "teacher": "Scrase, Julia"
+  },
+  {
+    "section": "00005",
+    "meeting": [
+      {
+        "day": "F",
+        "time": "10:15-12:15",
+        "room": "F-204"
+      }
+    ],
+    "name": "Fitness/Zumba",
+    "teacher": "Scrase, Julia"
+  },
+  {
+    "section": "00006",
+    "meeting": [
+      {
+        "day": "H",
+        "time": "08:15-10:15",
+        "room": "I-107"
+      }
+    ],
+    "name": "Fitness",
+    "teacher": "Vachon-Gee, Alexandre"
+  },
+  {
+    "section": "00007",
+    "meeting": [
+      {
+        "day": "F",
+        "time": "08:15-10:15",
+        "room": "I-107"
+      }
+    ],
+    "name": "Fitness",
+    "teacher": "Vachon-Gee, Alexandre"
+  },
+  {
+    "section": "00008",
+    "meeting": [
+      {
+        "day": "F",
+        "time": "12:15-14:15",
+        "room": "I-107"
+      }
+    ],
+    "name": "Fitness",
+    "teacher": "TBAPHE3, Marianopolis"
+  },
+  {
+    "section": "00009",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "10:15-12:15",
+        "room": "I-107"
+      }
+    ],
+    "name": "Fitness",
+    "teacher": "TBAPHE3, Marianopolis"
+  },
+  {
     "section": "00010",
     "meeting": [
       {
-        "day": "MW",
-        "time": "16:15-17:45",
-        "room": "D-409"
+        "day": "T",
+        "time": "16:15-18:15",
+        "room": "I-107"
       }
     ],
-    "name": "ETHICS AND DEMOCRACY",
-    "teacher": "Skaperdas, Theodore"
+    "name": "Fitness",
+    "teacher": "Jeannet, Anne"
   },
   {
     "section": "00011",
     "meeting": [
       {
-        "day": "WF",
-        "time": "14:15-15:45",
-        "room": "D-409"
+        "day": "W",
+        "time": "12:15-14:15",
+        "room": "I-107"
       }
     ],
-    "name": "ETHICS AND DEMOCRACY",
-    "teacher": "Skaperdas, Theodore"
+    "name": "Fitness",
+    "teacher": "Jeannet, Anne"
   },
   {
     "section": "00012",
     "meeting": [
       {
-        "day": "TH",
-        "time": "16:15-17:45",
-        "room": "D-120B"
+        "day": "W",
+        "time": "16:15-18:15",
+        "room": "F-204"
       }
     ],
-    "name": "ETHICS ON STAGE",
-    "teacher": "Willmer, Andrew"
+    "name": "Fitness",
+    "teacher": "Jeannet, Anne"
   },
   {
     "section": "00013",
     "meeting": [
       {
-        "day": "MW",
-        "time": "16:15-17:45",
-        "room": "A-310"
+        "day": "W",
+        "time": "08:15-10:15",
+        "room": "I-107"
       }
     ],
-    "name": "BIBLICAL SEX",
-    "teacher": "Koumouzelis, Angelique"
+    "name": "Fitness",
+    "teacher": "Perron, Josee"
   },
   {
     "section": "00014",
     "meeting": [
       {
-        "day": "WF",
-        "time": "14:15-15:45",
-        "room": "A-314"
+        "day": "M",
+        "time": "14:15-16:15",
+        "room": "I-107"
       }
     ],
-    "name": "ETHICAL ISSUES",
-    "teacher": "Barbone, Patrizia"
+    "name": "Fitness",
+    "teacher": "Dafniotis, Zoe"
   },
   {
     "section": "00015",
     "meeting": [
       {
-        "day": "M",
-        "time": "12:45-14:15",
-        "room": "I-216"
-      },
-      {
-        "day": "H",
-        "time": "09:45-11:15",
-        "room": "I-216"
+        "day": "T",
+        "time": "08:15-10:15",
+        "room": "F-204"
       }
     ],
-    "name": "MUSIC AND ETHICS",
-    "teacher": "Cawker, Hugh"
+    "name": "Fitness",
+    "teacher": "Dafniotis, Zoe"
   },
   {
     "section": "00016",
     "meeting": [
       {
-        "day": "TH",
-        "time": "16:15-17:45",
-        "room": "A-314"
+        "day": "H",
+        "time": "10:15-12:15",
+        "room": "I-107"
       }
     ],
-    "name": "BIBLICAL SEX",
-    "teacher": "Koumouzelis, Angelique"
+    "name": "Fitness",
+    "teacher": "Dafniotis, Zoe"
   },
   {
     "section": "00017",
@@ -7860,196 +8052,202 @@
     "teacher": "Perron, Josee"
   },
   {
+    "section": "00017",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:15-14:15",
+        "room": "I-107"
+      }
+    ],
+    "name": "Fitness",
+    "teacher": "Epstein, Neall"
+  },
+  {
+    "section": "00018",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "16:15-18:15"
+      }
+    ],
+    "name": "Fitness GamesGYM",
+    "teacher": "Epstein, Neall"
+  },
+  {
+    "section": "00019",
+    "meeting": [
+      {
+        "day": "T",
+        "time": "14:15-16:15",
+        "room": "I-107"
+      }
+    ],
+    "name": "Fitness",
+    "teacher": "Epstein, Neall"
+  },
+  {
+    "section": "00020",
+    "meeting": [
+      {
+        "day": "T",
+        "time": "10:15-12:15",
+        "room": "F-204"
+      }
+    ],
+    "name": "Fitness",
+    "teacher": "TBAPHE3, Marianopolis"
+  },
+  {
     "section": "00001",
     "meeting": [
       {
         "day": "M",
-        "time": "08:15-10:15",
-        "room": "F-204"
+        "time": "18:15-20:15",
+        "room": "F-105"
       }
     ],
-    "name": "Fitness/Yoga",
-    "teacher": "Scrase, Julia"
+    "name": "Cross Country Skiing",
+    "teacher": "Giacomin, Monica"
   },
   {
     "section": "00002",
     "meeting": [
       {
-        "day": "W",
-        "time": "14:15-16:15",
-        "room": "F-204"
+        "day": "M",
+        "time": "18:15-20:15",
+        "room": "F-105"
       }
     ],
-    "name": "Fitness/Yoga",
-    "teacher": "TBAPHE3, Marianopolis"
+    "name": "Cross Country Skiing",
+    "teacher": "Perron, Josee"
   },
   {
     "section": "00003",
     "meeting": [
       {
         "day": "H",
-        "time": "16:15-18:15",
-        "room": "F-204"
+        "time": "18:15-20:15",
+        "room": "F-105"
       }
     ],
-    "name": "Fitness/Aerobics",
-    "teacher": "McDonald, Shelly"
+    "name": "Intro Outdoor Ed.",
+    "teacher": "Giacomin, Monica"
   },
   {
     "section": "00004",
     "meeting": [
       {
-        "day": "W",
-        "time": "10:15-12:15",
-        "room": "F-204"
+        "day": "H",
+        "time": "18:15-20:15",
+        "room": "F-105"
       }
     ],
-    "name": "Fitness/Zumba",
-    "teacher": "Scrase, Julia"
+    "name": "Intro Outdoor Ed.",
+    "teacher": "TBAPHE3, Marianopolis"
   },
   {
     "section": "00005",
     "meeting": [
       {
-        "day": "F",
-        "time": "10:15-12:15",
+        "day": "M",
+        "time": "14:15-16:15",
         "room": "F-204"
       }
     ],
-    "name": "Fitness/Zumba",
-    "teacher": "Scrase, Julia"
+    "name": "Yoga",
+    "teacher": "McDonald, Shelly"
   },
   {
     "section": "00006",
     "meeting": [
       {
-        "day": "H",
-        "time": "08:15-10:15",
-        "room": "I-107"
+        "day": "M",
+        "time": "16:15-18:15",
+        "room": "F-204"
       }
     ],
-    "name": "Fitness",
-    "teacher": "Vachon-Gee, Alexandre"
+    "name": "Yoga",
+    "teacher": "McDonald, Shelly"
   },
   {
     "section": "00007",
     "meeting": [
       {
-        "day": "F",
-        "time": "08:15-10:15",
-        "room": "I-107"
+        "day": "W",
+        "time": "12:15-14:15",
+        "room": "F-204"
       }
     ],
-    "name": "Fitness",
-    "teacher": "Vachon-Gee, Alexandre"
+    "name": "Dance",
+    "teacher": "Dafniotis, Zoe"
   },
   {
     "section": "00008",
     "meeting": [
       {
-        "day": "F",
-        "time": "12:15-14:15",
-        "room": "I-107"
+        "day": "H",
+        "time": "08:15-10:15",
+        "room": "F-204"
       }
     ],
-    "name": "Fitness",
-    "teacher": "TBAPHE3, Marianopolis"
+    "name": "Dance",
+    "teacher": "Dafniotis, Zoe"
   },
   {
     "section": "00009",
     "meeting": [
       {
         "day": "M",
-        "time": "10:15-12:15",
-        "room": "I-107"
+        "time": "10:15-12:15"
       }
     ],
-    "name": "Fitness",
-    "teacher": "TBAPHE3, Marianopolis"
+    "name": "BadmintonGYM",
+    "teacher": "Vachon-Gee, Alexandre"
   },
   {
     "section": "00010",
     "meeting": [
       {
         "day": "T",
-        "time": "16:15-18:15",
-        "room": "I-107"
+        "time": "10:15-12:15"
       }
     ],
-    "name": "Fitness",
-    "teacher": "Jeannet, Anne"
+    "name": "BadmintonGYM",
+    "teacher": "Vachon-Gee, Alexandre"
   },
   {
     "section": "00011",
     "meeting": [
       {
-        "day": "W",
-        "time": "12:15-14:15",
-        "room": "I-107"
+        "day": "T",
+        "time": "14:15-16:15"
       }
     ],
-    "name": "Fitness",
-    "teacher": "Jeannet, Anne"
+    "name": "BadmintonGYM",
+    "teacher": "Vachon-Gee, Alexandre"
   },
   {
     "section": "00012",
     "meeting": [
       {
-        "day": "W",
-        "time": "16:15-18:15",
-        "room": "F-204"
+        "day": "H",
+        "time": "10:15-12:15"
       }
     ],
-    "name": "Fitness",
-    "teacher": "Jeannet, Anne"
+    "name": "BadmintonGYM",
+    "teacher": "Vachon-Gee, Alexandre"
   },
   {
     "section": "00013",
     "meeting": [
       {
         "day": "W",
-        "time": "08:15-10:15",
-        "room": "I-107"
+        "time": "10:15-12:15"
       }
     ],
-    "name": "Fitness",
+    "name": "BadmintonGYM",
     "teacher": "Perron, Josee"
-  },
-  {
-    "section": "00014",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "14:15-16:15",
-        "room": "I-107"
-      }
-    ],
-    "name": "Fitness",
-    "teacher": "Dafniotis, Zoe"
-  },
-  {
-    "section": "00015",
-    "meeting": [
-      {
-        "day": "T",
-        "time": "08:15-10:15",
-        "room": "F-204"
-      }
-    ],
-    "name": "Fitness",
-    "teacher": "Dafniotis, Zoe"
-  },
-  {
-    "section": "00016",
-    "meeting": [
-      {
-        "day": "H",
-        "time": "10:15-12:15",
-        "room": "I-107"
-      }
-    ],
-    "name": "Fitness",
-    "teacher": "Dafniotis, Zoe"
   },
   {
     "section": "00014",
@@ -8235,202 +8433,187 @@
     "teacher": "McDonald, Shelly"
   },
   {
+    "section": "00014",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:15-14:15"
+      }
+    ],
+    "name": "SoccerGYM",
+    "teacher": "Scrase, Julia"
+  },
+  {
+    "section": "00015",
+    "meeting": [
+      {
+        "day": "W",
+        "time": "08:15-10:15"
+      }
+    ],
+    "name": "SoccerGYM",
+    "teacher": "Scrase, Julia"
+  },
+  {
+    "section": "00016",
+    "meeting": [
+      {
+        "day": "H",
+        "time": "14:15-16:15"
+      }
+    ],
+    "name": "SoccerGYM",
+    "teacher": "Scrase, Julia"
+  },
+  {
     "section": "00017",
     "meeting": [
       {
         "day": "M",
-        "time": "12:15-14:15",
-        "room": "I-107"
+        "time": "08:15-10:15"
       }
     ],
-    "name": "Fitness",
-    "teacher": "Epstein, Neall"
+    "name": "BasketballGYM",
+    "teacher": "TBAPHE3, Marianopolis"
   },
   {
     "section": "00018",
     "meeting": [
       {
-        "day": "M",
-        "time": "16:15-18:15"
+        "day": "F",
+        "time": "08:15-10:15"
       }
     ],
-    "name": "Fitness GamesGYM",
-    "teacher": "Epstein, Neall"
+    "name": "BasketballGYM",
+    "teacher": "TBAPHE3, Marianopolis"
   },
   {
     "section": "00019",
     "meeting": [
       {
-        "day": "T",
-        "time": "14:15-16:15",
-        "room": "I-107"
+        "day": "W",
+        "time": "16:15-18:15"
       }
     ],
-    "name": "Fitness",
+    "name": "VolleyballGYM",
     "teacher": "Epstein, Neall"
   },
   {
     "section": "00020",
     "meeting": [
       {
-        "day": "T",
-        "time": "10:15-12:15",
-        "room": "F-204"
+        "day": "W",
+        "time": "14:15-16:15"
       }
     ],
-    "name": "Fitness",
-    "teacher": "TBAPHE3, Marianopolis"
+    "name": "Floor HockeyGYM",
+    "teacher": "Epstein, Neall"
+  },
+  {
+    "section": "00021",
+    "meeting": [
+      {
+        "day": "T",
+        "time": "16:15-18:15"
+      }
+    ],
+    "name": "Ultimate FrisbeeGYM",
+    "teacher": "Epstein, Neall"
+  },
+  {
+    "section": "00022",
+    "meeting": [
+      {
+        "day": "F",
+        "time": "10:15-12:15"
+      }
+    ],
+    "name": "Ultimate FrisbeeGYM",
+    "teacher": "Epstein, Neall"
+  },
+  {
+    "section": "00023",
+    "meeting": [
+      {
+        "day": "H",
+        "time": "16:15-18:15",
+        "room": "F-105"
+      }
+    ],
+    "name": "Pilates",
+    "teacher": "Reichert, Alison"
+  },
+  {
+    "section": "00024",
+    "meeting": [
+      {
+        "day": "F",
+        "time": "14:15-16:15",
+        "room": "F-105"
+      }
+    ],
+    "name": "Pilates",
+    "teacher": "Reichert, Alison"
+  },
+  {
+    "section": "00025",
+    "meeting": [
+      {
+        "day": "W",
+        "time": "10:15-12:15",
+        "room": "F-105"
+      }
+    ],
+    "name": "Martial Arts",
+    "teacher": "TBAPHE4, Marianopolis"
+  },
+  {
+    "section": "00026",
+    "meeting": [
+      {
+        "day": "W",
+        "time": "12:15-14:15",
+        "room": "F-105"
+      }
+    ],
+    "name": "Martial Arts",
+    "teacher": "TBAPHE4, Marianopolis"
   },
   {
     "section": "00001",
     "meeting": [
       {
-        "day": "M",
-        "time": "18:15-20:15",
-        "room": "F-105"
+        "day": "F",
+        "time": "08:15-10:15",
+        "room": "F-204"
       }
     ],
-    "name": "Cross Country Skiing",
-    "teacher": "Giacomin, Monica"
+    "name": "Yoga",
+    "teacher": "TBAPHE4, Marianopolis"
   },
   {
     "section": "00002",
     "meeting": [
       {
-        "day": "M",
-        "time": "18:15-20:15",
-        "room": "F-105"
+        "day": "T",
+        "time": "16:15-18:15",
+        "room": "F-204"
       }
     ],
-    "name": "Cross Country Skiing",
-    "teacher": "Perron, Josee"
+    "name": "Sports Conditioning",
+    "teacher": "McDonald, Shelly"
   },
   {
     "section": "00003",
     "meeting": [
       {
-        "day": "H",
-        "time": "18:15-20:15",
-        "room": "F-105"
-      }
-    ],
-    "name": "Intro Outdoor Ed.",
-    "teacher": "Giacomin, Monica"
-  },
-  {
-    "section": "00004",
-    "meeting": [
-      {
-        "day": "H",
-        "time": "18:15-20:15",
-        "room": "F-105"
-      }
-    ],
-    "name": "Intro Outdoor Ed.",
-    "teacher": "TBAPHE3, Marianopolis"
-  },
-  {
-    "section": "00005",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "14:15-16:15",
-        "room": "F-204"
-      }
-    ],
-    "name": "Yoga",
-    "teacher": "McDonald, Shelly"
-  },
-  {
-    "section": "00006",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "16:15-18:15",
-        "room": "F-204"
-      }
-    ],
-    "name": "Yoga",
-    "teacher": "McDonald, Shelly"
-  },
-  {
-    "section": "00007",
-    "meeting": [
-      {
         "day": "W",
-        "time": "12:15-14:15",
-        "room": "F-204"
+        "time": "10:15-12:15",
+        "room": "I-107"
       }
     ],
-    "name": "Dance",
-    "teacher": "Dafniotis, Zoe"
-  },
-  {
-    "section": "00008",
-    "meeting": [
-      {
-        "day": "H",
-        "time": "08:15-10:15",
-        "room": "F-204"
-      }
-    ],
-    "name": "Dance",
-    "teacher": "Dafniotis, Zoe"
-  },
-  {
-    "section": "00009",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "10:15-12:15"
-      }
-    ],
-    "name": "BadmintonGYM",
-    "teacher": "Vachon-Gee, Alexandre"
-  },
-  {
-    "section": "00010",
-    "meeting": [
-      {
-        "day": "T",
-        "time": "10:15-12:15"
-      }
-    ],
-    "name": "BadmintonGYM",
-    "teacher": "Vachon-Gee, Alexandre"
-  },
-  {
-    "section": "00011",
-    "meeting": [
-      {
-        "day": "T",
-        "time": "14:15-16:15"
-      }
-    ],
-    "name": "BadmintonGYM",
-    "teacher": "Vachon-Gee, Alexandre"
-  },
-  {
-    "section": "00012",
-    "meeting": [
-      {
-        "day": "H",
-        "time": "10:15-12:15"
-      }
-    ],
-    "name": "BadmintonGYM",
-    "teacher": "Vachon-Gee, Alexandre"
-  },
-  {
-    "section": "00013",
-    "meeting": [
-      {
-        "day": "W",
-        "time": "10:15-12:15"
-      }
-    ],
-    "name": "BadmintonGYM",
-    "teacher": "Perron, Josee"
+    "name": "Weight Training",
+    "teacher": "McDonald, Shelly"
   },
   {
     "section": "00004",
@@ -8607,187 +8790,178 @@
     "teacher": "Epstein, Neall"
   },
   {
-    "section": "00014",
+    "section": "00004",
+    "meeting": [
+      {
+        "day": "W",
+        "time": "14:15-16:15",
+        "room": "I-107"
+      }
+    ],
+    "name": "Weight Training",
+    "teacher": "McDonald, Shelly"
+  },
+  {
+    "section": "00005",
     "meeting": [
       {
         "day": "M",
-        "time": "12:15-14:15"
+        "time": "08:15-10:15",
+        "room": "I-107"
       }
     ],
-    "name": "SoccerGYM",
-    "teacher": "Scrase, Julia"
+    "name": "Weight Training",
+    "teacher": "Vachon-Gee, Alexandre"
+  },
+  {
+    "section": "00006",
+    "meeting": [
+      {
+        "day": "F",
+        "time": "10:15-12:15",
+        "room": "I-107"
+      }
+    ],
+    "name": "Weight Training",
+    "teacher": "Vachon-Gee, Alexandre"
+  },
+  {
+    "section": "00007",
+    "meeting": [
+      {
+        "day": "W",
+        "time": "08:15-10:15",
+        "room": "F-204"
+      }
+    ],
+    "name": "Cardio Dance",
+    "teacher": "Dafniotis, Zoe"
+  },
+  {
+    "section": "00008",
+    "meeting": [
+      {
+        "day": "H",
+        "time": "10:15-12:15",
+        "room": "F-204"
+      }
+    ],
+    "name": "Nature Hikes",
+    "teacher": "Jeannet, Anne"
+  },
+  {
+    "section": "00009",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "10:15-12:15",
+        "room": "F-204"
+      }
+    ],
+    "name": "Stress Management",
+    "teacher": "Jeannet, Anne"
+  },
+  {
+    "section": "00010",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:15-14:15",
+        "room": "F-204"
+      }
+    ],
+    "name": "Stress Management",
+    "teacher": "Jeannet, Anne"
+  },
+  {
+    "section": "00011",
+    "meeting": [
+      {
+        "day": "T",
+        "time": "14:15-16:15",
+        "room": "F-204"
+      }
+    ],
+    "name": "Stress Management",
+    "teacher": "Jeannet, Anne"
+  },
+  {
+    "section": "00012",
+    "meeting": [
+      {
+        "day": "H",
+        "time": "14:15-16:15",
+        "room": "F-204"
+      }
+    ],
+    "name": "Stress Management",
+    "teacher": "Jeannet, Anne"
+  },
+  {
+    "section": "00013",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "14:15-16:15"
+      }
+    ],
+    "name": "BadmintonGYM",
+    "teacher": "Perron, Josee"
+  },
+  {
+    "section": "00014",
+    "meeting": [
+      {
+        "day": "H",
+        "time": "08:15-10:15"
+      }
+    ],
+    "name": "BadmintonGYM",
+    "teacher": "Perron, Josee"
   },
   {
     "section": "00015",
     "meeting": [
       {
-        "day": "W",
+        "day": "T",
         "time": "08:15-10:15"
       }
     ],
-    "name": "SoccerGYM",
-    "teacher": "Scrase, Julia"
+    "name": "Team SportsGYM",
+    "teacher": "TBAPHE3, Marianopolis"
   },
   {
     "section": "00016",
     "meeting": [
       {
-        "day": "H",
-        "time": "14:15-16:15"
+        "day": "W",
+        "time": "12:15-14:15"
       }
     ],
-    "name": "SoccerGYM",
-    "teacher": "Scrase, Julia"
+    "name": "Team SportsGYM",
+    "teacher": "TBAPHE3, Marianopolis"
   },
   {
     "section": "00017",
     "meeting": [
       {
-        "day": "M",
-        "time": "08:15-10:15"
+        "day": "H",
+        "time": "16:15-18:15"
       }
     ],
-    "name": "BasketballGYM",
-    "teacher": "TBAPHE3, Marianopolis"
+    "name": "SoccerGYM",
+    "teacher": "Scrase, Julia"
   },
   {
     "section": "00018",
     "meeting": [
       {
         "day": "F",
-        "time": "08:15-10:15"
+        "time": "12:15-14:15"
       }
     ],
     "name": "BasketballGYM",
-    "teacher": "TBAPHE3, Marianopolis"
-  },
-  {
-    "section": "00019",
-    "meeting": [
-      {
-        "day": "W",
-        "time": "16:15-18:15"
-      }
-    ],
-    "name": "VolleyballGYM",
     "teacher": "Epstein, Neall"
-  },
-  {
-    "section": "00020",
-    "meeting": [
-      {
-        "day": "W",
-        "time": "14:15-16:15"
-      }
-    ],
-    "name": "Floor HockeyGYM",
-    "teacher": "Epstein, Neall"
-  },
-  {
-    "section": "00021",
-    "meeting": [
-      {
-        "day": "T",
-        "time": "16:15-18:15"
-      }
-    ],
-    "name": "Ultimate FrisbeeGYM",
-    "teacher": "Epstein, Neall"
-  },
-  {
-    "section": "00022",
-    "meeting": [
-      {
-        "day": "F",
-        "time": "10:15-12:15"
-      }
-    ],
-    "name": "Ultimate FrisbeeGYM",
-    "teacher": "Epstein, Neall"
-  },
-  {
-    "section": "00023",
-    "meeting": [
-      {
-        "day": "H",
-        "time": "16:15-18:15",
-        "room": "F-105"
-      }
-    ],
-    "name": "Pilates",
-    "teacher": "Reichert, Alison"
-  },
-  {
-    "section": "00024",
-    "meeting": [
-      {
-        "day": "F",
-        "time": "14:15-16:15",
-        "room": "F-105"
-      }
-    ],
-    "name": "Pilates",
-    "teacher": "Reichert, Alison"
-  },
-  {
-    "section": "00025",
-    "meeting": [
-      {
-        "day": "W",
-        "time": "10:15-12:15",
-        "room": "F-105"
-      }
-    ],
-    "name": "Martial Arts",
-    "teacher": "TBAPHE4, Marianopolis"
-  },
-  {
-    "section": "00026",
-    "meeting": [
-      {
-        "day": "W",
-        "time": "12:15-14:15",
-        "room": "F-105"
-      }
-    ],
-    "name": "Martial Arts",
-    "teacher": "TBAPHE4, Marianopolis"
-  },
-  {
-    "section": "00001",
-    "meeting": [
-      {
-        "day": "F",
-        "time": "08:15-10:15",
-        "room": "F-204"
-      }
-    ],
-    "name": "Yoga",
-    "teacher": "TBAPHE4, Marianopolis"
-  },
-  {
-    "section": "00002",
-    "meeting": [
-      {
-        "day": "T",
-        "time": "16:15-18:15",
-        "room": "F-204"
-      }
-    ],
-    "name": "Sports Conditioning",
-    "teacher": "McDonald, Shelly"
-  },
-  {
-    "section": "00003",
-    "meeting": [
-      {
-        "day": "W",
-        "time": "10:15-12:15",
-        "room": "I-107"
-      }
-    ],
-    "name": "Weight Training",
-    "teacher": "McDonald, Shelly"
   },
   {
     "section": "00001",
@@ -9008,178 +9182,222 @@
     "teacher": "Heron, Lillian"
   },
   {
-    "section": "00004",
+    "section": "00001",
+    "meeting": [
+      {
+        "day": "WF",
+        "time": "12:45-14:15",
+        "room": "A-401"
+      }
+    ],
+    "name": "MEDIEVAL-RENAISSANCE ART",
+    "teacher": "Cerrolaza, Elena"
+  },
+  {
+    "section": "00002",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "09:45-11:15",
+        "room": "A-401"
+      }
+    ],
+    "name": "MEDIEVAL-RENAISSANCE ART",
+    "teacher": "Spriggs, Megan"
+  },
+  {
+    "section": "00001",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "16:15-17:45",
+        "room": "A-401"
+      }
+    ],
+    "name": "20TH CENTURY ART",
+    "teacher": "Spriggs, Megan"
+  },
+  {
+    "section": "00001",
+    "code": "ART-LAA",
+    "meeting": [
+      {
+        "day": "T",
+        "time": "08:15-11:15",
+        "room": "A-404"
+      }
+    ],
+    "name": "INTRO TO STUDIO ART",
+    "teacher": "Brandl, Eva"
+  },
+  {
+    "section": "00002",
+    "code": "ART-LAA",
     "meeting": [
       {
         "day": "W",
-        "time": "14:15-16:15",
-        "room": "I-107"
+        "time": "11:15-14:15",
+        "room": "A-404"
       }
     ],
-    "name": "Weight Training",
-    "teacher": "McDonald, Shelly"
+    "name": "INTRO TO STUDIO ART",
+    "teacher": "Wong, Mary"
+  },
+  {
+    "section": "00003",
+    "code": "ART-LAA",
+    "meeting": [
+      {
+        "day": "F",
+        "time": "08:15-11:15",
+        "room": "A-404"
+      }
+    ],
+    "name": "PAINTING",
+    "teacher": "Liss, Selena"
+  },
+  {
+    "section": "00004",
+    "code": "ART-LAA",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "11:15-12:45",
+        "room": "I-414"
+      }
+    ],
+    "name": "DIGITAL ART",
+    "teacher": "Liss, Selena"
   },
   {
     "section": "00005",
+    "code": "ART-LAA",
     "meeting": [
       {
-        "day": "M",
-        "time": "08:15-10:15",
-        "room": "I-107"
+        "day": "H",
+        "time": "08:15-11:15",
+        "room": "A-404"
       }
     ],
-    "name": "Weight Training",
-    "teacher": "Vachon-Gee, Alexandre"
+    "name": "ASPECTS OF NARRATIVE",
+    "teacher": "Brandl, Eva"
   },
   {
-    "section": "00006",
-    "meeting": [
-      {
-        "day": "F",
-        "time": "10:15-12:15",
-        "room": "I-107"
-      }
-    ],
-    "name": "Weight Training",
-    "teacher": "Vachon-Gee, Alexandre"
-  },
-  {
-    "section": "00007",
+    "section": "00001",
+    "code": "CIN-LAA",
     "meeting": [
       {
         "day": "W",
-        "time": "08:15-10:15",
-        "room": "F-204"
+        "time": "14:15-17:15",
+        "room": "D-120B"
       }
     ],
-    "name": "Cardio Dance",
-    "teacher": "Dafniotis, Zoe"
+    "name": "HISTORY OF CINEMA",
+    "teacher": "Hays, Matthew"
   },
   {
-    "section": "00008",
-    "meeting": [
-      {
-        "day": "H",
-        "time": "10:15-12:15",
-        "room": "F-204"
-      }
-    ],
-    "name": "Nature Hikes",
-    "teacher": "Jeannet, Anne"
-  },
-  {
-    "section": "00009",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "10:15-12:15",
-        "room": "F-204"
-      }
-    ],
-    "name": "Stress Management",
-    "teacher": "Jeannet, Anne"
-  },
-  {
-    "section": "00010",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "12:15-14:15",
-        "room": "F-204"
-      }
-    ],
-    "name": "Stress Management",
-    "teacher": "Jeannet, Anne"
-  },
-  {
-    "section": "00011",
+    "section": "00001",
+    "code": "CIN-LBA",
     "meeting": [
       {
         "day": "T",
-        "time": "14:15-16:15",
-        "room": "F-204"
+        "time": "09:45-12:45",
+        "room": "D-120B"
       }
     ],
-    "name": "Stress Management",
-    "teacher": "Jeannet, Anne"
+    "name": "LANGUAGE OF FILM",
+    "teacher": "Hays, Matthew"
   },
   {
-    "section": "00012",
-    "meeting": [
-      {
-        "day": "H",
-        "time": "14:15-16:15",
-        "room": "F-204"
-      }
-    ],
-    "name": "Stress Management",
-    "teacher": "Jeannet, Anne"
-  },
-  {
-    "section": "00013",
+    "section": "00001",
+    "code": "GER-LAL",
     "meeting": [
       {
         "day": "M",
-        "time": "14:15-16:15"
-      }
-    ],
-    "name": "BadmintonGYM",
-    "teacher": "Perron, Josee"
-  },
-  {
-    "section": "00014",
-    "meeting": [
+        "time": "14:15-15:45",
+        "room": "D-320"
+      },
       {
         "day": "H",
-        "time": "08:15-10:15"
+        "time": "11:15-12:45",
+        "room": "D-320"
       }
     ],
-    "name": "BadmintonGYM",
-    "teacher": "Perron, Josee"
+    "name": "GERMAN I",
+    "teacher": "Levasseur, Isabelle"
   },
   {
-    "section": "00015",
+    "section": "00002",
+    "code": "GER-LAL",
     "meeting": [
       {
-        "day": "T",
-        "time": "08:15-10:15"
+        "day": "TF",
+        "time": "08:15-09:45",
+        "room": "F-306"
       }
     ],
-    "name": "Team SportsGYM",
-    "teacher": "TBAPHE3, Marianopolis"
+    "name": "GERMAN I",
+    "teacher": "Levasseur, Isabelle"
   },
   {
-    "section": "00016",
+    "section": "00003",
+    "code": "GER-LAL",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "11:15-12:45",
+        "room": "A-104"
+      },
+      {
+        "day": "H",
+        "time": "08:15-09:45",
+        "room": "A-104"
+      }
+    ],
+    "name": "GERMAN I",
+    "teacher": "Levasseur, Isabelle"
+  },
+  {
+    "section": "00001",
+    "code": "GER-LBL",
+    "meeting": [
+      {
+        "day": "WF",
+        "time": "12:45-14:15",
+        "room": "D-320"
+      }
+    ],
+    "name": "GERMAN II",
+    "teacher": "Levasseur, Isabelle"
+  },
+  {
+    "section": "00001",
+    "code": "ITA-LAA",
+    "meeting": [
+      {
+        "day": "TH",
+        "time": "14:15-15:45",
+        "room": "D-320"
+      }
+    ],
+    "name": "ITALIAN I",
+    "teacher": "Vasquez, Javier"
+  },
+  {
+    "section": "00001",
     "meeting": [
       {
         "day": "W",
-        "time": "12:15-14:15"
-      }
-    ],
-    "name": "Team SportsGYM",
-    "teacher": "TBAPHE3, Marianopolis"
-  },
-  {
-    "section": "00017",
-    "meeting": [
-      {
-        "day": "H",
-        "time": "16:15-18:15"
-      }
-    ],
-    "name": "SoccerGYM",
-    "teacher": "Scrase, Julia"
-  },
-  {
-    "section": "00018",
-    "meeting": [
+        "time": "12:45-14:15",
+        "room": "F-217"
+      },
       {
         "day": "F",
-        "time": "12:15-14:15"
+        "time": "12:45-14:15"
       }
     ],
-    "name": "BasketballGYM",
-    "teacher": "Epstein, Neall"
+    "name": "MUSIC ACROSS THE AGES",
+    "teacher": "Heron, Lillian"
   },
   {
     "section": "00001",
@@ -9444,221 +9662,264 @@
   },
   {
     "section": "00001",
+    "code": "PHI-LAA",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "08:15-09:45",
+        "room": "A-319"
+      }
+    ],
+    "name": "PHILOSOPHIC QUEST",
+    "teacher": "Queen, James"
+  },
+  {
+    "section": "00002",
+    "code": "PHI-LAA",
     "meeting": [
       {
         "day": "WF",
         "time": "12:45-14:15",
-        "room": "A-401"
+        "room": "I-216"
       }
     ],
-    "name": "MEDIEVAL-RENAISSANCE ART",
-    "teacher": "Cerrolaza, Elena"
-  },
-  {
-    "section": "00002",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "09:45-11:15",
-        "room": "A-401"
-      }
-    ],
-    "name": "MEDIEVAL-RENAISSANCE ART",
-    "teacher": "Spriggs, Megan"
+    "name": "EASTERN PHILOSOPHIES",
+    "teacher": "Queen, James"
   },
   {
     "section": "00001",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "16:15-17:45",
-        "room": "A-401"
-      }
-    ],
-    "name": "20TH CENTURY ART",
-    "teacher": "Spriggs, Megan"
-  },
-  {
-    "section": "00001",
-    "code": "ART-LAA",
-    "meeting": [
-      {
-        "day": "T",
-        "time": "08:15-11:15",
-        "room": "A-404"
-      }
-    ],
-    "name": "INTRO TO STUDIO ART",
-    "teacher": "Brandl, Eva"
-  },
-  {
-    "section": "00002",
-    "code": "ART-LAA",
-    "meeting": [
-      {
-        "day": "W",
-        "time": "11:15-14:15",
-        "room": "A-404"
-      }
-    ],
-    "name": "INTRO TO STUDIO ART",
-    "teacher": "Wong, Mary"
-  },
-  {
-    "section": "00003",
-    "code": "ART-LAA",
-    "meeting": [
-      {
-        "day": "F",
-        "time": "08:15-11:15",
-        "room": "A-404"
-      }
-    ],
-    "name": "PAINTING",
-    "teacher": "Liss, Selena"
-  },
-  {
-    "section": "00004",
-    "code": "ART-LAA",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "11:15-12:45",
-        "room": "I-414"
-      }
-    ],
-    "name": "DIGITAL ART",
-    "teacher": "Liss, Selena"
-  },
-  {
-    "section": "00005",
-    "code": "ART-LAA",
-    "meeting": [
-      {
-        "day": "H",
-        "time": "08:15-11:15",
-        "room": "A-404"
-      }
-    ],
-    "name": "ASPECTS OF NARRATIVE",
-    "teacher": "Brandl, Eva"
-  },
-  {
-    "section": "00001",
-    "code": "CIN-LAA",
-    "meeting": [
-      {
-        "day": "W",
-        "time": "14:15-17:15",
-        "room": "D-120B"
-      }
-    ],
-    "name": "HISTORY OF CINEMA",
-    "teacher": "Hays, Matthew"
-  },
-  {
-    "section": "00001",
-    "code": "CIN-LBA",
-    "meeting": [
-      {
-        "day": "T",
-        "time": "09:45-12:45",
-        "room": "D-120B"
-      }
-    ],
-    "name": "LANGUAGE OF FILM",
-    "teacher": "Hays, Matthew"
-  },
-  {
-    "section": "00001",
-    "code": "GER-LAL",
+    "code": "PHI-LBA",
     "meeting": [
       {
         "day": "M",
         "time": "14:15-15:45",
-        "room": "D-320"
+        "room": "A-319"
       },
       {
         "day": "H",
         "time": "11:15-12:45",
-        "room": "D-320"
+        "room": "A-319"
       }
     ],
-    "name": "GERMAN I",
-    "teacher": "Levasseur, Isabelle"
-  },
-  {
-    "section": "00002",
-    "code": "GER-LAL",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "08:15-09:45",
-        "room": "F-306"
-      }
-    ],
-    "name": "GERMAN I",
-    "teacher": "Levasseur, Isabelle"
-  },
-  {
-    "section": "00003",
-    "code": "GER-LAL",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "11:15-12:45",
-        "room": "A-104"
-      },
-      {
-        "day": "H",
-        "time": "08:15-09:45",
-        "room": "A-104"
-      }
-    ],
-    "name": "GERMAN I",
-    "teacher": "Levasseur, Isabelle"
+    "name": "THINK FOR YOURSELF",
+    "teacher": "Queen, James"
   },
   {
     "section": "00001",
-    "code": "GER-LBL",
+    "code": "PHI-LBS",
     "meeting": [
       {
         "day": "WF",
-        "time": "12:45-14:15",
-        "room": "D-320"
+        "time": "14:15-15:45",
+        "room": "I-214"
       }
     ],
-    "name": "GERMAN II",
-    "teacher": "Levasseur, Isabelle"
+    "name": "MEDICAL ETHICS",
+    "teacher": "Pettit, James"
   },
   {
     "section": "00001",
-    "code": "ITA-LAA",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "09:45-11:15",
+        "room": "D-405"
+      },
+      {
+        "day": "W",
+        "time": "09:45-11:15",
+        "room": "I-412"
+      }
+    ],
+    "name": "ENHANCING COMPUTER SKILLS",
+    "teacher": "Cohn, Serge"
+  },
+  {
+    "section": "00002",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "09:45-11:15",
+        "room": "D-405"
+      },
+      {
+        "day": "W",
+        "time": "12:45-14:15",
+        "room": "I-412"
+      }
+    ],
+    "name": "ENHANCING COMPUTER SKILLS",
+    "teacher": "Cohn, Serge"
+  },
+  {
+    "section": "00003",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "09:45-11:15",
+        "room": "D-405"
+      },
+      {
+        "day": "H",
+        "time": "11:15-12:45",
+        "room": "I-412"
+      }
+    ],
+    "name": "ENHANCING COMPUTER SKILLS",
+    "teacher": "Cohn, Serge"
+  },
+  {
+    "section": "00004",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "09:45-11:15",
+        "room": "D-405"
+      },
+      {
+        "day": "F",
+        "time": "08:15-09:45",
+        "room": "I-412"
+      }
+    ],
+    "name": "ENHANCING COMPUTER SKILLS",
+    "teacher": "Cohn, Serge"
+  },
+  {
+    "section": "00005",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "14:15-15:45",
+        "room": "D-405"
+      },
+      {
+        "day": "H",
+        "time": "11:15-12:45",
+        "room": "I-412"
+      }
+    ],
+    "name": "ENHANCING COMPUTER SKILLS",
+    "teacher": "Cohn, Serge"
+  },
+  {
+    "section": "00006",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "14:15-15:45",
+        "room": "D-405"
+      },
+      {
+        "day": "W",
+        "time": "09:45-11:15",
+        "room": "I-412"
+      }
+    ],
+    "name": "ENHANCING COMPUTER SKILLS",
+    "teacher": "Cohn, Serge"
+  },
+  {
+    "section": "00007",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "14:15-15:45",
+        "room": "D-405"
+      },
+      {
+        "day": "W",
+        "time": "12:45-14:15",
+        "room": "I-412"
+      }
+    ],
+    "name": "ENHANCING COMPUTER SKILLS",
+    "teacher": "Cohn, Serge"
+  },
+  {
+    "section": "00008",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "14:15-15:45",
+        "room": "D-405"
+      },
+      {
+        "day": "F",
+        "time": "08:15-09:45",
+        "room": "I-412"
+      }
+    ],
+    "name": "ENHANCING COMPUTER SKILLS",
+    "teacher": "Cohn, Serge"
+  },
+  {
+    "section": "00001",
     "meeting": [
       {
         "day": "TH",
         "time": "14:15-15:45",
-        "room": "D-320"
+        "room": "I-412"
       }
     ],
-    "name": "ITALIAN I",
-    "teacher": "Vasquez, Javier"
+    "name": "WEB PAGE DESIGN",
+    "teacher": "Cohn, Serge"
+  },
+  {
+    "section": "00002",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "11:15-12:45",
+        "room": "I-412"
+      }
+    ],
+    "name": "COMPUTER GRAPHICS",
+    "teacher": "Cohn, Serge"
   },
   {
     "section": "00001",
+    "code": "REL-LBA",
     "meeting": [
       {
-        "day": "W",
+        "day": "M",
         "time": "12:45-14:15",
-        "room": "F-217"
+        "room": "A-314"
       },
       {
-        "day": "F",
-        "time": "12:45-14:15"
+        "day": "H",
+        "time": "09:45-11:15",
+        "room": "A-314"
       }
     ],
-    "name": "MUSIC ACROSS THE AGES",
-    "teacher": "Heron, Lillian"
+    "name": "ON THE TRACK OF THE GODS",
+    "teacher": "Sasson, Vanessa"
+  },
+  {
+    "section": "00002",
+    "code": "REL-LBA",
+    "meeting": [
+      {
+        "day": "WF",
+        "time": "14:15-15:45",
+        "room": "A-311"
+      }
+    ],
+    "name": "ON THE TRACK OF THE GODS",
+    "teacher": "Koumouzelis, Angelique"
+  },
+  {
+    "section": "00001",
+    "code": "REL-LBS",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "08:15-09:45",
+        "room": "A-314"
+      }
+    ],
+    "name": "EASTERN RELIGIONS",
+    "teacher": "Sasson, Vanessa"
   },
   {
     "section": "00002",
@@ -9877,265 +10138,220 @@
     "teacher": "Dufour, Maurice"
   },
   {
+    "section": "00002",
+    "code": "REL-LBS",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "09:45-11:15",
+        "room": "A-314"
+      }
+    ],
+    "name": "TOPICS IN RELIGIOUS STUDIES",
+    "teacher": "Sasson, Vanessa"
+  },
+  {
     "section": "00001",
-    "code": "PHI-LAA",
+    "code": "SCI-LAT",
+    "meeting": [
+      {
+        "day": "TH",
+        "time": "16:15-17:45",
+        "room": "A-307"
+      }
+    ],
+    "name": "EXPLORING THE UNIVERSE",
+    "teacher": "Lefcoe, Andrew"
+  },
+  {
+    "section": "00001",
+    "code": "SPA-LAK",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "11:15-12:45",
+        "room": "D-414"
+      }
+    ],
+    "name": "SPANISH III",
+    "teacher": "Escamilla, David"
+  },
+  {
+    "section": "00001",
+    "code": "SPA-LAL",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "11:15-12:45",
+        "room": "F-306"
+      },
+      {
+        "day": "H",
+        "time": "08:15-09:45",
+        "room": "F-306"
+      }
+    ],
+    "name": "SPANISH I",
+    "teacher": "Escamilla, David"
+  },
+  {
+    "section": "00002",
+    "code": "SPA-LAL",
     "meeting": [
       {
         "day": "TF",
         "time": "08:15-09:45",
-        "room": "A-319"
+        "room": "A-104"
       }
     ],
-    "name": "PHILOSOPHIC QUEST",
-    "teacher": "Queen, James"
+    "name": "SPANISH I",
+    "teacher": "Escamilla, David"
   },
   {
-    "section": "00002",
-    "code": "PHI-LAA",
-    "meeting": [
-      {
-        "day": "WF",
-        "time": "12:45-14:15",
-        "room": "I-216"
-      }
-    ],
-    "name": "EASTERN PHILOSOPHIES",
-    "teacher": "Queen, James"
-  },
-  {
-    "section": "00001",
-    "code": "PHI-LBA",
+    "section": "00003",
+    "code": "SPA-LAL",
     "meeting": [
       {
         "day": "M",
         "time": "14:15-15:45",
-        "room": "A-319"
+        "room": "F-306"
       },
       {
         "day": "H",
         "time": "11:15-12:45",
-        "room": "A-319"
+        "room": "F-306"
       }
     ],
-    "name": "THINK FOR YOURSELF",
-    "teacher": "Queen, James"
+    "name": "SPANISH I",
+    "teacher": "Vasquez, Javier"
   },
   {
-    "section": "00001",
-    "code": "PHI-LBS",
+    "section": "00004",
+    "code": "SPA-LAL",
     "meeting": [
       {
-        "day": "WF",
-        "time": "14:15-15:45",
-        "room": "I-214"
+        "day": "TH",
+        "time": "16:15-17:45",
+        "room": "G-102"
       }
     ],
-    "name": "MEDICAL ETHICS",
-    "teacher": "Pettit, James"
+    "name": "SPANISH I",
+    "teacher": "Vasquez, Javier"
   },
   {
     "section": "00001",
+    "code": "SPA-LBL",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "09:45-11:15",
+        "room": "D-320"
+      }
+    ],
+    "name": "SPANISH II",
+    "teacher": "Escamilla, David"
+  },
+  {
+    "section": "00002",
+    "code": "SPA-LBL",
     "meeting": [
       {
         "day": "M",
-        "time": "09:45-11:15",
-        "room": "D-405"
+        "time": "14:15-15:45",
+        "room": "D-414"
       },
       {
-        "day": "W",
-        "time": "09:45-11:15",
-        "room": "I-412"
+        "day": "H",
+        "time": "11:15-12:45",
+        "room": "D-414"
       }
     ],
-    "name": "ENHANCING COMPUTER SKILLS",
-    "teacher": "Cohn, Serge"
+    "name": "SPANISH II",
+    "teacher": "Escamilla, David"
+  },
+  {
+    "section": "00001",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "08:15-09:45",
+        "room": "D-409"
+      }
+    ],
+    "name": "PSYCH OF MENTAL DISORDERS",
+    "teacher": "Colle, Lois"
   },
   {
     "section": "00002",
     "meeting": [
       {
-        "day": "M",
-        "time": "09:45-11:15",
-        "room": "D-405"
-      },
-      {
-        "day": "W",
+        "day": "WF",
         "time": "12:45-14:15",
-        "room": "I-412"
+        "room": "D-409"
       }
     ],
-    "name": "ENHANCING COMPUTER SKILLS",
-    "teacher": "Cohn, Serge"
+    "name": "DEVELOPMENTAL PSY (ADOL)",
+    "teacher": "Colle, Lois"
   },
   {
     "section": "00003",
     "meeting": [
       {
-        "day": "M",
-        "time": "09:45-11:15",
+        "day": "TH",
+        "time": "14:15-15:45",
         "room": "D-405"
-      },
-      {
-        "day": "H",
-        "time": "11:15-12:45",
-        "room": "I-412"
       }
     ],
-    "name": "ENHANCING COMPUTER SKILLS",
-    "teacher": "Cohn, Serge"
+    "name": "SOCIAL PSYCHOLOGY",
+    "teacher": "Burton, Kimberly"
   },
   {
     "section": "00004",
     "meeting": [
       {
-        "day": "M",
-        "time": "09:45-11:15",
-        "room": "D-405"
-      },
-      {
-        "day": "F",
-        "time": "08:15-09:45",
-        "room": "I-412"
+        "day": "TF",
+        "time": "11:15-12:45",
+        "room": "D-407"
       }
     ],
-    "name": "ENHANCING COMPUTER SKILLS",
-    "teacher": "Cohn, Serge"
+    "name": "FORENSIC PSYCHOLOGY - Topics in Psychology II",
+    "teacher": "Burton, Kimberly"
   },
   {
     "section": "00005",
     "meeting": [
       {
-        "day": "M",
-        "time": "14:15-15:45",
-        "room": "D-405"
-      },
-      {
-        "day": "H",
-        "time": "11:15-12:45",
-        "room": "I-412"
+        "day": "TF",
+        "time": "08:15-09:45",
+        "room": "A-311"
       }
     ],
-    "name": "ENHANCING COMPUTER SKILLS",
-    "teacher": "Cohn, Serge"
+    "name": "FUNDAMENTALS OF LAW - Selected Topics in the Social Sciences",
+    "teacher": "Kruger, Stuart"
   },
   {
     "section": "00006",
     "meeting": [
       {
-        "day": "M",
-        "time": "14:15-15:45",
-        "room": "D-405"
-      },
-      {
-        "day": "W",
+        "day": "MW",
         "time": "09:45-11:15",
-        "room": "I-412"
+        "room": "I-214"
       }
     ],
-    "name": "ENHANCING COMPUTER SKILLS",
-    "teacher": "Cohn, Serge"
+    "name": "SOCIETIES OF THE WORLD; MEDITERRANEAN PEOPLES AND SOC",
+    "teacher": "Campbell, Jennifer"
   },
   {
     "section": "00007",
     "meeting": [
       {
-        "day": "M",
-        "time": "14:15-15:45",
-        "room": "D-405"
-      },
-      {
-        "day": "W",
-        "time": "12:45-14:15",
-        "room": "I-412"
-      }
-    ],
-    "name": "ENHANCING COMPUTER SKILLS",
-    "teacher": "Cohn, Serge"
-  },
-  {
-    "section": "00008",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "14:15-15:45",
-        "room": "D-405"
-      },
-      {
-        "day": "F",
-        "time": "08:15-09:45",
-        "room": "I-412"
-      }
-    ],
-    "name": "ENHANCING COMPUTER SKILLS",
-    "teacher": "Cohn, Serge"
-  },
-  {
-    "section": "00001",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "14:15-15:45",
-        "room": "I-412"
-      }
-    ],
-    "name": "WEB PAGE DESIGN",
-    "teacher": "Cohn, Serge"
-  },
-  {
-    "section": "00002",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "11:15-12:45",
-        "room": "I-412"
-      }
-    ],
-    "name": "COMPUTER GRAPHICS",
-    "teacher": "Cohn, Serge"
-  },
-  {
-    "section": "00001",
-    "code": "REL-LBA",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "12:45-14:15",
-        "room": "A-314"
-      },
-      {
-        "day": "H",
-        "time": "09:45-11:15",
-        "room": "A-314"
-      }
-    ],
-    "name": "ON THE TRACK OF THE GODS",
-    "teacher": "Sasson, Vanessa"
-  },
-  {
-    "section": "00002",
-    "code": "REL-LBA",
-    "meeting": [
-      {
-        "day": "WF",
-        "time": "14:15-15:45",
-        "room": "A-311"
-      }
-    ],
-    "name": "ON THE TRACK OF THE GODS",
-    "teacher": "Koumouzelis, Angelique"
-  },
-  {
-    "section": "00001",
-    "code": "REL-LBS",
-    "meeting": [
-      {
         "day": "MW",
-        "time": "08:15-09:45",
+        "time": "16:15-17:45",
         "room": "A-314"
       }
     ],
-    "name": "EASTERN RELIGIONS",
-    "teacher": "Sasson, Vanessa"
+    "name": "UNDERSTANDING POWER",
+    "teacher": "Dufour, Maurice"
   },
   {
     "section": "00008",
@@ -10379,220 +10595,245 @@
     "teacher": "Caverly, Grant"
   },
   {
-    "section": "00002",
-    "code": "REL-LBS",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "09:45-11:15",
-        "room": "A-314"
-      }
-    ],
-    "name": "TOPICS IN RELIGIOUS STUDIES",
-    "teacher": "Sasson, Vanessa"
-  },
-  {
-    "section": "00001",
-    "code": "SCI-LAT",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "16:15-17:45",
-        "room": "A-307"
-      }
-    ],
-    "name": "EXPLORING THE UNIVERSE",
-    "teacher": "Lefcoe, Andrew"
-  },
-  {
-    "section": "00001",
-    "code": "SPA-LAK",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "11:15-12:45",
-        "room": "D-414"
-      }
-    ],
-    "name": "SPANISH III",
-    "teacher": "Escamilla, David"
-  },
-  {
-    "section": "00001",
-    "code": "SPA-LAL",
+    "section": "00008",
     "meeting": [
       {
         "day": "M",
         "time": "11:15-12:45",
-        "room": "F-306"
+        "room": "D-407"
       },
       {
         "day": "H",
         "time": "08:15-09:45",
-        "room": "F-306"
+        "room": "D-407"
       }
     ],
-    "name": "SPANISH I",
-    "teacher": "Escamilla, David"
+    "name": "INTERNATIONAL BUSINESS",
+    "teacher": "Elenakis, Peter"
   },
   {
-    "section": "00002",
-    "code": "SPA-LAL",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "08:15-09:45",
-        "room": "A-104"
-      }
-    ],
-    "name": "SPANISH I",
-    "teacher": "Escamilla, David"
-  },
-  {
-    "section": "00003",
-    "code": "SPA-LAL",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "14:15-15:45",
-        "room": "F-306"
-      },
-      {
-        "day": "H",
-        "time": "11:15-12:45",
-        "room": "F-306"
-      }
-    ],
-    "name": "SPANISH I",
-    "teacher": "Vasquez, Javier"
-  },
-  {
-    "section": "00004",
-    "code": "SPA-LAL",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "16:15-17:45",
-        "room": "G-102"
-      }
-    ],
-    "name": "SPANISH I",
-    "teacher": "Vasquez, Javier"
-  },
-  {
-    "section": "00001",
-    "code": "SPA-LBL",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "09:45-11:15",
-        "room": "D-320"
-      }
-    ],
-    "name": "SPANISH II",
-    "teacher": "Escamilla, David"
-  },
-  {
-    "section": "00002",
-    "code": "SPA-LBL",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "14:15-15:45",
-        "room": "D-414"
-      },
-      {
-        "day": "H",
-        "time": "11:15-12:45",
-        "room": "D-414"
-      }
-    ],
-    "name": "SPANISH II",
-    "teacher": "Escamilla, David"
-  },
-  {
-    "section": "00001",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "08:15-09:45",
-        "room": "D-409"
-      }
-    ],
-    "name": "PSYCH OF MENTAL DISORDERS",
-    "teacher": "Colle, Lois"
-  },
-  {
-    "section": "00002",
+    "section": "00009",
     "meeting": [
       {
         "day": "WF",
         "time": "12:45-14:15",
-        "room": "D-409"
+        "room": "I-218"
       }
     ],
-    "name": "DEVELOPMENTAL PSY (ADOL)",
-    "teacher": "Colle, Lois"
+    "name": "INTRO TO PSYCHOLOGY",
+    "teacher": "TBASSC1, Marianopolis"
   },
   {
-    "section": "00003",
+    "section": "00010",
     "meeting": [
       {
-        "day": "TH",
-        "time": "14:15-15:45",
+        "day": "M",
+        "time": "11:15-12:45",
+        "room": "D-405"
+      },
+      {
+        "day": "H",
+        "time": "08:15-09:45",
         "room": "D-405"
       }
     ],
-    "name": "SOCIAL PSYCHOLOGY",
-    "teacher": "Burton, Kimberly"
+    "name": "INTRO TO PSYCHOLOGY",
+    "teacher": "TBASSC4, Marianopolis"
   },
   {
-    "section": "00004",
+    "section": "00011",
     "meeting": [
       {
-        "day": "TF",
+        "day": "M",
+        "time": "14:15-15:45",
+        "room": "D-407"
+      },
+      {
+        "day": "H",
         "time": "11:15-12:45",
         "room": "D-407"
       }
     ],
-    "name": "FORENSIC PSYCHOLOGY - Topics in Psychology II",
+    "name": "INTRO TO PSYCHOLOGY",
+    "teacher": "TBASSC1, Marianopolis"
+  },
+  {
+    "section": "00012",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "08:15-09:45",
+        "room": "D-407"
+      }
+    ],
+    "name": "INTRO TO PSYCHOLOGY",
     "teacher": "Burton, Kimberly"
   },
   {
-    "section": "00005",
+    "section": "00013",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "09:45-11:15",
+        "room": "D-409"
+      }
+    ],
+    "name": "INTRO TO PSYCHOLOGY",
+    "teacher": "Burton, Kimberly"
+  },
+  {
+    "section": "00014",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:45-14:15",
+        "room": "A-307"
+      },
+      {
+        "day": "H",
+        "time": "09:45-11:15",
+        "room": "A-307"
+      }
+    ],
+    "name": "INTRO TO PSYCHOLOGY",
+    "teacher": "TBASSC1, Marianopolis"
+  },
+  {
+    "section": "00015",
+    "meeting": [
+      {
+        "day": "W",
+        "time": "11:15-12:45",
+        "room": "D-407"
+      },
+      {
+        "day": "F",
+        "time": "14:15-15:45",
+        "room": "D-407"
+      }
+    ],
+    "name": "DEVELOPMENTAL PSY (CHILD)Linnen, Anne-Marie"
+  },
+  {
+    "section": "00016",
     "meeting": [
       {
         "day": "TF",
         "time": "08:15-09:45",
-        "room": "A-311"
-      }
-    ],
-    "name": "FUNDAMENTALS OF LAW - Selected Topics in the Social Sciences",
-    "teacher": "Kruger, Stuart"
-  },
-  {
-    "section": "00006",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "09:45-11:15",
         "room": "I-214"
       }
     ],
-    "name": "SOCIETIES OF THE WORLD; MEDITERRANEAN PEOPLES AND SOC",
+    "name": "HUMANS: From Stone Tools to Smart Phones",
     "teacher": "Campbell, Jennifer"
   },
   {
-    "section": "00007",
+    "section": "00017",
     "meeting": [
       {
-        "day": "MW",
-        "time": "16:15-17:45",
-        "room": "A-314"
+        "day": "M",
+        "time": "14:15-15:45",
+        "room": "I-218"
+      },
+      {
+        "day": "H",
+        "time": "11:15-12:45",
+        "room": "I-218"
       }
     ],
-    "name": "UNDERSTANDING POWER",
+    "name": "MICROECONOMICS",
+    "teacher": "Terekhov, Vitaly"
+  },
+  {
+    "section": "00018",
+    "meeting": [
+      {
+        "day": "W",
+        "time": "11:15-12:45",
+        "room": "I-218"
+      },
+      {
+        "day": "F",
+        "time": "14:15-15:45",
+        "room": "I-218"
+      }
+    ],
+    "name": "MICROECONOMICS",
+    "teacher": "Terekhov, Vitaly"
+  },
+  {
+    "section": "00019",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "11:15-12:45",
+        "room": "I-214"
+      }
+    ],
+    "name": "INTERNATIONAL POLITICS",
     "teacher": "Dufour, Maurice"
+  },
+  {
+    "section": "00020",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:45-14:15",
+        "room": "D-405"
+      },
+      {
+        "day": "H",
+        "time": "09:45-11:15",
+        "room": "D-405"
+      }
+    ],
+    "name": "INTERNATIONAL POLITICS",
+    "teacher": "Brzezinski, Marek"
+  },
+  {
+    "section": "00021",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "16:15-17:45",
+        "room": "A-306"
+      },
+      {
+        "day": "W",
+        "time": "14:15-15:45",
+        "room": "A-306"
+      }
+    ],
+    "name": "INTERNATIONAL POLITICS",
+    "teacher": "Brzezinski, Marek"
+  },
+  {
+    "section": "00022",
+    "meeting": [
+      {
+        "day": "W",
+        "time": "11:15-12:45",
+        "room": "D-218"
+      },
+      {
+        "day": "F",
+        "time": "14:15-15:45",
+        "room": "D-218"
+      }
+    ],
+    "name": "INDIVIDUAL & SOCIETY",
+    "teacher": "Caverly, Grant"
+  },
+  {
+    "section": "00023",
+    "meeting": [
+      {
+        "day": "TH",
+        "time": "14:15-15:45",
+        "room": "D-407"
+      }
+    ],
+    "name": "INDIVIDUAL & SOCIETY",
+    "teacher": "Caverly, Grant"
   },
   {
     "section": "00024",
@@ -10807,79 +11048,192 @@
     "teacher": "Vite-Leon, Norma"
   },
   {
-    "section": "00008",
+    "section": "00024",
+    "meeting": [
+      {
+        "day": "TF",
+        "time": "09:45-11:15",
+        "room": "D-407"
+      }
+    ],
+    "name": "INDIVIDUAL & SOCIETY",
+    "teacher": "Bird, Rebecca"
+  },
+  {
+    "section": "00025",
     "meeting": [
       {
         "day": "M",
         "time": "11:15-12:45",
-        "room": "D-407"
+        "room": "D-409"
       },
       {
         "day": "H",
         "time": "08:15-09:45",
+        "room": "D-409"
+      }
+    ],
+    "name": "INDIVIDUAL & SOCIETY",
+    "teacher": "Bird, Rebecca"
+  },
+  {
+    "section": "00001",
+    "meeting": [
+      {
+        "day": "TH",
+        "time": "16:15-17:45",
+        "room": "D-220"
+      }
+    ],
+    "name": "The Great War & Shaping the Modern World 20th C HISTORY",
+    "teacher": "O'Keefe, David"
+  },
+  {
+    "section": "00002",
+    "meeting": [
+      {
+        "day": "WF",
+        "time": "12:45-14:15",
         "room": "D-407"
       }
     ],
-    "name": "INTERNATIONAL BUSINESS",
+    "name": "The Great War & Shaping the Modern World 20th C HISTORY",
+    "teacher": "O'Keefe, David"
+  },
+  {
+    "section": "00003",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "14:15-15:45",
+        "room": "D-218"
+      },
+      {
+        "day": "H",
+        "time": "11:15-12:45",
+        "room": "D-218"
+      }
+    ],
+    "name": "HONOURS SOCIAL SCIENCE SEMINAR",
+    "teacher": "Campbell, Jennifer"
+  },
+  {
+    "section": "00004",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "16:15-17:45",
+        "room": "D-407"
+      }
+    ],
+    "name": "MASS MEDIA",
+    "teacher": "Caverly, Grant"
+  },
+  {
+    "section": "00005",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "09:45-11:15",
+        "room": "A-314"
+      }
+    ],
+    "name": "SOCIAL INEQUALITIES AND SOCIAL PROBLEMS",
+    "teacher": "Bird, Rebecca"
+  },
+  {
+    "section": "00006",
+    "meeting": [
+      {
+        "day": "MW",
+        "time": "08:15-09:45",
+        "room": "D-409"
+      }
+    ],
+    "name": "MARKETING",
     "teacher": "Elenakis, Peter"
+  },
+  {
+    "section": "00007",
+    "meeting": [
+      {
+        "day": "WF",
+        "time": "12:45-14:15",
+        "room": "I-214"
+      }
+    ],
+    "name": "WORLD GEOGRAPHY",
+    "teacher": "Barbone, Patrizia"
+  },
+  {
+    "section": "00008",
+    "meeting": [
+      {
+        "day": "M",
+        "time": "12:45-14:15",
+        "room": "A-306"
+      },
+      {
+        "day": "H",
+        "time": "09:45-11:15",
+        "room": "A-306"
+      }
+    ],
+    "name": "AMERICAN HISTORY",
+    "teacher": "TBASSC2, Marianopolis"
   },
   {
     "section": "00009",
     "meeting": [
       {
-        "day": "WF",
-        "time": "12:45-14:15",
-        "room": "I-218"
+        "day": "TF",
+        "time": "11:15-12:45",
+        "room": "A-311"
       }
     ],
-    "name": "INTRO TO PSYCHOLOGY",
-    "teacher": "TBASSC1, Marianopolis"
+    "name": "MACROECONOMICS",
+    "teacher": "Terekhov, Vitaly"
   },
   {
     "section": "00010",
     "meeting": [
       {
-        "day": "M",
-        "time": "11:15-12:45",
-        "room": "D-405"
-      },
-      {
-        "day": "H",
-        "time": "08:15-09:45",
-        "room": "D-405"
+        "day": "TH",
+        "time": "14:15-15:45",
+        "room": "D-220"
       }
     ],
-    "name": "INTRO TO PSYCHOLOGY",
-    "teacher": "TBASSC4, Marianopolis"
+    "name": "MACROECONOMICS",
+    "teacher": "Terekhov, Vitaly"
   },
   {
     "section": "00011",
     "meeting": [
       {
-        "day": "M",
-        "time": "14:15-15:45",
-        "room": "D-407"
-      },
-      {
-        "day": "H",
-        "time": "11:15-12:45",
-        "room": "D-407"
+        "day": "MW",
+        "time": "16:15-17:45",
+        "room": "A-369"
       }
     ],
-    "name": "INTRO TO PSYCHOLOGY",
-    "teacher": "TBASSC1, Marianopolis"
+    "name": "MACROECONOMICS",
+    "teacher": "Kompaniyets, Eugene"
   },
   {
     "section": "00012",
     "meeting": [
       {
-        "day": "MW",
-        "time": "08:15-09:45",
-        "room": "D-407"
+        "day": "M",
+        "time": "14:15-15:45",
+        "room": "D-220"
+      },
+      {
+        "day": "H",
+        "time": "11:15-12:45",
+        "room": "D-220"
       }
     ],
-    "name": "INTRO TO PSYCHOLOGY",
-    "teacher": "Burton, Kimberly"
+    "name": "MACROECONOMICS",
+    "teacher": "Kompaniyets, Eugene"
   },
   {
     "section": "00013",
@@ -10887,165 +11241,23 @@
       {
         "day": "TF",
         "time": "09:45-11:15",
-        "room": "D-409"
+        "room": "D-120A"
       }
     ],
-    "name": "INTRO TO PSYCHOLOGY",
-    "teacher": "Burton, Kimberly"
+    "name": "MACROECONOMICS",
+    "teacher": "Kompaniyets, Eugene"
   },
   {
     "section": "00014",
     "meeting": [
       {
-        "day": "M",
-        "time": "12:45-14:15",
-        "room": "A-307"
-      },
-      {
-        "day": "H",
+        "day": "MW",
         "time": "09:45-11:15",
-        "room": "A-307"
+        "room": "A-369"
       }
     ],
-    "name": "INTRO TO PSYCHOLOGY",
-    "teacher": "TBASSC1, Marianopolis"
-  },
-  {
-    "section": "00015",
-    "meeting": [
-      {
-        "day": "W",
-        "time": "11:15-12:45",
-        "room": "D-407"
-      },
-      {
-        "day": "F",
-        "time": "14:15-15:45",
-        "room": "D-407"
-      }
-    ],
-    "name": "DEVELOPMENTAL PSY (CHILD)Linnen, Anne-Marie"
-  },
-  {
-    "section": "00016",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "08:15-09:45",
-        "room": "I-214"
-      }
-    ],
-    "name": "HUMANS: From Stone Tools to Smart Phones",
-    "teacher": "Campbell, Jennifer"
-  },
-  {
-    "section": "00017",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "14:15-15:45",
-        "room": "I-218"
-      },
-      {
-        "day": "H",
-        "time": "11:15-12:45",
-        "room": "I-218"
-      }
-    ],
-    "name": "MICROECONOMICS",
-    "teacher": "Terekhov, Vitaly"
-  },
-  {
-    "section": "00018",
-    "meeting": [
-      {
-        "day": "W",
-        "time": "11:15-12:45",
-        "room": "I-218"
-      },
-      {
-        "day": "F",
-        "time": "14:15-15:45",
-        "room": "I-218"
-      }
-    ],
-    "name": "MICROECONOMICS",
-    "teacher": "Terekhov, Vitaly"
-  },
-  {
-    "section": "00019",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "11:15-12:45",
-        "room": "I-214"
-      }
-    ],
-    "name": "INTERNATIONAL POLITICS",
-    "teacher": "Dufour, Maurice"
-  },
-  {
-    "section": "00020",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "12:45-14:15",
-        "room": "D-405"
-      },
-      {
-        "day": "H",
-        "time": "09:45-11:15",
-        "room": "D-405"
-      }
-    ],
-    "name": "INTERNATIONAL POLITICS",
-    "teacher": "Brzezinski, Marek"
-  },
-  {
-    "section": "00021",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "16:15-17:45",
-        "room": "A-306"
-      },
-      {
-        "day": "W",
-        "time": "14:15-15:45",
-        "room": "A-306"
-      }
-    ],
-    "name": "INTERNATIONAL POLITICS",
-    "teacher": "Brzezinski, Marek"
-  },
-  {
-    "section": "00022",
-    "meeting": [
-      {
-        "day": "W",
-        "time": "11:15-12:45",
-        "room": "D-218"
-      },
-      {
-        "day": "F",
-        "time": "14:15-15:45",
-        "room": "D-218"
-      }
-    ],
-    "name": "INDIVIDUAL & SOCIETY",
-    "teacher": "Caverly, Grant"
-  },
-  {
-    "section": "00023",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "14:15-15:45",
-        "room": "D-407"
-      }
-    ],
-    "name": "INDIVIDUAL & SOCIETY",
-    "teacher": "Caverly, Grant"
+    "name": "MACROECONOMICS",
+    "teacher": "Vite-Leon, Norma"
   },
   {
     "section": "00015",
@@ -11276,218 +11488,6 @@
     ],
     "name": "THEATRE II",
     "teacher": "Willmer, Andrew"
-  },
-  {
-    "section": "00024",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "09:45-11:15",
-        "room": "D-407"
-      }
-    ],
-    "name": "INDIVIDUAL & SOCIETY",
-    "teacher": "Bird, Rebecca"
-  },
-  {
-    "section": "00025",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "11:15-12:45",
-        "room": "D-409"
-      },
-      {
-        "day": "H",
-        "time": "08:15-09:45",
-        "room": "D-409"
-      }
-    ],
-    "name": "INDIVIDUAL & SOCIETY",
-    "teacher": "Bird, Rebecca"
-  },
-  {
-    "section": "00001",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "16:15-17:45",
-        "room": "D-220"
-      }
-    ],
-    "name": "The Great War & Shaping the Modern World 20th C HISTORY",
-    "teacher": "O'Keefe, David"
-  },
-  {
-    "section": "00002",
-    "meeting": [
-      {
-        "day": "WF",
-        "time": "12:45-14:15",
-        "room": "D-407"
-      }
-    ],
-    "name": "The Great War & Shaping the Modern World 20th C HISTORY",
-    "teacher": "O'Keefe, David"
-  },
-  {
-    "section": "00003",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "14:15-15:45",
-        "room": "D-218"
-      },
-      {
-        "day": "H",
-        "time": "11:15-12:45",
-        "room": "D-218"
-      }
-    ],
-    "name": "HONOURS SOCIAL SCIENCE SEMINAR",
-    "teacher": "Campbell, Jennifer"
-  },
-  {
-    "section": "00004",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "16:15-17:45",
-        "room": "D-407"
-      }
-    ],
-    "name": "MASS MEDIA",
-    "teacher": "Caverly, Grant"
-  },
-  {
-    "section": "00005",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "09:45-11:15",
-        "room": "A-314"
-      }
-    ],
-    "name": "SOCIAL INEQUALITIES AND SOCIAL PROBLEMS",
-    "teacher": "Bird, Rebecca"
-  },
-  {
-    "section": "00006",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "08:15-09:45",
-        "room": "D-409"
-      }
-    ],
-    "name": "MARKETING",
-    "teacher": "Elenakis, Peter"
-  },
-  {
-    "section": "00007",
-    "meeting": [
-      {
-        "day": "WF",
-        "time": "12:45-14:15",
-        "room": "I-214"
-      }
-    ],
-    "name": "WORLD GEOGRAPHY",
-    "teacher": "Barbone, Patrizia"
-  },
-  {
-    "section": "00008",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "12:45-14:15",
-        "room": "A-306"
-      },
-      {
-        "day": "H",
-        "time": "09:45-11:15",
-        "room": "A-306"
-      }
-    ],
-    "name": "AMERICAN HISTORY",
-    "teacher": "TBASSC2, Marianopolis"
-  },
-  {
-    "section": "00009",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "11:15-12:45",
-        "room": "A-311"
-      }
-    ],
-    "name": "MACROECONOMICS",
-    "teacher": "Terekhov, Vitaly"
-  },
-  {
-    "section": "00010",
-    "meeting": [
-      {
-        "day": "TH",
-        "time": "14:15-15:45",
-        "room": "D-220"
-      }
-    ],
-    "name": "MACROECONOMICS",
-    "teacher": "Terekhov, Vitaly"
-  },
-  {
-    "section": "00011",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "16:15-17:45",
-        "room": "A-369"
-      }
-    ],
-    "name": "MACROECONOMICS",
-    "teacher": "Kompaniyets, Eugene"
-  },
-  {
-    "section": "00012",
-    "meeting": [
-      {
-        "day": "M",
-        "time": "14:15-15:45",
-        "room": "D-220"
-      },
-      {
-        "day": "H",
-        "time": "11:15-12:45",
-        "room": "D-220"
-      }
-    ],
-    "name": "MACROECONOMICS",
-    "teacher": "Kompaniyets, Eugene"
-  },
-  {
-    "section": "00013",
-    "meeting": [
-      {
-        "day": "TF",
-        "time": "09:45-11:15",
-        "room": "D-120A"
-      }
-    ],
-    "name": "MACROECONOMICS",
-    "teacher": "Kompaniyets, Eugene"
-  },
-  {
-    "section": "00014",
-    "meeting": [
-      {
-        "day": "MW",
-        "time": "09:45-11:15",
-        "room": "A-369"
-      }
-    ],
-    "name": "MACROECONOMICS",
-    "teacher": "Vite-Leon, Norma"
   },
   {
     "section": "00015",
