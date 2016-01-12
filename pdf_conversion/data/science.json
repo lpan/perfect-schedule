@@ -3774,10 +3774,11 @@
     "meeting": [
       {
         "day": "WF",
-        "time": "14:15-15:45"
+        "time": "14:15-15:45",
+        "room": "AUD"
       }
     ],
-    "name": "ETHICS ON STAGEAUD",
+    "name": "ETHICS ON STAGE",
     "code": "345-LPH-MS",
     "teacher": "Willmer, Andrew"
   },

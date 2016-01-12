@@ -23,22 +23,27 @@ var _onPFBinDataReady = function (evtData) {
     /^Humanities/,
     /^French$/,
     /^English$/,
+    /[A-Z]{3}\s-\s/, // matching liberal arts and alc shit
     /^[0-9]+\./ // match program name
   ];
   var count = -1; // for the foreach loop
   var course = -1;
+  var track = []; // to prevent duplication using page numbers
   evtData.data.Pages.forEach(function (page, i) {
-    // for some reason the pages are duplicated
-    if (i % 2 == 0)
-      return;
-    page.Texts.
-      sort(function (a, b) {
-        if (a.y === b.y) {
-          return a.x - b.x;
-        } else {
-          return a.y - b.y;
-        }
-      }).
+    var sorted = page.Texts.sort(function (a, b) {
+      if (a.y === b.y) {
+        return a.x - b.x;
+      } else {
+        return a.y - b.y;
+      }
+    });
+    var pageNum = sorted[sorted.length-1].R[0].T;
+    for (var j = 0; j < track.length; j ++) {
+      if (pageNum == track[j])
+        return;
+    }
+    track.push(pageNum);
+    sorted.
       // Find items with certain expression and replace them with 
       // blank space. 
       map(function (file) {
@@ -76,13 +81,17 @@ var _onPFBinDataReady = function (evtData) {
           } else {
             data[count].code = file;
           }
-        } else if (file.match(/^[A-Z]{1,2}$/) !== null) {
+        } else if (file.match(/^(M|T|W|H|F|S){1,3}$/) !== null) {
           course ++;
           data[count].meeting.push({});
           data[count].meeting[course].day = file;
         } else if (file.match(/^[0-9]{2}\:[0-9]{2}-/) !== null) {
           data[count].meeting[course].time = file;
         } else if (file.match(/^[A-Z]-[0-9]{3}/) !== null) {
+          data[count].meeting[course].room = file;
+        } else if (file.match(/^[0-9]{3}$/) !== null) {
+          data[count].meeting[course].room = file;
+        } else if (file.match(/^AUD$/) !== null) {
           data[count].meeting[course].room = file;
         } else if (file.match(/^.+\,/) !== null) {
           data[count].teacher = file;
@@ -93,7 +102,7 @@ var _onPFBinDataReady = function (evtData) {
   });
   pdfData = data;
   console.log(pdfData);
-  console.log(evtData.data.Pages.length);
+  fs.writeFile(jsonName, JSON.stringify(pdfData, null, 2), 'utf8');
 };
 
 var _onPFBinDataError = function (evtError) {
@@ -104,10 +113,11 @@ pdfParser.on('pdfParser_dataReady', _.bind(_onPFBinDataReady, this));
 
 pdfParser.on('pdfParser_dataError', _.bind(_onPFBinDataError, this));
 
-var fileName = 'science.pdf';
-var pdfFilePath = 'test_files/' + 'science.pdf';
+// input filename as a commandline argument
+var pdfFilePath = process.argv[2];
+var fileName = pdfFilePath.match(/[a-zA-Z\-\_]+\.(pdf|PDF)/)[0];
 
-var jsonName = fileName.match(/^[a-zA-Z]+/)[0] + '.json';
+var jsonName = fileName.match(/^[a-zA-Z\_]+/)[0] + '.json';
 
 pdfParser.loadPDF(pdfFilePath);
 
@@ -116,7 +126,3 @@ fs.readFile(pdfFilePath, function (err, pdfBuffer) {
   if (!err)
     pdfParser.parseBuffer(pdfBuffer);
 });
-
-setTimeout(function () {
-  fs.writeFile(jsonName, JSON.stringify(pdfData, null, 2), 'utf8');
-}, 3000);
