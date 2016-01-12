@@ -70,6 +70,8 @@ var _onPFBinDataReady = function (evtData) {
             data[count].code = file.match(/^.{3}-.{3}/)[0];
             data[count].meeting = []; 
             data[count].name = '';
+          } else {
+            data[count].code = file;
           }
         } else if (file.match(/^[A-Z]{1,2}$/) !== null) {
           course ++;
@@ -79,7 +81,7 @@ var _onPFBinDataReady = function (evtData) {
           data[count].meeting[course].time = file;
         } else if (file.match(/^[A-Z]-[0-9]{3}/) !== null) {
           data[count].meeting[course].room = file;
-        } else if (file.match(/^.+\,\s[a-zA-Z]+$/) !== null) {
+        } else if (file.match(/^.+\,/) !== null) {
           data[count].teacher = file;
         } else {
           data[count].name += file.toString();

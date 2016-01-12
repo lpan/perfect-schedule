@@ -14,6 +14,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY II",
+    "code": "101-LCU-05",
     "teacher": "Di Flumeri, Celestino"
   },
   {
@@ -31,6 +32,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY II",
+    "code": "101-LCU-05",
     "teacher": "Di Flumeri, Celestino"
   },
   {
@@ -48,6 +50,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY II",
+    "code": "101-LCU-05",
     "teacher": "Ranger, Jill"
   },
   {
@@ -70,6 +73,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY II",
+    "code": "101-LCU-05",
     "teacher": "Ranger, Jill"
   },
   {
@@ -87,6 +91,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY II (A & S)",
+    "code": "101-LCU-05",
     "teacher": "Daly, Stewart"
   },
   {
@@ -104,6 +109,7 @@
       }
     ],
     "name": "HUMAN PHYSIOLOGY",
+    "code": "101-LCV-05",
     "teacher": "Di Flumeri, Celestino"
   },
   {
@@ -121,6 +127,7 @@
       }
     ],
     "name": "HUMAN PHYSIOLOGY",
+    "code": "101-LCV-05",
     "teacher": "Goldner-Sauvé, Audrey"
   },
   {
@@ -143,6 +150,7 @@
       }
     ],
     "name": "HUMAN PHYSIOLOGY",
+    "code": "101-LCV-05",
     "teacher": "Oberholzer, Ursula"
   },
   {
@@ -165,6 +173,7 @@
       }
     ],
     "name": "HUMAN PHYSIOLOGY",
+    "code": "101-LCV-05",
     "teacher": "Oberholzer, Ursula"
   },
   {
@@ -186,7 +195,9 @@
         "room": "G-202"
       }
     ],
-    "name": "HUMAN PHYSIOLOGYSaumier, Michèle"
+    "name": "HUMAN PHYSIOLOGY",
+    "code": "101-LCV-05",
+    "teacher": "Saumier, Michèle"
   },
   {
     "section": "00001",
@@ -208,6 +219,7 @@
       }
     ],
     "name": "MOLECULAR GENETICS",
+    "code": "101-LCW-MS",
     "teacher": "Ranger, Jill"
   },
   {
@@ -225,6 +237,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
     "teacher": "Daly, Stewart"
   },
   {
@@ -247,6 +260,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
     "teacher": "Daly, Stewart"
   },
   {
@@ -269,6 +283,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
     "teacher": "Goldner-Sauvé, Audrey"
   },
   {
@@ -291,6 +306,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
     "teacher": "Goldner-Sauvé, Audrey"
   },
   {
@@ -312,7 +328,9 @@
         "room": "A-109"
       }
     ],
-    "name": "GENERAL BIOLOGY ISaumier, Michèle"
+    "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
+    "teacher": "Saumier, Michèle"
   },
   {
     "section": "00001",
@@ -329,6 +347,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY II",
+    "code": "101-LCU-05",
     "teacher": "Di Flumeri, Celestino"
   },
   {
@@ -346,6 +365,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY II",
+    "code": "101-LCU-05",
     "teacher": "Di Flumeri, Celestino"
   },
   {
@@ -363,6 +383,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY II",
+    "code": "101-LCU-05",
     "teacher": "Ranger, Jill"
   },
   {
@@ -385,6 +406,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY II",
+    "code": "101-LCU-05",
     "teacher": "Ranger, Jill"
   },
   {
@@ -402,6 +424,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY II (A & S)",
+    "code": "101-LCU-05",
     "teacher": "Daly, Stewart"
   },
   {
@@ -419,6 +442,7 @@
       }
     ],
     "name": "HUMAN PHYSIOLOGY",
+    "code": "101-LCV-05",
     "teacher": "Di Flumeri, Celestino"
   },
   {
@@ -436,6 +460,7 @@
       }
     ],
     "name": "HUMAN PHYSIOLOGY",
+    "code": "101-LCV-05",
     "teacher": "Goldner-Sauvé, Audrey"
   },
   {
@@ -458,6 +483,7 @@
       }
     ],
     "name": "HUMAN PHYSIOLOGY",
+    "code": "101-LCV-05",
     "teacher": "Oberholzer, Ursula"
   },
   {
@@ -480,6 +506,7 @@
       }
     ],
     "name": "HUMAN PHYSIOLOGY",
+    "code": "101-LCV-05",
     "teacher": "Oberholzer, Ursula"
   },
   {
@@ -501,7 +528,9 @@
         "room": "G-202"
       }
     ],
-    "name": "HUMAN PHYSIOLOGYSaumier, Michèle"
+    "name": "HUMAN PHYSIOLOGY",
+    "code": "101-LCV-05",
+    "teacher": "Saumier, Michèle"
   },
   {
     "section": "00001",
@@ -523,6 +552,7 @@
       }
     ],
     "name": "MOLECULAR GENETICS",
+    "code": "101-LCW-MS",
     "teacher": "Ranger, Jill"
   },
   {
@@ -540,6 +570,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
     "teacher": "Daly, Stewart"
   },
   {
@@ -562,6 +593,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
     "teacher": "Daly, Stewart"
   },
   {
@@ -584,6 +616,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
     "teacher": "Goldner-Sauvé, Audrey"
   },
   {
@@ -606,6 +639,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
     "teacher": "Goldner-Sauvé, Audrey"
   },
   {
@@ -627,7 +661,9 @@
         "room": "A-109"
       }
     ],
-    "name": "GENERAL BIOLOGY ISaumier, Michèle"
+    "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
+    "teacher": "Saumier, Michèle"
   },
   {
     "section": "00006",
@@ -643,7 +679,9 @@
         "room": "A-307"
       }
     ],
-    "name": "GENERAL BIOLOGY ISaumier, Michèle"
+    "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
+    "teacher": "Saumier, Michèle"
   },
   {
     "section": "00007",
@@ -660,6 +698,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
     "teacher": "D'Abramo, Claudia"
   },
   {
@@ -677,6 +716,7 @@
       }
     ],
     "name": "ENRICHED GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
     "teacher": "Oberholzer, Ursula"
   },
   {
@@ -699,6 +739,7 @@
       }
     ],
     "name": "CALCULUS III",
+    "code": "201-LCU-05",
     "teacher": "Egan, Matthew"
   },
   {
@@ -721,6 +762,7 @@
       }
     ],
     "name": "CALCULUS III",
+    "code": "201-LCU-05",
     "teacher": "Egan, Matthew"
   },
   {
@@ -738,6 +780,7 @@
       }
     ],
     "name": "LINEAR ALGEBRA II",
+    "code": "201-LCV-05",
     "teacher": "Zakon, Tamara"
   },
   {
@@ -760,6 +803,7 @@
       }
     ],
     "name": "PROBABILITY & STATISTICS",
+    "code": "201-LCW-05",
     "teacher": "Desrochers, Maryse"
   },
   {
@@ -781,7 +825,9 @@
         "room": "D-416"
       }
     ],
-    "name": "FINITE MATHEMATICSDeslandes, Jean-François"
+    "name": "FINITE MATHEMATICS",
+    "code": "201-LCY-05",
+    "teacher": "Deslandes, Jean-François"
   },
   {
     "section": "00001",
@@ -803,6 +849,7 @@
       }
     ],
     "name": "DIFFERENTIAL EQUATIONS",
+    "code": "201-LCZ-MS",
     "teacher": "Lemelin, Dominic"
   },
   {
@@ -825,6 +872,7 @@
       }
     ],
     "name": "CALCULUS I",
+    "code": "201-NYA-05",
     "teacher": "Garneau, Claude"
   },
   {
@@ -847,6 +895,7 @@
       }
     ],
     "name": "CALCULUS I",
+    "code": "201-NYA-05",
     "teacher": "Lemelin, Dominic"
   },
   {
@@ -864,6 +913,7 @@
       }
     ],
     "name": "CALCULUS I",
+    "code": "201-NYA-05",
     "teacher": "White, Shaun"
   },
   {
@@ -886,6 +936,7 @@
       }
     ],
     "name": "CALCULUS I",
+    "code": "201-NYA-05",
     "teacher": "White, Shaun"
   },
   {
@@ -908,6 +959,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Bigdely, Hadi"
   },
   {
@@ -925,6 +977,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Bigdely, Hadi"
   },
   {
@@ -947,6 +1000,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Fenwick, Andrew"
   },
   {
@@ -963,7 +1017,9 @@
         "room": "A-307"
       }
     ],
-    "name": "GENERAL BIOLOGY ISaumier, Michèle"
+    "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
+    "teacher": "Saumier, Michèle"
   },
   {
     "section": "00007",
@@ -980,6 +1036,7 @@
       }
     ],
     "name": "GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
     "teacher": "D'Abramo, Claudia"
   },
   {
@@ -997,6 +1054,7 @@
       }
     ],
     "name": "ENRICHED GENERAL BIOLOGY I",
+    "code": "101-NYA-05",
     "teacher": "Oberholzer, Ursula"
   },
   {
@@ -1019,6 +1077,7 @@
       }
     ],
     "name": "CALCULUS III",
+    "code": "201-LCU-05",
     "teacher": "Egan, Matthew"
   },
   {
@@ -1041,6 +1100,7 @@
       }
     ],
     "name": "CALCULUS III",
+    "code": "201-LCU-05",
     "teacher": "Egan, Matthew"
   },
   {
@@ -1058,6 +1118,7 @@
       }
     ],
     "name": "LINEAR ALGEBRA II",
+    "code": "201-LCV-05",
     "teacher": "Zakon, Tamara"
   },
   {
@@ -1080,6 +1141,7 @@
       }
     ],
     "name": "PROBABILITY & STATISTICS",
+    "code": "201-LCW-05",
     "teacher": "Desrochers, Maryse"
   },
   {
@@ -1101,7 +1163,9 @@
         "room": "D-416"
       }
     ],
-    "name": "FINITE MATHEMATICSDeslandes, Jean-François"
+    "name": "FINITE MATHEMATICS",
+    "code": "201-LCY-05",
+    "teacher": "Deslandes, Jean-François"
   },
   {
     "section": "00001",
@@ -1123,6 +1187,7 @@
       }
     ],
     "name": "DIFFERENTIAL EQUATIONS",
+    "code": "201-LCZ-MS",
     "teacher": "Lemelin, Dominic"
   },
   {
@@ -1145,6 +1210,7 @@
       }
     ],
     "name": "CALCULUS I",
+    "code": "201-NYA-05",
     "teacher": "Garneau, Claude"
   },
   {
@@ -1167,6 +1233,7 @@
       }
     ],
     "name": "CALCULUS I",
+    "code": "201-NYA-05",
     "teacher": "Lemelin, Dominic"
   },
   {
@@ -1184,6 +1251,7 @@
       }
     ],
     "name": "CALCULUS I",
+    "code": "201-NYA-05",
     "teacher": "White, Shaun"
   },
   {
@@ -1206,6 +1274,7 @@
       }
     ],
     "name": "CALCULUS I",
+    "code": "201-NYA-05",
     "teacher": "White, Shaun"
   },
   {
@@ -1228,6 +1297,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Bigdely, Hadi"
   },
   {
@@ -1245,6 +1315,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Bigdely, Hadi"
   },
   {
@@ -1267,6 +1338,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Fenwick, Andrew"
   },
   {
@@ -1289,6 +1361,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Fenwick, Andrew"
   },
   {
@@ -1311,6 +1384,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Gavrin, Victor"
   },
   {
@@ -1328,6 +1402,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Gavrin, Victor"
   },
   {
@@ -1350,6 +1425,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Godin, Veronique"
   },
   {
@@ -1372,6 +1448,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Lemelin, Dominic"
   },
   {
@@ -1394,6 +1471,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Nobile, Louise"
   },
   {
@@ -1411,6 +1489,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Rinehart, Joseph"
   },
   {
@@ -1428,6 +1507,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Zakon, Tamara"
   },
   {
@@ -1450,6 +1530,7 @@
       }
     ],
     "name": "ENRICHED CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Garneau, Claude"
   },
   {
@@ -1467,6 +1548,7 @@
       }
     ],
     "name": "ENRICHED CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "White, Shaun"
   },
   {
@@ -1489,6 +1571,7 @@
       }
     ],
     "name": "LINEAR ALGEBRA I",
+    "code": "201-NYC-05",
     "teacher": "Catalano, Riccardo"
   },
   {
@@ -1510,7 +1593,9 @@
         "room": "A-314"
       }
     ],
-    "name": "LINEAR ALGEBRA ILim, Wee Keong"
+    "name": "LINEAR ALGEBRA I",
+    "code": "201-NYC-05",
+    "teacher": "Lim, Wee Keong"
   },
   {
     "section": "00003",
@@ -1526,7 +1611,9 @@
         "room": "A-107"
       }
     ],
-    "name": "LINEAR ALGEBRA ILim, Wee Keong"
+    "name": "LINEAR ALGEBRA I",
+    "code": "201-NYC-05",
+    "teacher": "Lim, Wee Keong"
   },
   {
     "section": "00001",
@@ -1543,6 +1630,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY I",
+    "code": "202-LCU-05",
     "teacher": "Butt, Roby"
   },
   {
@@ -1560,6 +1648,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY I",
+    "code": "202-LCU-05",
     "teacher": "Freeman, Jeffrey"
   },
   {
@@ -1582,6 +1671,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY I",
+    "code": "202-LCU-05",
     "teacher": "Halab, Liliane"
   },
   {
@@ -1604,6 +1694,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Fenwick, Andrew"
   },
   {
@@ -1626,6 +1717,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Gavrin, Victor"
   },
   {
@@ -1643,6 +1735,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Gavrin, Victor"
   },
   {
@@ -1665,6 +1758,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Godin, Veronique"
   },
   {
@@ -1687,6 +1781,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Lemelin, Dominic"
   },
   {
@@ -1709,6 +1804,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Nobile, Louise"
   },
   {
@@ -1726,6 +1822,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Rinehart, Joseph"
   },
   {
@@ -1743,6 +1840,7 @@
       }
     ],
     "name": "CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Zakon, Tamara"
   },
   {
@@ -1765,6 +1863,7 @@
       }
     ],
     "name": "ENRICHED CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "Garneau, Claude"
   },
   {
@@ -1782,6 +1881,7 @@
       }
     ],
     "name": "ENRICHED CALCULUS II",
+    "code": "201-NYB-05",
     "teacher": "White, Shaun"
   },
   {
@@ -1804,6 +1904,7 @@
       }
     ],
     "name": "LINEAR ALGEBRA I",
+    "code": "201-NYC-05",
     "teacher": "Catalano, Riccardo"
   },
   {
@@ -1825,7 +1926,9 @@
         "room": "A-314"
       }
     ],
-    "name": "LINEAR ALGEBRA ILim, Wee Keong"
+    "name": "LINEAR ALGEBRA I",
+    "code": "201-NYC-05",
+    "teacher": "Lim, Wee Keong"
   },
   {
     "section": "00003",
@@ -1841,7 +1944,9 @@
         "room": "A-107"
       }
     ],
-    "name": "LINEAR ALGEBRA ILim, Wee Keong"
+    "name": "LINEAR ALGEBRA I",
+    "code": "201-NYC-05",
+    "teacher": "Lim, Wee Keong"
   },
   {
     "section": "00001",
@@ -1858,6 +1963,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY I",
+    "code": "202-LCU-05",
     "teacher": "Butt, Roby"
   },
   {
@@ -1875,6 +1981,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY I",
+    "code": "202-LCU-05",
     "teacher": "Freeman, Jeffrey"
   },
   {
@@ -1897,6 +2004,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY I",
+    "code": "202-LCU-05",
     "teacher": "Halab, Liliane"
   },
   {
@@ -1919,6 +2027,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY I",
+    "code": "202-LCU-05",
     "teacher": "Keane, Angela"
   },
   {
@@ -1936,6 +2045,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY I",
+    "code": "202-LCU-05",
     "teacher": "Li, Jason"
   },
   {
@@ -1953,6 +2063,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY I",
+    "code": "202-LCU-05",
     "teacher": "Vukov, Aleksandar"
   },
   {
@@ -1970,6 +2081,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY II",
+    "code": "202-LCV-05",
     "teacher": "Gallant, Pascal"
   },
   {
@@ -1987,6 +2099,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY I",
+    "code": "202-NYA-05",
     "teacher": "Williams, Daniel"
   },
   {
@@ -2004,6 +2117,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Butt, Roby"
   },
   {
@@ -2021,6 +2135,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Butt, Roby"
   },
   {
@@ -2038,6 +2153,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Freeman, Jeffrey"
   },
   {
@@ -2055,6 +2171,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Gallant, Pascal"
   },
   {
@@ -2072,6 +2189,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Gallant, Pascal"
   },
   {
@@ -2089,6 +2207,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Halab, Liliane"
   },
   {
@@ -2111,6 +2230,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Halab, Liliane"
   },
   {
@@ -2133,6 +2253,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Jinbachian, Lori"
   },
   {
@@ -2155,6 +2276,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Jinbachian, Lori"
   },
   {
@@ -2177,6 +2299,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Keane, Angela"
   },
   {
@@ -2194,6 +2317,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Keane, Angela"
   },
   {
@@ -2211,6 +2335,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Li, Jason"
   },
   {
@@ -2233,6 +2358,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY I",
+    "code": "202-LCU-05",
     "teacher": "Keane, Angela"
   },
   {
@@ -2250,6 +2376,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY I",
+    "code": "202-LCU-05",
     "teacher": "Li, Jason"
   },
   {
@@ -2267,6 +2394,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY I",
+    "code": "202-LCU-05",
     "teacher": "Vukov, Aleksandar"
   },
   {
@@ -2284,6 +2412,7 @@
       }
     ],
     "name": "ORGANIC CHEMISTRY II",
+    "code": "202-LCV-05",
     "teacher": "Gallant, Pascal"
   },
   {
@@ -2301,6 +2430,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY I",
+    "code": "202-NYA-05",
     "teacher": "Williams, Daniel"
   },
   {
@@ -2318,6 +2448,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Butt, Roby"
   },
   {
@@ -2335,6 +2466,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Butt, Roby"
   },
   {
@@ -2352,6 +2484,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Freeman, Jeffrey"
   },
   {
@@ -2369,6 +2502,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Gallant, Pascal"
   },
   {
@@ -2386,6 +2520,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Gallant, Pascal"
   },
   {
@@ -2403,6 +2538,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Halab, Liliane"
   },
   {
@@ -2425,6 +2561,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Halab, Liliane"
   },
   {
@@ -2447,6 +2584,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Jinbachian, Lori"
   },
   {
@@ -2469,6 +2607,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Jinbachian, Lori"
   },
   {
@@ -2491,6 +2630,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Keane, Angela"
   },
   {
@@ -2508,6 +2648,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Keane, Angela"
   },
   {
@@ -2525,6 +2666,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Li, Jason"
   },
   {
@@ -2547,6 +2689,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Vukov, Aleksandar"
   },
   {
@@ -2564,6 +2707,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Vukov, Aleksandar"
   },
   {
@@ -2586,6 +2730,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Williams, Daniel"
   },
   {
@@ -2608,6 +2753,7 @@
       }
     ],
     "name": "DIGITAL ELECTRONICS",
+    "code": "203-LCV-05",
     "teacher": "Sankeralli, Marcel"
   },
   {
@@ -2625,6 +2771,7 @@
       }
     ],
     "name": "ASTROPHYSICS",
+    "code": "203-LCW-05",
     "teacher": "Paradis, Dominique"
   },
   {
@@ -2647,6 +2794,7 @@
       }
     ],
     "name": "ASTROPHYSICS",
+    "code": "203-LCW-05",
     "teacher": "Paradis, Dominique"
   },
   {
@@ -2669,6 +2817,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Fatholahzadeh, Baharak"
   },
   {
@@ -2691,6 +2840,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Faust, Rachel"
   },
   {
@@ -2713,6 +2863,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Faust, Rachel"
   },
   {
@@ -2730,6 +2881,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Lefcoe, Andrew"
   },
   {
@@ -2752,6 +2904,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Rogers, Patrick"
   },
   {
@@ -2774,6 +2927,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Rogers, Patrick"
   },
   {
@@ -2796,6 +2950,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Livingstone, Margaret"
   },
   {
@@ -2813,6 +2968,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Livingstone, Margaret"
   },
   {
@@ -2830,6 +2986,7 @@
       }
     ],
     "name": "ENRICHED MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Paradis, Dominique"
   },
   {
@@ -2852,6 +3009,7 @@
       }
     ],
     "name": "MECHANICS (A&S)",
+    "code": "203-NYA-05",
     "teacher": "Lefcoe, Andrew"
   },
   {
@@ -2874,6 +3032,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Vukov, Aleksandar"
   },
   {
@@ -2891,6 +3050,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Vukov, Aleksandar"
   },
   {
@@ -2913,6 +3073,7 @@
       }
     ],
     "name": "GENERAL CHEMISTRY II",
+    "code": "202-NYB-05",
     "teacher": "Williams, Daniel"
   },
   {
@@ -2935,6 +3096,7 @@
       }
     ],
     "name": "DIGITAL ELECTRONICS",
+    "code": "203-LCV-05",
     "teacher": "Sankeralli, Marcel"
   },
   {
@@ -2952,6 +3114,7 @@
       }
     ],
     "name": "ASTROPHYSICS",
+    "code": "203-LCW-05",
     "teacher": "Paradis, Dominique"
   },
   {
@@ -2974,6 +3137,7 @@
       }
     ],
     "name": "ASTROPHYSICS",
+    "code": "203-LCW-05",
     "teacher": "Paradis, Dominique"
   },
   {
@@ -2996,6 +3160,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Fatholahzadeh, Baharak"
   },
   {
@@ -3018,6 +3183,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Faust, Rachel"
   },
   {
@@ -3040,6 +3206,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Faust, Rachel"
   },
   {
@@ -3057,6 +3224,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Lefcoe, Andrew"
   },
   {
@@ -3079,6 +3247,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Rogers, Patrick"
   },
   {
@@ -3101,6 +3270,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Rogers, Patrick"
   },
   {
@@ -3123,6 +3293,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Livingstone, Margaret"
   },
   {
@@ -3140,6 +3311,7 @@
       }
     ],
     "name": "MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Livingstone, Margaret"
   },
   {
@@ -3157,6 +3329,7 @@
       }
     ],
     "name": "ENRICHED MECHANICS",
+    "code": "203-NYA-05",
     "teacher": "Paradis, Dominique"
   },
   {
@@ -3179,6 +3352,7 @@
       }
     ],
     "name": "MECHANICS (A&S)",
+    "code": "203-NYA-05",
     "teacher": "Lefcoe, Andrew"
   },
   {
@@ -3201,6 +3375,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Fatholahzadeh, Baharak"
   },
   {
@@ -3218,6 +3393,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Rogers, Patrick"
   },
   {
@@ -3239,7 +3415,9 @@
         "room": "D-107"
       }
     ],
-    "name": "ELECTRICITY & MAGNETISMLebel, Céline"
+    "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
+    "teacher": "Lebel, Céline"
   },
   {
     "section": "00004",
@@ -3261,6 +3439,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Perreault, Jean"
   },
   {
@@ -3283,6 +3462,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Perreault, Jean"
   },
   {
@@ -3300,6 +3480,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Sankeralli, Marcel"
   },
   {
@@ -3317,6 +3498,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Sankeralli, Marcel"
   },
   {
@@ -3334,6 +3516,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Livingstone, Margaret"
   },
   {
@@ -3351,6 +3534,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "TBAPHY3, Marianopolis"
   },
   {
@@ -3368,6 +3552,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "TBAPHY3, Marianopolis"
   },
   {
@@ -3390,6 +3575,7 @@
       }
     ],
     "name": "ENRICHED (LIFE SCIENCES) ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Faust, Rachel"
   },
   {
@@ -3406,7 +3592,9 @@
         "room": "D-305"
       }
     ],
-    "name": "ENRICHED (MODERN PHYSICS) ELECTRICITY & MAGNETISMVinet, Jérémie"
+    "name": "ENRICHED (MODERN PHYSICS) ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
+    "teacher": "Vinet, Jérémie"
   },
   {
     "section": "00071",
@@ -3423,6 +3611,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "TBAPHY3, Marianopolis"
   },
   {
@@ -3439,7 +3628,8 @@
         "room": "D-307"
       }
     ],
-    "name": "WAVES, LIGHT & MODERN PHYSICS",
+    "name": "PHYSICS",
+    "code": "203-NYC-05",
     "teacher": "Perreault, Jean"
   },
   {
@@ -3457,6 +3647,7 @@
       }
     ],
     "name": "COMPUTER PROGRAMMING",
+    "code": "420-LCU-05",
     "teacher": "Fleischer, George"
   },
   {
@@ -3479,6 +3670,7 @@
       }
     ],
     "name": "COMPUTER PROGRAMMING",
+    "code": "420-LCU-05",
     "teacher": "TBACSC1, Marianopolis"
   },
   {
@@ -3501,6 +3693,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Fatholahzadeh, Baharak"
   },
   {
@@ -3518,6 +3711,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Rogers, Patrick"
   },
   {
@@ -3539,7 +3733,9 @@
         "room": "D-107"
       }
     ],
-    "name": "ELECTRICITY & MAGNETISMLebel, Céline"
+    "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
+    "teacher": "Lebel, Céline"
   },
   {
     "section": "00004",
@@ -3561,6 +3757,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Perreault, Jean"
   },
   {
@@ -3583,6 +3780,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Perreault, Jean"
   },
   {
@@ -3600,6 +3798,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Sankeralli, Marcel"
   },
   {
@@ -3617,6 +3816,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Sankeralli, Marcel"
   },
   {
@@ -3634,6 +3834,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Livingstone, Margaret"
   },
   {
@@ -3651,6 +3852,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "TBAPHY3, Marianopolis"
   },
   {
@@ -3668,6 +3870,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "TBAPHY3, Marianopolis"
   },
   {
@@ -3690,6 +3893,7 @@
       }
     ],
     "name": "ENRICHED (LIFE SCIENCES) ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "Faust, Rachel"
   },
   {
@@ -3706,7 +3910,9 @@
         "room": "D-305"
       }
     ],
-    "name": "ENRICHED (MODERN PHYSICS) ELECTRICITY & MAGNETISMVinet, Jérémie"
+    "name": "ENRICHED (MODERN PHYSICS) ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
+    "teacher": "Vinet, Jérémie"
   },
   {
     "section": "00071",
@@ -3723,6 +3929,7 @@
       }
     ],
     "name": "ELECTRICITY & MAGNETISM",
+    "code": "203-NYB-05",
     "teacher": "TBAPHY3, Marianopolis"
   },
   {
@@ -3739,7 +3946,8 @@
         "room": "D-307"
       }
     ],
-    "name": "WAVES, LIGHT & MODERN PHYSICS",
+    "name": "PHYSICS",
+    "code": "203-NYC-05",
     "teacher": "Perreault, Jean"
   },
   {
@@ -3757,6 +3965,7 @@
       }
     ],
     "name": "COMPUTER PROGRAMMING",
+    "code": "420-LCU-05",
     "teacher": "Fleischer, George"
   },
   {
@@ -3779,6 +3988,7 @@
       }
     ],
     "name": "COMPUTER PROGRAMMING",
+    "code": "420-LCU-05",
     "teacher": "TBACSC1, Marianopolis"
   },
   {
@@ -3801,6 +4011,7 @@
       }
     ],
     "name": "TECHNICAL DRAWING",
+    "code": "420-LCV-05",
     "teacher": "Fleischer, George"
   },
   {
@@ -3823,6 +4034,7 @@
       }
     ],
     "name": "TECHNICAL DRAWING",
+    "code": "420-LCV-05",
     "teacher": "Fleischer, George"
   },
   {
@@ -3840,6 +4052,7 @@
       }
     ],
     "name": "INTRO TO COLLEGE ENGLISH",
+    "code": "603-101-MQ",
     "teacher": "Pedersen, Susan"
   },
   {
@@ -3857,6 +4070,7 @@
       }
     ],
     "name": "INTRO TO COLLEGE ENGLISH",
+    "code": "603-101-MQ",
     "teacher": "Fitz-James, Megan"
   },
   {
@@ -3868,7 +4082,8 @@
         "room": "A-365"
       }
     ],
-    "name": "TRUTH, HISTORY, AND FICTION",
+    "name": "",
+    "code": "603-102-MQ",
     "teacher": "Berdichevsky, Leon"
   },
   {
@@ -3880,7 +4095,8 @@
         "room": "D-107"
       }
     ],
-    "name": "TRUTH, HISTORY, AND FICTION",
+    "name": "",
+    "code": "603-102-MQ",
     "teacher": "Berdichevsky, Leon"
   },
   {
@@ -3893,6 +4109,7 @@
       }
     ],
     "name": "TELEPLAY AS LITERATURE",
+    "code": "603-102-MQ",
     "teacher": "McCambridge, Andrew"
   },
   {
@@ -3905,6 +4122,7 @@
       }
     ],
     "name": "TELEPLAY AS LITERATURE",
+    "code": "603-102-MQ",
     "teacher": "McCambridge, Andrew"
   },
   {
@@ -3917,6 +4135,7 @@
       }
     ],
     "name": "DETECTIVE FICTION",
+    "code": "603-102-MQ",
     "teacher": "Côté, Christine"
   },
   {
@@ -3929,6 +4148,7 @@
       }
     ],
     "name": "DETECTIVE FICTION",
+    "code": "603-102-MQ",
     "teacher": "Côté, Christine"
   },
   {
@@ -3946,6 +4166,7 @@
       }
     ],
     "name": "SHORT FICTION",
+    "code": "603-102-MQ",
     "teacher": "Newell, Megan"
   },
   {
@@ -3958,6 +4179,7 @@
       }
     ],
     "name": "SHORT FICTION",
+    "code": "603-102-MQ",
     "teacher": "Newell, Megan"
   },
   {
@@ -3970,6 +4192,7 @@
       }
     ],
     "name": "THE SOCIAL NOVEL",
+    "code": "603-102-MQ",
     "teacher": "Webster, Barry"
   },
   {
@@ -3982,6 +4205,7 @@
       }
     ],
     "name": "SCIENCE FICTION",
+    "code": "603-102-MQ",
     "teacher": "Sheckler, Catherine"
   },
   {
@@ -3994,6 +4218,7 @@
       }
     ],
     "name": "MAGIC REALISM",
+    "code": "603-102-MQ",
     "teacher": "Dubé, Peter"
   },
   {
@@ -4006,6 +4231,7 @@
       }
     ],
     "name": "MAGIC REALISM",
+    "code": "603-102-MQ",
     "teacher": "Dubé, Peter"
   },
   {
@@ -4023,6 +4249,7 @@
       }
     ],
     "name": "SCREENPLAY/STAGEPLAY",
+    "code": "603-102-MQ",
     "teacher": "Shugar, Seth"
   },
   {
@@ -4035,6 +4262,7 @@
       }
     ],
     "name": "SCREENPLAY/STAGEPLAY",
+    "code": "603-102-MQ",
     "teacher": "Shugar, Seth"
   },
   {
@@ -4052,6 +4280,7 @@
       }
     ],
     "name": "INTRO TO COLLEGE ENGLISH",
+    "code": "603-101-MQ",
     "teacher": "Pedersen, Susan"
   },
   {
@@ -4069,6 +4298,7 @@
       }
     ],
     "name": "INTRO TO COLLEGE ENGLISH",
+    "code": "603-101-MQ",
     "teacher": "Fitz-James, Megan"
   },
   {
@@ -4080,7 +4310,8 @@
         "room": "A-365"
       }
     ],
-    "name": "TRUTH, HISTORY, AND FICTION",
+    "name": "",
+    "code": "603-102-MQ",
     "teacher": "Berdichevsky, Leon"
   },
   {
@@ -4092,7 +4323,8 @@
         "room": "D-107"
       }
     ],
-    "name": "TRUTH, HISTORY, AND FICTION",
+    "name": "",
+    "code": "603-102-MQ",
     "teacher": "Berdichevsky, Leon"
   },
   {
@@ -4105,6 +4337,7 @@
       }
     ],
     "name": "TELEPLAY AS LITERATURE",
+    "code": "603-102-MQ",
     "teacher": "McCambridge, Andrew"
   },
   {
@@ -4117,6 +4350,7 @@
       }
     ],
     "name": "TELEPLAY AS LITERATURE",
+    "code": "603-102-MQ",
     "teacher": "McCambridge, Andrew"
   },
   {
@@ -4129,6 +4363,7 @@
       }
     ],
     "name": "DETECTIVE FICTION",
+    "code": "603-102-MQ",
     "teacher": "Côté, Christine"
   },
   {
@@ -4141,6 +4376,7 @@
       }
     ],
     "name": "DETECTIVE FICTION",
+    "code": "603-102-MQ",
     "teacher": "Côté, Christine"
   },
   {
@@ -4158,6 +4394,7 @@
       }
     ],
     "name": "SHORT FICTION",
+    "code": "603-102-MQ",
     "teacher": "Newell, Megan"
   },
   {
@@ -4170,6 +4407,7 @@
       }
     ],
     "name": "SHORT FICTION",
+    "code": "603-102-MQ",
     "teacher": "Newell, Megan"
   },
   {
@@ -4182,6 +4420,7 @@
       }
     ],
     "name": "THE SOCIAL NOVEL",
+    "code": "603-102-MQ",
     "teacher": "Webster, Barry"
   },
   {
@@ -4194,6 +4433,7 @@
       }
     ],
     "name": "SCIENCE FICTION",
+    "code": "603-102-MQ",
     "teacher": "Sheckler, Catherine"
   },
   {
@@ -4206,6 +4446,7 @@
       }
     ],
     "name": "MAGIC REALISM",
+    "code": "603-102-MQ",
     "teacher": "Dubé, Peter"
   },
   {
@@ -4218,6 +4459,7 @@
       }
     ],
     "name": "MAGIC REALISM",
+    "code": "603-102-MQ",
     "teacher": "Dubé, Peter"
   },
   {
@@ -4235,6 +4477,7 @@
       }
     ],
     "name": "SCREENPLAY/STAGEPLAY",
+    "code": "603-102-MQ",
     "teacher": "Shugar, Seth"
   },
   {
@@ -4247,6 +4490,7 @@
       }
     ],
     "name": "SCREENPLAY/STAGEPLAY",
+    "code": "603-102-MQ",
     "teacher": "Shugar, Seth"
   },
   {
@@ -4264,6 +4508,7 @@
       }
     ],
     "name": "THE ESSAY",
+    "code": "603-102-MQ",
     "teacher": "Walser, Sabine"
   },
   {
@@ -4281,6 +4526,7 @@
       }
     ],
     "name": "The Penny Dreadful",
+    "code": "603-102-MQ",
     "teacher": "Frauley, Mary"
   },
   {
@@ -4293,6 +4539,7 @@
       }
     ],
     "name": "The Penny Dreadful",
+    "code": "603-102-MQ",
     "teacher": "Frauley, Mary"
   },
   {
@@ -4305,6 +4552,7 @@
       }
     ],
     "name": "COMICS AS LITERATURE",
+    "code": "603-102-MQ",
     "teacher": "Carrier, Nicolas"
   },
   {
@@ -4316,7 +4564,9 @@
         "room": "A-361"
       }
     ],
-    "name": "CONTEMPORARY CANADIAN NOVELKhoo, Jun Ling"
+    "name": "CONTEMPORARY CANADIAN NOVEL",
+    "code": "603-102-MQ",
+    "teacher": "Khoo, Jun Ling"
   },
   {
     "section": "00020",
@@ -4327,7 +4577,9 @@
         "room": "D-209"
       }
     ],
-    "name": "CONTEMPORARY CANADIAN NOVELKhoo, Jun Ling"
+    "name": "CONTEMPORARY CANADIAN NOVEL",
+    "code": "603-102-MQ",
+    "teacher": "Khoo, Jun Ling"
   },
   {
     "section": "00021",
@@ -4339,6 +4591,7 @@
       }
     ],
     "name": "ROGUES & REBELS: NOVELS OF NONCOMFORMITY",
+    "code": "603-102-MQ",
     "teacher": "Malott, Paul"
   },
   {
@@ -4351,6 +4604,7 @@
       }
     ],
     "name": "LITERARY GENRE",
+    "code": "603-102-MQ",
     "teacher": "MacDonald, John"
   },
   {
@@ -4363,6 +4617,7 @@
       }
     ],
     "name": "LITERARY GENRE",
+    "code": "603-102-MQ",
     "teacher": "MacDonald, John"
   },
   {
@@ -4375,6 +4630,7 @@
       }
     ],
     "name": "LITERARY GENRE",
+    "code": "603-102-MQ",
     "teacher": "Vincent, John"
   },
   {
@@ -4387,6 +4643,7 @@
       }
     ],
     "name": "LITERARY GENRE",
+    "code": "603-102-MQ",
     "teacher": "Vincent, John"
   },
   {
@@ -4399,6 +4656,7 @@
       }
     ],
     "name": "LITERARY GENRE",
+    "code": "603-102-MQ",
     "teacher": "Vann, Matthew"
   },
   {
@@ -4411,6 +4669,7 @@
       }
     ],
     "name": "LITERARY GENRE",
+    "code": "603-102-MQ",
     "teacher": "Vann, Matthew"
   },
   {
@@ -4423,6 +4682,7 @@
       }
     ],
     "name": "ENGLISH LIT TO 1800 (A & S and Liberal Arts)",
+    "code": "603-102-MQ",
     "teacher": "Sheckler, Catherine"
   },
   {
@@ -4435,6 +4695,7 @@
       }
     ],
     "name": "ENGLISH LIT TO 1800 (A & S and Liberal Arts)",
+    "code": "603-102-MQ",
     "teacher": "Fitz-James, Megan"
   },
   {
@@ -4447,6 +4708,7 @@
       }
     ],
     "name": "LITERARY THEMES",
+    "code": "603-103-MQ",
     "teacher": "Vincent, John"
   },
   {
@@ -4464,6 +4726,7 @@
       }
     ],
     "name": "THE ESSAY",
+    "code": "603-102-MQ",
     "teacher": "Walser, Sabine"
   },
   {
@@ -4481,6 +4744,7 @@
       }
     ],
     "name": "The Penny Dreadful",
+    "code": "603-102-MQ",
     "teacher": "Frauley, Mary"
   },
   {
@@ -4493,6 +4757,7 @@
       }
     ],
     "name": "The Penny Dreadful",
+    "code": "603-102-MQ",
     "teacher": "Frauley, Mary"
   },
   {
@@ -4505,6 +4770,7 @@
       }
     ],
     "name": "COMICS AS LITERATURE",
+    "code": "603-102-MQ",
     "teacher": "Carrier, Nicolas"
   },
   {
@@ -4516,7 +4782,9 @@
         "room": "A-361"
       }
     ],
-    "name": "CONTEMPORARY CANADIAN NOVELKhoo, Jun Ling"
+    "name": "CONTEMPORARY CANADIAN NOVEL",
+    "code": "603-102-MQ",
+    "teacher": "Khoo, Jun Ling"
   },
   {
     "section": "00020",
@@ -4527,7 +4795,9 @@
         "room": "D-209"
       }
     ],
-    "name": "CONTEMPORARY CANADIAN NOVELKhoo, Jun Ling"
+    "name": "CONTEMPORARY CANADIAN NOVEL",
+    "code": "603-102-MQ",
+    "teacher": "Khoo, Jun Ling"
   },
   {
     "section": "00021",
@@ -4539,6 +4809,7 @@
       }
     ],
     "name": "ROGUES & REBELS: NOVELS OF NONCOMFORMITY",
+    "code": "603-102-MQ",
     "teacher": "Malott, Paul"
   },
   {
@@ -4551,6 +4822,7 @@
       }
     ],
     "name": "LITERARY GENRE",
+    "code": "603-102-MQ",
     "teacher": "MacDonald, John"
   },
   {
@@ -4563,6 +4835,7 @@
       }
     ],
     "name": "LITERARY GENRE",
+    "code": "603-102-MQ",
     "teacher": "MacDonald, John"
   },
   {
@@ -4575,6 +4848,7 @@
       }
     ],
     "name": "LITERARY GENRE",
+    "code": "603-102-MQ",
     "teacher": "Vincent, John"
   },
   {
@@ -4587,6 +4861,7 @@
       }
     ],
     "name": "LITERARY GENRE",
+    "code": "603-102-MQ",
     "teacher": "Vincent, John"
   },
   {
@@ -4599,6 +4874,7 @@
       }
     ],
     "name": "LITERARY GENRE",
+    "code": "603-102-MQ",
     "teacher": "Vann, Matthew"
   },
   {
@@ -4611,6 +4887,7 @@
       }
     ],
     "name": "LITERARY GENRE",
+    "code": "603-102-MQ",
     "teacher": "Vann, Matthew"
   },
   {
@@ -4623,6 +4900,7 @@
       }
     ],
     "name": "ENGLISH LIT TO 1800 (A & S and Liberal Arts)",
+    "code": "603-102-MQ",
     "teacher": "Sheckler, Catherine"
   },
   {
@@ -4635,6 +4913,7 @@
       }
     ],
     "name": "ENGLISH LIT TO 1800 (A & S and Liberal Arts)",
+    "code": "603-102-MQ",
     "teacher": "Fitz-James, Megan"
   },
   {
@@ -4647,6 +4926,7 @@
       }
     ],
     "name": "LITERARY THEMES",
+    "code": "603-103-MQ",
     "teacher": "Vincent, John"
   },
   {
@@ -4659,6 +4939,7 @@
       }
     ],
     "name": "THE PSYCHOPATH IN FICTION AND NON-FICTION",
+    "code": "603-LPE-MS",
     "teacher": "Pedersen, Susan"
   },
   {
@@ -4671,6 +4952,7 @@
       }
     ],
     "name": "THE PSYCHOPATH IN FICTION AND NON-FICTION",
+    "code": "603-LPE-MS",
     "teacher": "Pedersen, Susan"
   },
   {
@@ -4683,6 +4965,7 @@
       }
     ],
     "name": "CRITICAL APPROACHES: LITERATURE AND THEORY",
+    "code": "603-LPE-MS",
     "teacher": "Berdichevsky, Leon"
   },
   {
@@ -4695,6 +4978,7 @@
       }
     ],
     "name": "WORLD MYTHOLOGY AND CRITICAL THEORY",
+    "code": "603-LPE-MS",
     "teacher": "McCambridge, Andrew"
   },
   {
@@ -4707,6 +4991,7 @@
       }
     ],
     "name": "LIFE WRITING",
+    "code": "603-LPE-MS",
     "teacher": "Côté, Christine"
   },
   {
@@ -4719,6 +5004,7 @@
       }
     ],
     "name": "SOCIAL ISSUES IN LITERATURE",
+    "code": "603-LPE-MS",
     "teacher": "Newell, Megan"
   },
   {
@@ -4736,6 +5022,7 @@
       }
     ],
     "name": "CRITICAL APPROACHES TO LITERATURE",
+    "code": "603-LPE-MS",
     "teacher": "Webster, Barry"
   },
   {
@@ -4748,6 +5035,7 @@
       }
     ],
     "name": "CRITICAL APPROACHES TO LITERATURE",
+    "code": "603-LPE-MS",
     "teacher": "Webster, Barry"
   },
   {
@@ -4760,6 +5048,7 @@
       }
     ],
     "name": "CREATIVE WRITING",
+    "code": "603-LPE-MS",
     "teacher": "Sheckler, Catherine"
   },
   {
@@ -4772,6 +5061,7 @@
       }
     ],
     "name": "CHARACTER-DRIVEN CREATIVE WRITING",
+    "code": "603-LPE-MS",
     "teacher": "Dubé, Peter"
   },
   {
@@ -4784,6 +5074,7 @@
       }
     ],
     "name": "CREATIVE NONFICTION: WRITING (TRUE) STORIES",
+    "code": "603-LPE-MS",
     "teacher": "Walser, Sabine"
   },
   {
@@ -4796,6 +5087,7 @@
       }
     ],
     "name": "CREATIVE NONFICTION: WRITING (TRUE) STORIES",
+    "code": "603-LPE-MS",
     "teacher": "Walser, Sabine"
   },
   {
@@ -4808,6 +5100,7 @@
       }
     ],
     "name": "WRITINGS AND WRITING ABOUT FOOD",
+    "code": "603-LPE-MS",
     "teacher": "Frauley, Mary"
   },
   {
@@ -4820,6 +5113,7 @@
       }
     ],
     "name": "JOURNALISM",
+    "code": "603-LPE-MS",
     "teacher": "Polak, Monique"
   },
   {
@@ -4832,6 +5126,7 @@
       }
     ],
     "name": "WRITING FOR CHILDREN",
+    "code": "603-LPE-MS",
     "teacher": "Polak, Monique"
   },
   {
@@ -4844,6 +5139,7 @@
       }
     ],
     "name": "BUSINESS COMMUNICATION",
+    "code": "603-LPE-MS",
     "teacher": "Burton, Andrew"
   },
   {
@@ -4856,6 +5152,7 @@
       }
     ],
     "name": "THE PSYCHOPATH IN FICTION AND NON-FICTION",
+    "code": "603-LPE-MS",
     "teacher": "Pedersen, Susan"
   },
   {
@@ -4868,6 +5165,7 @@
       }
     ],
     "name": "THE PSYCHOPATH IN FICTION AND NON-FICTION",
+    "code": "603-LPE-MS",
     "teacher": "Pedersen, Susan"
   },
   {
@@ -4880,6 +5178,7 @@
       }
     ],
     "name": "CRITICAL APPROACHES: LITERATURE AND THEORY",
+    "code": "603-LPE-MS",
     "teacher": "Berdichevsky, Leon"
   },
   {
@@ -4892,6 +5191,7 @@
       }
     ],
     "name": "WORLD MYTHOLOGY AND CRITICAL THEORY",
+    "code": "603-LPE-MS",
     "teacher": "McCambridge, Andrew"
   },
   {
@@ -4904,6 +5204,7 @@
       }
     ],
     "name": "LIFE WRITING",
+    "code": "603-LPE-MS",
     "teacher": "Côté, Christine"
   },
   {
@@ -4916,6 +5217,7 @@
       }
     ],
     "name": "SOCIAL ISSUES IN LITERATURE",
+    "code": "603-LPE-MS",
     "teacher": "Newell, Megan"
   },
   {
@@ -4933,6 +5235,7 @@
       }
     ],
     "name": "CRITICAL APPROACHES TO LITERATURE",
+    "code": "603-LPE-MS",
     "teacher": "Webster, Barry"
   },
   {
@@ -4945,6 +5248,7 @@
       }
     ],
     "name": "CRITICAL APPROACHES TO LITERATURE",
+    "code": "603-LPE-MS",
     "teacher": "Webster, Barry"
   },
   {
@@ -4957,6 +5261,7 @@
       }
     ],
     "name": "CREATIVE WRITING",
+    "code": "603-LPE-MS",
     "teacher": "Sheckler, Catherine"
   },
   {
@@ -4969,6 +5274,7 @@
       }
     ],
     "name": "CHARACTER-DRIVEN CREATIVE WRITING",
+    "code": "603-LPE-MS",
     "teacher": "Dubé, Peter"
   },
   {
@@ -4981,6 +5287,7 @@
       }
     ],
     "name": "CREATIVE NONFICTION: WRITING (TRUE) STORIES",
+    "code": "603-LPE-MS",
     "teacher": "Walser, Sabine"
   },
   {
@@ -4993,6 +5300,7 @@
       }
     ],
     "name": "CREATIVE NONFICTION: WRITING (TRUE) STORIES",
+    "code": "603-LPE-MS",
     "teacher": "Walser, Sabine"
   },
   {
@@ -5005,6 +5313,7 @@
       }
     ],
     "name": "WRITINGS AND WRITING ABOUT FOOD",
+    "code": "603-LPE-MS",
     "teacher": "Frauley, Mary"
   },
   {
@@ -5017,6 +5326,7 @@
       }
     ],
     "name": "JOURNALISM",
+    "code": "603-LPE-MS",
     "teacher": "Polak, Monique"
   },
   {
@@ -5029,6 +5339,7 @@
       }
     ],
     "name": "WRITING FOR CHILDREN",
+    "code": "603-LPE-MS",
     "teacher": "Polak, Monique"
   },
   {
@@ -5041,6 +5352,7 @@
       }
     ],
     "name": "BUSINESS COMMUNICATION",
+    "code": "603-LPE-MS",
     "teacher": "Burton, Andrew"
   },
   {
@@ -5053,6 +5365,7 @@
       }
     ],
     "name": "BUSINESS COMMUNICATION",
+    "code": "603-LPE-MS",
     "teacher": "Burton, Andrew"
   },
   {
@@ -5065,6 +5378,7 @@
       }
     ],
     "name": "THE POWER OF REPRESENTATION",
+    "code": "603-LPE-MS",
     "teacher": "Carrier, Nicolas"
   },
   {
@@ -5077,6 +5391,7 @@
       }
     ],
     "name": "THE POWER OF REPRESENTATION",
+    "code": "603-LPE-MS",
     "teacher": "Carrier, Nicolas"
   },
   {
@@ -5093,7 +5408,9 @@
         "room": "D-207"
       }
     ],
-    "name": "WRITINGS AND WRITING ABOUT FOODKhoo, Jun Ling"
+    "name": "WRITINGS AND WRITING ABOUT FOOD",
+    "code": "603-LPE-MS",
+    "teacher": "Khoo, Jun Ling"
   },
   {
     "section": "00021",
@@ -5110,6 +5427,7 @@
       }
     ],
     "name": "RESEARCHING EIGHTEENTH-CENTURY CRIME WRITING",
+    "code": "603-LPE-MS",
     "teacher": "Dann, Philip"
   },
   {
@@ -5122,6 +5440,7 @@
       }
     ],
     "name": "LEGAL ISSUES",
+    "code": "603-LPE-MS",
     "teacher": "Arnot, Elizabeth"
   },
   {
@@ -5134,6 +5453,7 @@
       }
     ],
     "name": "ADAPTED TO PROGRAM",
+    "code": "603-LPE-MS",
     "teacher": "MacDonald, John"
   },
   {
@@ -5146,6 +5466,7 @@
       }
     ],
     "name": "MODERNISM & CRITICAL THEORY (A & S AND LIB ARTS)",
+    "code": "603-LPE-MS",
     "teacher": "Malott, Paul"
   },
   {
@@ -5158,6 +5479,7 @@
       }
     ],
     "name": "MODERNISM & CRITICAL THEORY (A & S AND LIB ARTS)",
+    "code": "603-LPE-MS",
     "teacher": "Malott, Paul"
   },
   {
@@ -5170,6 +5492,7 @@
       }
     ],
     "name": "BUSINESS COMMUNICATION",
+    "code": "603-LPE-MS",
     "teacher": "Burton, Andrew"
   },
   {
@@ -5182,6 +5505,7 @@
       }
     ],
     "name": "THE POWER OF REPRESENTATION",
+    "code": "603-LPE-MS",
     "teacher": "Carrier, Nicolas"
   },
   {
@@ -5194,6 +5518,7 @@
       }
     ],
     "name": "THE POWER OF REPRESENTATION",
+    "code": "603-LPE-MS",
     "teacher": "Carrier, Nicolas"
   },
   {
@@ -5210,7 +5535,9 @@
         "room": "D-207"
       }
     ],
-    "name": "WRITINGS AND WRITING ABOUT FOODKhoo, Jun Ling"
+    "name": "WRITINGS AND WRITING ABOUT FOOD",
+    "code": "603-LPE-MS",
+    "teacher": "Khoo, Jun Ling"
   },
   {
     "section": "00021",
@@ -5227,6 +5554,7 @@
       }
     ],
     "name": "RESEARCHING EIGHTEENTH-CENTURY CRIME WRITING",
+    "code": "603-LPE-MS",
     "teacher": "Dann, Philip"
   },
   {
@@ -5239,6 +5567,7 @@
       }
     ],
     "name": "LEGAL ISSUES",
+    "code": "603-LPE-MS",
     "teacher": "Arnot, Elizabeth"
   },
   {
@@ -5251,6 +5580,7 @@
       }
     ],
     "name": "ADAPTED TO PROGRAM",
+    "code": "603-LPE-MS",
     "teacher": "MacDonald, John"
   },
   {
@@ -5263,6 +5593,7 @@
       }
     ],
     "name": "MODERNISM & CRITICAL THEORY (A & S AND LIB ARTS)",
+    "code": "603-LPE-MS",
     "teacher": "Malott, Paul"
   },
   {
@@ -5275,6 +5606,7 @@
       }
     ],
     "name": "MODERNISM & CRITICAL THEORY (A & S AND LIB ARTS)",
+    "code": "603-LPE-MS",
     "teacher": "Malott, Paul"
   },
   {
@@ -5287,6 +5619,7 @@
       }
     ],
     "name": "PRÉP. AU FRA. DU COLL.",
+    "code": "602-009-50",
     "teacher": "TBAMDL2, Marianopolis"
   },
   {
@@ -5299,6 +5632,7 @@
       }
     ],
     "name": "LANGUE ET EXPRESSION I",
+    "code": "602-100-MQ",
     "teacher": "Martineau, Julien"
   },
   {
@@ -5311,6 +5645,7 @@
       }
     ],
     "name": "LANGUE ET EXPRESSION I",
+    "code": "602-100-MQ",
     "teacher": "TBAMDL2, Marianopolis"
   },
   {
@@ -5323,6 +5658,7 @@
       }
     ],
     "name": "LANGUE ET EXPRESSION I",
+    "code": "602-100-MQ",
     "teacher": "Martineau, Julien"
   },
   {
@@ -5335,6 +5671,7 @@
       }
     ],
     "name": "LANGUE ET COMMUNICATION",
+    "code": "602-101-MQ",
     "teacher": "Lauzon Dicso, Mathieu"
   },
   {
@@ -5347,6 +5684,7 @@
       }
     ],
     "name": "LANGUE ET COMMUNICATION",
+    "code": "602-101-MQ",
     "teacher": "Lauzon Dicso, Mathieu"
   },
   {
@@ -5359,6 +5697,7 @@
       }
     ],
     "name": "LANGUE ET COMMUNICATION",
+    "code": "602-101-MQ",
     "teacher": "Lauzon Dicso, Mathieu"
   },
   {
@@ -5371,6 +5710,7 @@
       }
     ],
     "name": "LANGUE ET COMMUNICATION",
+    "code": "602-101-MQ",
     "teacher": "TBAMDL1, Marianopolis"
   },
   {
@@ -5383,6 +5723,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "Poirier, Bertrand"
   },
   {
@@ -5395,6 +5736,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "Boulanger, Cynthia"
   },
   {
@@ -5407,6 +5749,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "TBAMDL2, Marianopolis"
   },
   {
@@ -5424,6 +5767,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "TBAMDL1, Marianopolis"
   },
   {
@@ -5436,6 +5780,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "TBAMDL1, Marianopolis"
   },
   {
@@ -5448,6 +5793,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "TBAMDL2, Marianopolis"
   },
   {
@@ -5460,6 +5806,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "TBAMDL1, Marianopolis"
   },
   {
@@ -5472,6 +5819,7 @@
       }
     ],
     "name": "LE QUÉBEC EN DEVENIR",
+    "code": "602-103-MQ",
     "teacher": "Poirier, Bertrand"
   },
   {
@@ -5484,6 +5832,7 @@
       }
     ],
     "name": "PRÉP. AU FRA. DU COLL.",
+    "code": "602-009-50",
     "teacher": "TBAMDL2, Marianopolis"
   },
   {
@@ -5496,6 +5845,7 @@
       }
     ],
     "name": "LANGUE ET EXPRESSION I",
+    "code": "602-100-MQ",
     "teacher": "Martineau, Julien"
   },
   {
@@ -5508,6 +5858,7 @@
       }
     ],
     "name": "LANGUE ET EXPRESSION I",
+    "code": "602-100-MQ",
     "teacher": "TBAMDL2, Marianopolis"
   },
   {
@@ -5520,6 +5871,7 @@
       }
     ],
     "name": "LANGUE ET EXPRESSION I",
+    "code": "602-100-MQ",
     "teacher": "Martineau, Julien"
   },
   {
@@ -5532,6 +5884,7 @@
       }
     ],
     "name": "LANGUE ET COMMUNICATION",
+    "code": "602-101-MQ",
     "teacher": "Lauzon Dicso, Mathieu"
   },
   {
@@ -5544,6 +5897,7 @@
       }
     ],
     "name": "LANGUE ET COMMUNICATION",
+    "code": "602-101-MQ",
     "teacher": "Lauzon Dicso, Mathieu"
   },
   {
@@ -5556,6 +5910,7 @@
       }
     ],
     "name": "LANGUE ET COMMUNICATION",
+    "code": "602-101-MQ",
     "teacher": "Lauzon Dicso, Mathieu"
   },
   {
@@ -5568,6 +5923,7 @@
       }
     ],
     "name": "LANGUE ET COMMUNICATION",
+    "code": "602-101-MQ",
     "teacher": "TBAMDL1, Marianopolis"
   },
   {
@@ -5580,6 +5936,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "Poirier, Bertrand"
   },
   {
@@ -5592,6 +5949,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "Boulanger, Cynthia"
   },
   {
@@ -5604,6 +5962,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "TBAMDL2, Marianopolis"
   },
   {
@@ -5621,6 +5980,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "TBAMDL1, Marianopolis"
   },
   {
@@ -5633,6 +5993,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "TBAMDL1, Marianopolis"
   },
   {
@@ -5645,6 +6006,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "TBAMDL2, Marianopolis"
   },
   {
@@ -5657,6 +6019,7 @@
       }
     ],
     "name": "LANGUE FRANÇAISE ET CULTURE",
+    "code": "602-102-MQ",
     "teacher": "TBAMDL1, Marianopolis"
   },
   {
@@ -5669,6 +6032,7 @@
       }
     ],
     "name": "LE QUÉBEC EN DEVENIR",
+    "code": "602-103-MQ",
     "teacher": "Poirier, Bertrand"
   },
   {
@@ -5681,6 +6045,7 @@
       }
     ],
     "name": "LE QUÉBEC EN DEVENIR",
+    "code": "602-103-MQ",
     "teacher": "Poirier, Bertrand"
   },
   {
@@ -5693,6 +6058,7 @@
       }
     ],
     "name": "CHANSON FRANÇAISE",
+    "code": "602-103-MQ",
     "teacher": "Pagé, Sylvain"
   },
   {
@@ -5705,6 +6071,7 @@
       }
     ],
     "name": "CHANSON FRANÇAISE",
+    "code": "602-103-MQ",
     "teacher": "Pagé, Sylvain"
   },
   {
@@ -5722,6 +6089,7 @@
       }
     ],
     "name": "LE CONTE",
+    "code": "602-103-MQ",
     "teacher": "Savescu, Olivia"
   },
   {
@@ -5734,6 +6102,7 @@
       }
     ],
     "name": "LE CONTE",
+    "code": "602-103-MQ",
     "teacher": "Savescu, Olivia"
   },
   {
@@ -5746,6 +6115,7 @@
       }
     ],
     "name": "AU THÉÂTRE CETTE SAISON",
+    "code": "602-103-MQ",
     "teacher": "Soucy, Lily"
   },
   {
@@ -5758,6 +6128,7 @@
       }
     ],
     "name": "AU THÉÂTRE CETTE SAISON",
+    "code": "602-103-MQ",
     "teacher": "Soucy, Lily"
   },
   {
@@ -5770,6 +6141,7 @@
       }
     ],
     "name": "LES LITTÉRATURES DE L'IMAGINAIRE",
+    "code": "602-103-MQ",
     "teacher": "Lauzon Dicso, Mathieu"
   },
   {
@@ -5787,6 +6159,7 @@
       }
     ],
     "name": "LES LITTÉRATURES DE L'IMAGINAIRE",
+    "code": "602-103-MQ",
     "teacher": "Lauzon Dicso, Mathieu"
   },
   {
@@ -5799,6 +6172,7 @@
       }
     ],
     "name": "LANGUE ET EXPRESSION II",
+    "code": "602-LPW-MS",
     "teacher": "Martineau, Julien"
   },
   {
@@ -5811,6 +6185,7 @@
       }
     ],
     "name": "LANGUE ET EXPRESSION II",
+    "code": "602-LPW-MS",
     "teacher": "Martineau, Julien"
   },
   {
@@ -5823,6 +6198,7 @@
       }
     ],
     "name": "DÉCOUVERTES",
+    "code": "602-LPX-MS",
     "teacher": "Levasseur, Isabelle"
   },
   {
@@ -5835,6 +6211,7 @@
       }
     ],
     "name": "DÉCOUVERTES",
+    "code": "602-LPX-MS",
     "teacher": "Gasse-Houle, Magali"
   },
   {
@@ -5847,6 +6224,7 @@
       }
     ],
     "name": "DÉCOUVERTES",
+    "code": "602-LPX-MS",
     "teacher": "Gasse-Houle, Magali"
   },
   {
@@ -5864,6 +6242,7 @@
       }
     ],
     "name": "DÉCOUVERTES",
+    "code": "602-LPX-MS",
     "teacher": "Boulanger, Cynthia"
   },
   {
@@ -5876,6 +6255,7 @@
       }
     ],
     "name": "DÉCOUVERTES",
+    "code": "602-LPX-MS",
     "teacher": "TBAMDL1, Marianopolis"
   },
   {
@@ -5888,6 +6268,7 @@
       }
     ],
     "name": "FICTIONS",
+    "code": "602-LPY-MS",
     "teacher": "Pagé, Sylvain"
   },
   {
@@ -5900,6 +6281,7 @@
       }
     ],
     "name": "LE QUÉBEC EN DEVENIR",
+    "code": "602-103-MQ",
     "teacher": "Poirier, Bertrand"
   },
   {
@@ -5912,6 +6294,7 @@
       }
     ],
     "name": "CHANSON FRANÇAISE",
+    "code": "602-103-MQ",
     "teacher": "Pagé, Sylvain"
   },
   {
@@ -5924,6 +6307,7 @@
       }
     ],
     "name": "CHANSON FRANÇAISE",
+    "code": "602-103-MQ",
     "teacher": "Pagé, Sylvain"
   },
   {
@@ -5941,6 +6325,7 @@
       }
     ],
     "name": "LE CONTE",
+    "code": "602-103-MQ",
     "teacher": "Savescu, Olivia"
   },
   {
@@ -5953,6 +6338,7 @@
       }
     ],
     "name": "LE CONTE",
+    "code": "602-103-MQ",
     "teacher": "Savescu, Olivia"
   },
   {
@@ -5965,6 +6351,7 @@
       }
     ],
     "name": "AU THÉÂTRE CETTE SAISON",
+    "code": "602-103-MQ",
     "teacher": "Soucy, Lily"
   },
   {
@@ -5977,6 +6364,7 @@
       }
     ],
     "name": "AU THÉÂTRE CETTE SAISON",
+    "code": "602-103-MQ",
     "teacher": "Soucy, Lily"
   },
   {
@@ -5989,6 +6377,7 @@
       }
     ],
     "name": "LES LITTÉRATURES DE L'IMAGINAIRE",
+    "code": "602-103-MQ",
     "teacher": "Lauzon Dicso, Mathieu"
   },
   {
@@ -6006,6 +6395,7 @@
       }
     ],
     "name": "LES LITTÉRATURES DE L'IMAGINAIRE",
+    "code": "602-103-MQ",
     "teacher": "Lauzon Dicso, Mathieu"
   },
   {
@@ -6018,6 +6408,7 @@
       }
     ],
     "name": "LANGUE ET EXPRESSION II",
+    "code": "602-LPW-MS",
     "teacher": "Martineau, Julien"
   },
   {
@@ -6030,6 +6421,7 @@
       }
     ],
     "name": "LANGUE ET EXPRESSION II",
+    "code": "602-LPW-MS",
     "teacher": "Martineau, Julien"
   },
   {
@@ -6042,6 +6434,7 @@
       }
     ],
     "name": "DÉCOUVERTES",
+    "code": "602-LPX-MS",
     "teacher": "Levasseur, Isabelle"
   },
   {
@@ -6054,6 +6447,7 @@
       }
     ],
     "name": "DÉCOUVERTES",
+    "code": "602-LPX-MS",
     "teacher": "Gasse-Houle, Magali"
   },
   {
@@ -6066,6 +6460,7 @@
       }
     ],
     "name": "DÉCOUVERTES",
+    "code": "602-LPX-MS",
     "teacher": "Gasse-Houle, Magali"
   },
   {
@@ -6083,6 +6478,7 @@
       }
     ],
     "name": "DÉCOUVERTES",
+    "code": "602-LPX-MS",
     "teacher": "Boulanger, Cynthia"
   },
   {
@@ -6095,6 +6491,7 @@
       }
     ],
     "name": "DÉCOUVERTES",
+    "code": "602-LPX-MS",
     "teacher": "TBAMDL1, Marianopolis"
   },
   {
@@ -6107,6 +6504,7 @@
       }
     ],
     "name": "FICTIONS",
+    "code": "602-LPY-MS",
     "teacher": "Pagé, Sylvain"
   },
   {
@@ -6119,6 +6517,7 @@
       }
     ],
     "name": "FICTIONS",
+    "code": "602-LPY-MS",
     "teacher": "Savescu, Olivia"
   },
   {
@@ -6131,6 +6530,7 @@
       }
     ],
     "name": "FICTIONS",
+    "code": "602-LPY-MS",
     "teacher": "Boulanger, Cynthia"
   },
   {
@@ -6143,6 +6543,7 @@
       }
     ],
     "name": "FICTIONS",
+    "code": "602-LPY-MS",
     "teacher": "Boulanger, Cynthia"
   },
   {
@@ -6155,6 +6556,7 @@
       }
     ],
     "name": "FICTIONS",
+    "code": "602-LPY-MS",
     "teacher": "Boulanger, Cynthia"
   },
   {
@@ -6167,6 +6569,7 @@
       }
     ],
     "name": "HISTOIRE DE L'AMOUR",
+    "code": "602-LPZ-MS",
     "teacher": "Poirier, Bertrand"
   },
   {
@@ -6179,6 +6582,7 @@
       }
     ],
     "name": "HISTOIRE DE L'AMOUR",
+    "code": "602-LPZ-MS",
     "teacher": "Poirier, Bertrand"
   },
   {
@@ -6191,6 +6595,7 @@
       }
     ],
     "name": "SCIENCE MODERNE",
+    "code": "602-LPZ-MS",
     "teacher": "Pagé, Sylvain"
   },
   {
@@ -6208,6 +6613,7 @@
       }
     ],
     "name": "SCIENCE MODERNE",
+    "code": "602-LPZ-MS",
     "teacher": "Pagé, Sylvain"
   },
   {
@@ -6220,6 +6626,7 @@
       }
     ],
     "name": "L'ABSURDE DANS LA LITTÉRATURE",
+    "code": "602-LPZ-MS",
     "teacher": "Savescu, Olivia"
   },
   {
@@ -6232,6 +6639,7 @@
       }
     ],
     "name": "L'ABSURDE DANS LA LITTÉRATURE",
+    "code": "602-LPZ-MS",
     "teacher": "Savescu, Olivia"
   },
   {
@@ -6249,6 +6657,7 @@
       }
     ],
     "name": "LITÉRATURE MIGRANTE",
+    "code": "602-LPZ-MS",
     "teacher": "Soucy, Lily"
   },
   {
@@ -6261,6 +6670,7 @@
       }
     ],
     "name": "LITÉRATURE MIGRANTE",
+    "code": "602-LPZ-MS",
     "teacher": "Soucy, Lily"
   },
   {
@@ -6273,6 +6683,7 @@
       }
     ],
     "name": "LITÉRATURE MIGRANTE",
+    "code": "602-LPZ-MS",
     "teacher": "Soucy, Lily"
   },
   {
@@ -6285,6 +6696,7 @@
       }
     ],
     "name": "FICTIONS",
+    "code": "602-LPY-MS",
     "teacher": "Savescu, Olivia"
   },
   {
@@ -6297,6 +6709,7 @@
       }
     ],
     "name": "FICTIONS",
+    "code": "602-LPY-MS",
     "teacher": "Boulanger, Cynthia"
   },
   {
@@ -6309,6 +6722,7 @@
       }
     ],
     "name": "FICTIONS",
+    "code": "602-LPY-MS",
     "teacher": "Boulanger, Cynthia"
   },
   {
@@ -6321,6 +6735,7 @@
       }
     ],
     "name": "FICTIONS",
+    "code": "602-LPY-MS",
     "teacher": "Boulanger, Cynthia"
   },
   {
@@ -6333,6 +6748,7 @@
       }
     ],
     "name": "HISTOIRE DE L'AMOUR",
+    "code": "602-LPZ-MS",
     "teacher": "Poirier, Bertrand"
   },
   {
@@ -6345,6 +6761,7 @@
       }
     ],
     "name": "HISTOIRE DE L'AMOUR",
+    "code": "602-LPZ-MS",
     "teacher": "Poirier, Bertrand"
   },
   {
@@ -6357,6 +6774,7 @@
       }
     ],
     "name": "SCIENCE MODERNE",
+    "code": "602-LPZ-MS",
     "teacher": "Pagé, Sylvain"
   },
   {
@@ -6374,6 +6792,7 @@
       }
     ],
     "name": "SCIENCE MODERNE",
+    "code": "602-LPZ-MS",
     "teacher": "Pagé, Sylvain"
   },
   {
@@ -6386,6 +6805,7 @@
       }
     ],
     "name": "L'ABSURDE DANS LA LITTÉRATURE",
+    "code": "602-LPZ-MS",
     "teacher": "Savescu, Olivia"
   },
   {
@@ -6398,6 +6818,7 @@
       }
     ],
     "name": "L'ABSURDE DANS LA LITTÉRATURE",
+    "code": "602-LPZ-MS",
     "teacher": "Savescu, Olivia"
   },
   {
@@ -6415,6 +6836,7 @@
       }
     ],
     "name": "LITÉRATURE MIGRANTE",
+    "code": "602-LPZ-MS",
     "teacher": "Soucy, Lily"
   },
   {
@@ -6427,6 +6849,7 @@
       }
     ],
     "name": "LITÉRATURE MIGRANTE",
+    "code": "602-LPZ-MS",
     "teacher": "Soucy, Lily"
   },
   {
@@ -6439,6 +6862,7 @@
       }
     ],
     "name": "LITÉRATURE MIGRANTE",
+    "code": "602-LPZ-MS",
     "teacher": "Soucy, Lily"
   },
   {
@@ -6451,6 +6875,7 @@
       }
     ],
     "name": "GENDER BENDER",
+    "code": "345-101-MQ",
     "teacher": "Chew, Dolores"
   },
   {
@@ -6463,6 +6888,7 @@
       }
     ],
     "name": "ADOLESCENT EXPLORATIONS",
+    "code": "345-101-MQ",
     "teacher": "Richardson, Wendy"
   },
   {
@@ -6475,6 +6901,7 @@
       }
     ],
     "name": "MEDIEVAL KNOWLEDGE (Liberal Arts Only)",
+    "code": "345-101-MQ",
     "teacher": "Lamont, Larry"
   },
   {
@@ -6487,6 +6914,7 @@
       }
     ],
     "name": "STUFF OF NONSENSE",
+    "code": "345-101-MQ",
     "teacher": "Polak, Monique"
   },
   {
@@ -6499,6 +6927,7 @@
       }
     ],
     "name": "SOUNDS OF MUSIC",
+    "code": "345-101-MQ",
     "teacher": "McKay, Cory"
   },
   {
@@ -6510,7 +6939,8 @@
         "room": "I-218"
       }
     ],
-    "name": "TRUTH: PHOTOGRAPHY, DOCUMENTARY AND REALITY TV",
+    "name": "DOCUMENTARY AND REALITY TV",
+    "code": "345-101-MQ",
     "teacher": "Liss, Selena"
   },
   {
@@ -6522,7 +6952,8 @@
         "room": "I-218"
       }
     ],
-    "name": "TRUTH: PHOTOGRAPHY, DOCUMENTARY AND REALITY TV",
+    "name": "DOCUMENTARY AND REALITY TV",
+    "code": "345-101-MQ",
     "teacher": "Liss, Selena"
   },
   {
@@ -6540,6 +6971,7 @@
       }
     ],
     "name": "KNOWLEDGE",
+    "code": "345-101-MQ",
     "teacher": "Waurechen, Sarah"
   },
   {
@@ -6552,6 +6984,7 @@
       }
     ],
     "name": "WHY ROME?",
+    "code": "345-101-MQ",
     "teacher": "Levine, Rachel"
   },
   {
@@ -6564,6 +6997,7 @@
       }
     ],
     "name": "WHY ROME?",
+    "code": "345-101-MQ",
     "teacher": "Levine, Rachel"
   },
   {
@@ -6576,6 +7010,7 @@
       }
     ],
     "name": "ARCHAEOLOGY: WHAT LIES BENEATH",
+    "code": "345-101-MQ",
     "teacher": "Levine, Rachel"
   },
   {
@@ -6588,6 +7023,7 @@
       }
     ],
     "name": "LISTEN TO THE MUSIC",
+    "code": "345-102-MQ",
     "teacher": "Berman, Nancy"
   },
   {
@@ -6600,6 +7036,7 @@
       }
     ],
     "name": "LISTEN TO THE MUSIC",
+    "code": "345-102-MQ",
     "teacher": "Berman, Nancy"
   },
   {
@@ -6617,6 +7054,7 @@
       }
     ],
     "name": "ART AND CULTURE OF THE ANCIENT AMERICAS",
+    "code": "345-102-MQ",
     "teacher": "Cerrolaza, Elena"
   },
   {
@@ -6633,7 +7071,8 @@
         "room": "I-218"
       }
     ],
-    "name": "TATTOOS, TROPHIES, AND T-CELLS",
+    "name": "CELLS",
+    "code": "345-102-MQ",
     "teacher": "Richardson, Wendy"
   },
   {
@@ -6646,6 +7085,7 @@
       }
     ],
     "name": "MEN AND MASCULINITY",
+    "code": "345-102-MQ",
     "teacher": "Pettit, James"
   },
   {
@@ -6658,6 +7098,7 @@
       }
     ],
     "name": "GENDER BENDER",
+    "code": "345-101-MQ",
     "teacher": "Chew, Dolores"
   },
   {
@@ -6670,6 +7111,7 @@
       }
     ],
     "name": "ADOLESCENT EXPLORATIONS",
+    "code": "345-101-MQ",
     "teacher": "Richardson, Wendy"
   },
   {
@@ -6682,6 +7124,7 @@
       }
     ],
     "name": "MEDIEVAL KNOWLEDGE (Liberal Arts Only)",
+    "code": "345-101-MQ",
     "teacher": "Lamont, Larry"
   },
   {
@@ -6694,6 +7137,7 @@
       }
     ],
     "name": "STUFF OF NONSENSE",
+    "code": "345-101-MQ",
     "teacher": "Polak, Monique"
   },
   {
@@ -6706,6 +7150,7 @@
       }
     ],
     "name": "SOUNDS OF MUSIC",
+    "code": "345-101-MQ",
     "teacher": "McKay, Cory"
   },
   {
@@ -6717,7 +7162,8 @@
         "room": "I-218"
       }
     ],
-    "name": "TRUTH: PHOTOGRAPHY, DOCUMENTARY AND REALITY TV",
+    "name": "DOCUMENTARY AND REALITY TV",
+    "code": "345-101-MQ",
     "teacher": "Liss, Selena"
   },
   {
@@ -6729,7 +7175,8 @@
         "room": "I-218"
       }
     ],
-    "name": "TRUTH: PHOTOGRAPHY, DOCUMENTARY AND REALITY TV",
+    "name": "DOCUMENTARY AND REALITY TV",
+    "code": "345-101-MQ",
     "teacher": "Liss, Selena"
   },
   {
@@ -6747,6 +7194,7 @@
       }
     ],
     "name": "KNOWLEDGE",
+    "code": "345-101-MQ",
     "teacher": "Waurechen, Sarah"
   },
   {
@@ -6759,6 +7207,7 @@
       }
     ],
     "name": "WHY ROME?",
+    "code": "345-101-MQ",
     "teacher": "Levine, Rachel"
   },
   {
@@ -6771,6 +7220,7 @@
       }
     ],
     "name": "WHY ROME?",
+    "code": "345-101-MQ",
     "teacher": "Levine, Rachel"
   },
   {
@@ -6783,6 +7233,7 @@
       }
     ],
     "name": "ARCHAEOLOGY: WHAT LIES BENEATH",
+    "code": "345-101-MQ",
     "teacher": "Levine, Rachel"
   },
   {
@@ -6795,6 +7246,7 @@
       }
     ],
     "name": "LISTEN TO THE MUSIC",
+    "code": "345-102-MQ",
     "teacher": "Berman, Nancy"
   },
   {
@@ -6807,6 +7259,7 @@
       }
     ],
     "name": "LISTEN TO THE MUSIC",
+    "code": "345-102-MQ",
     "teacher": "Berman, Nancy"
   },
   {
@@ -6824,6 +7277,7 @@
       }
     ],
     "name": "ART AND CULTURE OF THE ANCIENT AMERICAS",
+    "code": "345-102-MQ",
     "teacher": "Cerrolaza, Elena"
   },
   {
@@ -6840,7 +7294,8 @@
         "room": "I-218"
       }
     ],
-    "name": "TATTOOS, TROPHIES, AND T-CELLS",
+    "name": "CELLS",
+    "code": "345-102-MQ",
     "teacher": "Richardson, Wendy"
   },
   {
@@ -6853,6 +7308,7 @@
       }
     ],
     "name": "MEN AND MASCULINITY",
+    "code": "345-102-MQ",
     "teacher": "Pettit, James"
   },
   {
@@ -6865,6 +7321,7 @@
       }
     ],
     "name": "ANCIENT GREEKS",
+    "code": "345-102-MQ",
     "teacher": "Skaperdas, Theodore"
   },
   {
@@ -6877,6 +7334,7 @@
       }
     ],
     "name": "ANCIENT GREEKS",
+    "code": "345-102-MQ",
     "teacher": "Skaperdas, Theodore"
   },
   {
@@ -6889,6 +7347,7 @@
       }
     ],
     "name": "STORIES AND STORYTELLING",
+    "code": "345-102-MQ",
     "teacher": "Willmer, Andrew"
   },
   {
@@ -6901,6 +7360,7 @@
       }
     ],
     "name": "WORLD VIEWS",
+    "code": "345-102-MQ",
     "teacher": "Barbone, Patrizia"
   },
   {
@@ -6913,6 +7373,7 @@
       }
     ],
     "name": "WORLD VIEWS",
+    "code": "345-102-MQ",
     "teacher": "Waurechen, Sarah"
   },
   {
@@ -6925,6 +7386,7 @@
       }
     ],
     "name": "WORLD VIEWS",
+    "code": "345-102-MQ",
     "teacher": "Waurechen, Sarah"
   },
   {
@@ -6942,6 +7404,7 @@
       }
     ],
     "name": "WAYS OF KNOWING",
+    "code": "345-701-MS",
     "teacher": "Queen, James"
   },
   {
@@ -6959,6 +7422,7 @@
       }
     ],
     "name": "JUST AND UNJUST WARS",
+    "code": "345-704-MS",
     "teacher": "Dufour, Maurice"
   },
   {
@@ -6970,6 +7434,7 @@
       }
     ],
     "name": "ETHICS ON STAGEAUD",
+    "code": "345-LPH-MS",
     "teacher": "Willmer, Andrew"
   },
   {
@@ -6982,6 +7447,7 @@
       }
     ],
     "name": "DA VINCI CODE",
+    "code": "345-LPH-MS",
     "teacher": "Cerrolaza, Elena"
   },
   {
@@ -6994,6 +7460,7 @@
       }
     ],
     "name": "DA VINCI CODE",
+    "code": "345-LPH-MS",
     "teacher": "Cerrolaza, Elena"
   },
   {
@@ -7006,6 +7473,7 @@
       }
     ],
     "name": "VIDEO GAMES",
+    "code": "345-LPH-MS",
     "teacher": "McKay, Cory"
   },
   {
@@ -7018,6 +7486,7 @@
       }
     ],
     "name": "JUST AND UNJUST WARS (Liberal Arts Only)",
+    "code": "345-LPH-MS",
     "teacher": "Dufour, Maurice"
   },
   {
@@ -7030,6 +7499,7 @@
       }
     ],
     "name": "ETHICS AND THE FAMILY",
+    "code": "345-LPH-MS",
     "teacher": "Richardson, Wendy"
   },
   {
@@ -7042,6 +7512,7 @@
       }
     ],
     "name": "ETHICS AND THE FAMILY",
+    "code": "345-LPH-MS",
     "teacher": "Richardson, Wendy"
   },
   {
@@ -7059,6 +7530,7 @@
       }
     ],
     "name": "ETHICS AND SEXUALITY",
+    "code": "345-LPH-MS",
     "teacher": "Pettit, James"
   },
   {
@@ -7071,6 +7543,7 @@
       }
     ],
     "name": "ETHICS AND SEXUALITY",
+    "code": "345-LPH-MS",
     "teacher": "Pettit, James"
   },
   {
@@ -7083,6 +7556,7 @@
       }
     ],
     "name": "ANCIENT GREEKS",
+    "code": "345-102-MQ",
     "teacher": "Skaperdas, Theodore"
   },
   {
@@ -7095,6 +7569,7 @@
       }
     ],
     "name": "ANCIENT GREEKS",
+    "code": "345-102-MQ",
     "teacher": "Skaperdas, Theodore"
   },
   {
@@ -7107,6 +7582,7 @@
       }
     ],
     "name": "STORIES AND STORYTELLING",
+    "code": "345-102-MQ",
     "teacher": "Willmer, Andrew"
   },
   {
@@ -7119,6 +7595,7 @@
       }
     ],
     "name": "WORLD VIEWS",
+    "code": "345-102-MQ",
     "teacher": "Barbone, Patrizia"
   },
   {
@@ -7131,6 +7608,7 @@
       }
     ],
     "name": "WORLD VIEWS",
+    "code": "345-102-MQ",
     "teacher": "Waurechen, Sarah"
   },
   {
@@ -7143,6 +7621,7 @@
       }
     ],
     "name": "WORLD VIEWS",
+    "code": "345-102-MQ",
     "teacher": "Waurechen, Sarah"
   },
   {
@@ -7160,6 +7639,7 @@
       }
     ],
     "name": "WAYS OF KNOWING",
+    "code": "345-701-MS",
     "teacher": "Queen, James"
   },
   {
@@ -7177,6 +7657,7 @@
       }
     ],
     "name": "JUST AND UNJUST WARS",
+    "code": "345-704-MS",
     "teacher": "Dufour, Maurice"
   },
   {
@@ -7188,6 +7669,7 @@
       }
     ],
     "name": "ETHICS ON STAGEAUD",
+    "code": "345-LPH-MS",
     "teacher": "Willmer, Andrew"
   },
   {
@@ -7200,6 +7682,7 @@
       }
     ],
     "name": "DA VINCI CODE",
+    "code": "345-LPH-MS",
     "teacher": "Cerrolaza, Elena"
   },
   {
@@ -7212,6 +7695,7 @@
       }
     ],
     "name": "DA VINCI CODE",
+    "code": "345-LPH-MS",
     "teacher": "Cerrolaza, Elena"
   },
   {
@@ -7224,6 +7708,7 @@
       }
     ],
     "name": "VIDEO GAMES",
+    "code": "345-LPH-MS",
     "teacher": "McKay, Cory"
   },
   {
@@ -7236,6 +7721,7 @@
       }
     ],
     "name": "JUST AND UNJUST WARS (Liberal Arts Only)",
+    "code": "345-LPH-MS",
     "teacher": "Dufour, Maurice"
   },
   {
@@ -7248,6 +7734,7 @@
       }
     ],
     "name": "ETHICS AND THE FAMILY",
+    "code": "345-LPH-MS",
     "teacher": "Richardson, Wendy"
   },
   {
@@ -7260,6 +7747,7 @@
       }
     ],
     "name": "ETHICS AND THE FAMILY",
+    "code": "345-LPH-MS",
     "teacher": "Richardson, Wendy"
   },
   {
@@ -7277,6 +7765,7 @@
       }
     ],
     "name": "ETHICS AND SEXUALITY",
+    "code": "345-LPH-MS",
     "teacher": "Pettit, James"
   },
   {
@@ -7289,6 +7778,7 @@
       }
     ],
     "name": "ETHICS AND SEXUALITY",
+    "code": "345-LPH-MS",
     "teacher": "Pettit, James"
   },
   {
@@ -7301,6 +7791,7 @@
       }
     ],
     "name": "ETHICS AND DEMOCRACY",
+    "code": "345-LPH-MS",
     "teacher": "Skaperdas, Theodore"
   },
   {
@@ -7313,6 +7804,7 @@
       }
     ],
     "name": "ETHICS AND DEMOCRACY",
+    "code": "345-LPH-MS",
     "teacher": "Skaperdas, Theodore"
   },
   {
@@ -7325,6 +7817,7 @@
       }
     ],
     "name": "ETHICS ON STAGE",
+    "code": "345-LPH-MS",
     "teacher": "Willmer, Andrew"
   },
   {
@@ -7337,6 +7830,7 @@
       }
     ],
     "name": "BIBLICAL SEX",
+    "code": "345-LPH-MS",
     "teacher": "Koumouzelis, Angelique"
   },
   {
@@ -7349,6 +7843,7 @@
       }
     ],
     "name": "ETHICAL ISSUES",
+    "code": "345-LPH-MS",
     "teacher": "Barbone, Patrizia"
   },
   {
@@ -7366,6 +7861,7 @@
       }
     ],
     "name": "MUSIC AND ETHICS",
+    "code": "345-LPH-MS",
     "teacher": "Cawker, Hugh"
   },
   {
@@ -7378,6 +7874,7 @@
       }
     ],
     "name": "BIBLICAL SEX",
+    "code": "345-LPH-MS",
     "teacher": "Koumouzelis, Angelique"
   },
   {
@@ -7390,6 +7887,7 @@
       }
     ],
     "name": "ETHICS AND DEMOCRACY",
+    "code": "345-LPH-MS",
     "teacher": "Skaperdas, Theodore"
   },
   {
@@ -7402,6 +7900,7 @@
       }
     ],
     "name": "ETHICS AND DEMOCRACY",
+    "code": "345-LPH-MS",
     "teacher": "Skaperdas, Theodore"
   },
   {
@@ -7414,6 +7913,7 @@
       }
     ],
     "name": "ETHICS ON STAGE",
+    "code": "345-LPH-MS",
     "teacher": "Willmer, Andrew"
   },
   {
@@ -7426,6 +7926,7 @@
       }
     ],
     "name": "BIBLICAL SEX",
+    "code": "345-LPH-MS",
     "teacher": "Koumouzelis, Angelique"
   },
   {
@@ -7438,6 +7939,7 @@
       }
     ],
     "name": "ETHICAL ISSUES",
+    "code": "345-LPH-MS",
     "teacher": "Barbone, Patrizia"
   },
   {
@@ -7455,6 +7957,7 @@
       }
     ],
     "name": "MUSIC AND ETHICS",
+    "code": "345-LPH-MS",
     "teacher": "Cawker, Hugh"
   },
   {
@@ -7467,6 +7970,7 @@
       }
     ],
     "name": "BIBLICAL SEX",
+    "code": "345-LPH-MS",
     "teacher": "Koumouzelis, Angelique"
   },
   {
@@ -7479,6 +7983,7 @@
       }
     ],
     "name": "Fitness/Yoga",
+    "code": "109-101-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -7491,6 +7996,7 @@
       }
     ],
     "name": "Fitness/Yoga",
+    "code": "109-101-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -7503,6 +8009,7 @@
       }
     ],
     "name": "Fitness/Aerobics",
+    "code": "109-101-MQ",
     "teacher": "McDonald, Shelly"
   },
   {
@@ -7515,6 +8022,7 @@
       }
     ],
     "name": "Fitness/Zumba",
+    "code": "109-101-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -7527,6 +8035,7 @@
       }
     ],
     "name": "Fitness/Zumba",
+    "code": "109-101-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -7539,6 +8048,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -7551,6 +8061,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -7563,6 +8074,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -7575,6 +8087,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -7587,6 +8100,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -7599,6 +8113,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -7611,6 +8126,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -7623,6 +8139,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Perron, Josee"
   },
   {
@@ -7635,6 +8152,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Dafniotis, Zoe"
   },
   {
@@ -7647,6 +8165,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Dafniotis, Zoe"
   },
   {
@@ -7659,6 +8178,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Dafniotis, Zoe"
   },
   {
@@ -7671,6 +8191,7 @@
       }
     ],
     "name": "Fitness/Yoga",
+    "code": "109-101-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -7683,6 +8204,7 @@
       }
     ],
     "name": "Fitness/Yoga",
+    "code": "109-101-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -7695,6 +8217,7 @@
       }
     ],
     "name": "Fitness/Aerobics",
+    "code": "109-101-MQ",
     "teacher": "McDonald, Shelly"
   },
   {
@@ -7707,6 +8230,7 @@
       }
     ],
     "name": "Fitness/Zumba",
+    "code": "109-101-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -7719,6 +8243,7 @@
       }
     ],
     "name": "Fitness/Zumba",
+    "code": "109-101-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -7731,6 +8256,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -7743,6 +8269,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -7755,6 +8282,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -7767,6 +8295,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -7779,6 +8308,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -7791,6 +8321,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -7803,6 +8334,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -7815,6 +8347,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Perron, Josee"
   },
   {
@@ -7827,6 +8360,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Dafniotis, Zoe"
   },
   {
@@ -7839,6 +8373,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Dafniotis, Zoe"
   },
   {
@@ -7851,6 +8386,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Dafniotis, Zoe"
   },
   {
@@ -7863,6 +8399,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -7874,6 +8411,7 @@
       }
     ],
     "name": "Fitness GamesGYM",
+    "code": "109-101-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -7886,6 +8424,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -7898,6 +8437,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -7910,6 +8450,7 @@
       }
     ],
     "name": "Cross Country Skiing",
+    "code": "109-102-MQ",
     "teacher": "Giacomin, Monica"
   },
   {
@@ -7922,6 +8463,7 @@
       }
     ],
     "name": "Cross Country Skiing",
+    "code": "109-102-MQ",
     "teacher": "Perron, Josee"
   },
   {
@@ -7934,6 +8476,7 @@
       }
     ],
     "name": "Intro Outdoor Ed.",
+    "code": "109-102-MQ",
     "teacher": "Giacomin, Monica"
   },
   {
@@ -7946,6 +8489,7 @@
       }
     ],
     "name": "Intro Outdoor Ed.",
+    "code": "109-102-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -7958,6 +8502,7 @@
       }
     ],
     "name": "Yoga",
+    "code": "109-102-MQ",
     "teacher": "McDonald, Shelly"
   },
   {
@@ -7970,6 +8515,7 @@
       }
     ],
     "name": "Yoga",
+    "code": "109-102-MQ",
     "teacher": "McDonald, Shelly"
   },
   {
@@ -7982,6 +8528,7 @@
       }
     ],
     "name": "Dance",
+    "code": "109-102-MQ",
     "teacher": "Dafniotis, Zoe"
   },
   {
@@ -7994,6 +8541,7 @@
       }
     ],
     "name": "Dance",
+    "code": "109-102-MQ",
     "teacher": "Dafniotis, Zoe"
   },
   {
@@ -8005,6 +8553,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-102-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -8016,6 +8565,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-102-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -8027,6 +8577,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-102-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -8038,6 +8589,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-102-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -8049,6 +8601,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-102-MQ",
     "teacher": "Perron, Josee"
   },
   {
@@ -8061,6 +8614,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8072,6 +8626,7 @@
       }
     ],
     "name": "Fitness GamesGYM",
+    "code": "109-101-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8084,6 +8639,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8096,6 +8652,7 @@
       }
     ],
     "name": "Fitness",
+    "code": "109-101-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -8108,6 +8665,7 @@
       }
     ],
     "name": "Cross Country Skiing",
+    "code": "109-102-MQ",
     "teacher": "Giacomin, Monica"
   },
   {
@@ -8120,6 +8678,7 @@
       }
     ],
     "name": "Cross Country Skiing",
+    "code": "109-102-MQ",
     "teacher": "Perron, Josee"
   },
   {
@@ -8132,6 +8691,7 @@
       }
     ],
     "name": "Intro Outdoor Ed.",
+    "code": "109-102-MQ",
     "teacher": "Giacomin, Monica"
   },
   {
@@ -8144,6 +8704,7 @@
       }
     ],
     "name": "Intro Outdoor Ed.",
+    "code": "109-102-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -8156,6 +8717,7 @@
       }
     ],
     "name": "Yoga",
+    "code": "109-102-MQ",
     "teacher": "McDonald, Shelly"
   },
   {
@@ -8168,6 +8730,7 @@
       }
     ],
     "name": "Yoga",
+    "code": "109-102-MQ",
     "teacher": "McDonald, Shelly"
   },
   {
@@ -8180,6 +8743,7 @@
       }
     ],
     "name": "Dance",
+    "code": "109-102-MQ",
     "teacher": "Dafniotis, Zoe"
   },
   {
@@ -8192,6 +8756,7 @@
       }
     ],
     "name": "Dance",
+    "code": "109-102-MQ",
     "teacher": "Dafniotis, Zoe"
   },
   {
@@ -8203,6 +8768,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-102-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -8214,6 +8780,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-102-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -8225,6 +8792,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-102-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -8236,6 +8804,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-102-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -8247,6 +8816,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-102-MQ",
     "teacher": "Perron, Josee"
   },
   {
@@ -8258,6 +8828,7 @@
       }
     ],
     "name": "SoccerGYM",
+    "code": "109-102-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -8269,6 +8840,7 @@
       }
     ],
     "name": "SoccerGYM",
+    "code": "109-102-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -8280,6 +8852,7 @@
       }
     ],
     "name": "SoccerGYM",
+    "code": "109-102-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -8291,6 +8864,7 @@
       }
     ],
     "name": "BasketballGYM",
+    "code": "109-102-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -8302,6 +8876,7 @@
       }
     ],
     "name": "BasketballGYM",
+    "code": "109-102-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -8313,6 +8888,7 @@
       }
     ],
     "name": "VolleyballGYM",
+    "code": "109-102-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8324,6 +8900,7 @@
       }
     ],
     "name": "Floor HockeyGYM",
+    "code": "109-102-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8335,6 +8912,7 @@
       }
     ],
     "name": "Ultimate FrisbeeGYM",
+    "code": "109-102-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8346,6 +8924,7 @@
       }
     ],
     "name": "Ultimate FrisbeeGYM",
+    "code": "109-102-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8358,6 +8937,7 @@
       }
     ],
     "name": "Pilates",
+    "code": "109-102-MQ",
     "teacher": "Reichert, Alison"
   },
   {
@@ -8370,6 +8950,7 @@
       }
     ],
     "name": "Pilates",
+    "code": "109-102-MQ",
     "teacher": "Reichert, Alison"
   },
   {
@@ -8382,6 +8963,7 @@
       }
     ],
     "name": "Martial Arts",
+    "code": "109-102-MQ",
     "teacher": "TBAPHE4, Marianopolis"
   },
   {
@@ -8394,6 +8976,7 @@
       }
     ],
     "name": "Martial Arts",
+    "code": "109-102-MQ",
     "teacher": "TBAPHE4, Marianopolis"
   },
   {
@@ -8406,6 +8989,7 @@
       }
     ],
     "name": "Yoga",
+    "code": "109-103-MQ",
     "teacher": "TBAPHE4, Marianopolis"
   },
   {
@@ -8418,6 +9002,7 @@
       }
     ],
     "name": "Sports Conditioning",
+    "code": "109-103-MQ",
     "teacher": "McDonald, Shelly"
   },
   {
@@ -8430,6 +9015,7 @@
       }
     ],
     "name": "Weight Training",
+    "code": "109-103-MQ",
     "teacher": "McDonald, Shelly"
   },
   {
@@ -8441,6 +9027,7 @@
       }
     ],
     "name": "SoccerGYM",
+    "code": "109-102-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -8452,6 +9039,7 @@
       }
     ],
     "name": "SoccerGYM",
+    "code": "109-102-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -8463,6 +9051,7 @@
       }
     ],
     "name": "SoccerGYM",
+    "code": "109-102-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -8474,6 +9063,7 @@
       }
     ],
     "name": "BasketballGYM",
+    "code": "109-102-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -8485,6 +9075,7 @@
       }
     ],
     "name": "BasketballGYM",
+    "code": "109-102-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -8496,6 +9087,7 @@
       }
     ],
     "name": "VolleyballGYM",
+    "code": "109-102-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8507,6 +9099,7 @@
       }
     ],
     "name": "Floor HockeyGYM",
+    "code": "109-102-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8518,6 +9111,7 @@
       }
     ],
     "name": "Ultimate FrisbeeGYM",
+    "code": "109-102-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8529,6 +9123,7 @@
       }
     ],
     "name": "Ultimate FrisbeeGYM",
+    "code": "109-102-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8541,6 +9136,7 @@
       }
     ],
     "name": "Pilates",
+    "code": "109-102-MQ",
     "teacher": "Reichert, Alison"
   },
   {
@@ -8553,6 +9149,7 @@
       }
     ],
     "name": "Pilates",
+    "code": "109-102-MQ",
     "teacher": "Reichert, Alison"
   },
   {
@@ -8565,6 +9162,7 @@
       }
     ],
     "name": "Martial Arts",
+    "code": "109-102-MQ",
     "teacher": "TBAPHE4, Marianopolis"
   },
   {
@@ -8577,6 +9175,7 @@
       }
     ],
     "name": "Martial Arts",
+    "code": "109-102-MQ",
     "teacher": "TBAPHE4, Marianopolis"
   },
   {
@@ -8589,6 +9188,7 @@
       }
     ],
     "name": "Yoga",
+    "code": "109-103-MQ",
     "teacher": "TBAPHE4, Marianopolis"
   },
   {
@@ -8601,6 +9201,7 @@
       }
     ],
     "name": "Sports Conditioning",
+    "code": "109-103-MQ",
     "teacher": "McDonald, Shelly"
   },
   {
@@ -8613,6 +9214,7 @@
       }
     ],
     "name": "Weight Training",
+    "code": "109-103-MQ",
     "teacher": "McDonald, Shelly"
   },
   {
@@ -8625,6 +9227,7 @@
       }
     ],
     "name": "Weight Training",
+    "code": "109-103-MQ",
     "teacher": "McDonald, Shelly"
   },
   {
@@ -8637,6 +9240,7 @@
       }
     ],
     "name": "Weight Training",
+    "code": "109-103-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -8649,6 +9253,7 @@
       }
     ],
     "name": "Weight Training",
+    "code": "109-103-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -8661,6 +9266,7 @@
       }
     ],
     "name": "Cardio Dance",
+    "code": "109-103-MQ",
     "teacher": "Dafniotis, Zoe"
   },
   {
@@ -8673,6 +9279,7 @@
       }
     ],
     "name": "Nature Hikes",
+    "code": "109-103-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -8685,6 +9292,7 @@
       }
     ],
     "name": "Stress Management",
+    "code": "109-103-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -8697,6 +9305,7 @@
       }
     ],
     "name": "Stress Management",
+    "code": "109-103-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -8709,6 +9318,7 @@
       }
     ],
     "name": "Stress Management",
+    "code": "109-103-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -8721,6 +9331,7 @@
       }
     ],
     "name": "Stress Management",
+    "code": "109-103-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -8732,6 +9343,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-103-MQ",
     "teacher": "Perron, Josee"
   },
   {
@@ -8743,6 +9355,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-103-MQ",
     "teacher": "Perron, Josee"
   },
   {
@@ -8754,6 +9367,7 @@
       }
     ],
     "name": "Team SportsGYM",
+    "code": "109-103-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -8765,6 +9379,7 @@
       }
     ],
     "name": "Team SportsGYM",
+    "code": "109-103-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -8776,6 +9391,7 @@
       }
     ],
     "name": "SoccerGYM",
+    "code": "109-103-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -8787,6 +9403,7 @@
       }
     ],
     "name": "BasketballGYM",
+    "code": "109-103-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8799,6 +9416,7 @@
       }
     ],
     "name": "Weight Training",
+    "code": "109-103-MQ",
     "teacher": "McDonald, Shelly"
   },
   {
@@ -8811,6 +9429,7 @@
       }
     ],
     "name": "Weight Training",
+    "code": "109-103-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -8823,6 +9442,7 @@
       }
     ],
     "name": "Weight Training",
+    "code": "109-103-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
   {
@@ -8835,6 +9455,7 @@
       }
     ],
     "name": "Cardio Dance",
+    "code": "109-103-MQ",
     "teacher": "Dafniotis, Zoe"
   },
   {
@@ -8847,6 +9468,7 @@
       }
     ],
     "name": "Nature Hikes",
+    "code": "109-103-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -8859,6 +9481,7 @@
       }
     ],
     "name": "Stress Management",
+    "code": "109-103-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -8871,6 +9494,7 @@
       }
     ],
     "name": "Stress Management",
+    "code": "109-103-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -8883,6 +9507,7 @@
       }
     ],
     "name": "Stress Management",
+    "code": "109-103-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -8895,6 +9520,7 @@
       }
     ],
     "name": "Stress Management",
+    "code": "109-103-MQ",
     "teacher": "Jeannet, Anne"
   },
   {
@@ -8906,6 +9532,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-103-MQ",
     "teacher": "Perron, Josee"
   },
   {
@@ -8917,6 +9544,7 @@
       }
     ],
     "name": "BadmintonGYM",
+    "code": "109-103-MQ",
     "teacher": "Perron, Josee"
   },
   {
@@ -8928,6 +9556,7 @@
       }
     ],
     "name": "Team SportsGYM",
+    "code": "109-103-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -8939,6 +9568,7 @@
       }
     ],
     "name": "Team SportsGYM",
+    "code": "109-103-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
   {
@@ -8950,6 +9580,7 @@
       }
     ],
     "name": "SoccerGYM",
+    "code": "109-103-MQ",
     "teacher": "Scrase, Julia"
   },
   {
@@ -8961,6 +9592,7 @@
       }
     ],
     "name": "BasketballGYM",
+    "code": "109-103-MQ",
     "teacher": "Epstein, Neall"
   },
   {
@@ -8973,6 +9605,7 @@
       }
     ],
     "name": "MEDIEVAL-RENAISSANCE ART",
+    "code": "ARH-LAA",
     "teacher": "Cerrolaza, Elena"
   },
   {
@@ -8985,6 +9618,7 @@
       }
     ],
     "name": "MEDIEVAL-RENAISSANCE ART",
+    "code": "ARH-LAA",
     "teacher": "Spriggs, Megan"
   },
   {
@@ -8997,6 +9631,7 @@
       }
     ],
     "name": "20TH CENTURY ART",
+    "code": "ARH-LBA",
     "teacher": "Spriggs, Megan"
   },
   {
@@ -9179,6 +9814,7 @@
       }
     ],
     "name": "MUSIC ACROSS THE AGES",
+    "code": "MUS-LAA",
     "teacher": "Heron, Lillian"
   },
   {
@@ -9191,6 +9827,7 @@
       }
     ],
     "name": "MEDIEVAL-RENAISSANCE ART",
+    "code": "ARH-LAA",
     "teacher": "Cerrolaza, Elena"
   },
   {
@@ -9203,6 +9840,7 @@
       }
     ],
     "name": "MEDIEVAL-RENAISSANCE ART",
+    "code": "ARH-LAA",
     "teacher": "Spriggs, Megan"
   },
   {
@@ -9215,6 +9853,7 @@
       }
     ],
     "name": "20TH CENTURY ART",
+    "code": "ARH-LBA",
     "teacher": "Spriggs, Megan"
   },
   {
@@ -9397,6 +10036,7 @@
       }
     ],
     "name": "MUSIC ACROSS THE AGES",
+    "code": "MUS-LAA",
     "teacher": "Heron, Lillian"
   },
   {
@@ -9471,6 +10111,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9488,6 +10129,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9505,6 +10147,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9522,6 +10165,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9539,6 +10183,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9556,6 +10201,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9573,6 +10219,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9590,6 +10237,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9602,6 +10250,7 @@
       }
     ],
     "name": "WEB PAGE DESIGN",
+    "code": "PRO-LBM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9614,6 +10263,7 @@
       }
     ],
     "name": "COMPUTER GRAPHICS",
+    "code": "PRO-LBM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9732,6 +10382,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9749,6 +10400,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9766,6 +10418,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9783,6 +10436,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9800,6 +10454,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9817,6 +10472,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9834,6 +10490,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9851,6 +10508,7 @@
       }
     ],
     "name": "ENHANCING COMPUTER SKILLS",
+    "code": "PRO-LAM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9863,6 +10521,7 @@
       }
     ],
     "name": "WEB PAGE DESIGN",
+    "code": "PRO-LBM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -9875,6 +10534,7 @@
       }
     ],
     "name": "COMPUTER GRAPHICS",
+    "code": "PRO-LBM",
     "teacher": "Cohn, Serge"
   },
   {
@@ -10063,6 +10723,7 @@
       }
     ],
     "name": "PSYCH OF MENTAL DISORDERS",
+    "code": "SSS-LAQ",
     "teacher": "Colle, Lois"
   },
   {
@@ -10075,6 +10736,7 @@
       }
     ],
     "name": "DEVELOPMENTAL PSY (ADOL)",
+    "code": "SSS-LAQ",
     "teacher": "Colle, Lois"
   },
   {
@@ -10087,6 +10749,7 @@
       }
     ],
     "name": "SOCIAL PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "Burton, Kimberly"
   },
   {
@@ -10099,6 +10762,7 @@
       }
     ],
     "name": "FORENSIC PSYCHOLOGY - Topics in Psychology II",
+    "code": "SSS-LAQ",
     "teacher": "Burton, Kimberly"
   },
   {
@@ -10111,6 +10775,7 @@
       }
     ],
     "name": "FUNDAMENTALS OF LAW - Selected Topics in the Social Sciences",
+    "code": "SSS-LAQ",
     "teacher": "Kruger, Stuart"
   },
   {
@@ -10123,6 +10788,7 @@
       }
     ],
     "name": "SOCIETIES OF THE WORLD; MEDITERRANEAN PEOPLES AND SOC",
+    "code": "SSS-LAQ",
     "teacher": "Campbell, Jennifer"
   },
   {
@@ -10135,6 +10801,7 @@
       }
     ],
     "name": "UNDERSTANDING POWER",
+    "code": "SSS-LAQ",
     "teacher": "Dufour, Maurice"
   },
   {
@@ -10279,6 +10946,7 @@
       }
     ],
     "name": "PSYCH OF MENTAL DISORDERS",
+    "code": "SSS-LAQ",
     "teacher": "Colle, Lois"
   },
   {
@@ -10291,6 +10959,7 @@
       }
     ],
     "name": "DEVELOPMENTAL PSY (ADOL)",
+    "code": "SSS-LAQ",
     "teacher": "Colle, Lois"
   },
   {
@@ -10303,6 +10972,7 @@
       }
     ],
     "name": "SOCIAL PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "Burton, Kimberly"
   },
   {
@@ -10315,6 +10985,7 @@
       }
     ],
     "name": "FORENSIC PSYCHOLOGY - Topics in Psychology II",
+    "code": "SSS-LAQ",
     "teacher": "Burton, Kimberly"
   },
   {
@@ -10327,6 +10998,7 @@
       }
     ],
     "name": "FUNDAMENTALS OF LAW - Selected Topics in the Social Sciences",
+    "code": "SSS-LAQ",
     "teacher": "Kruger, Stuart"
   },
   {
@@ -10339,6 +11011,7 @@
       }
     ],
     "name": "SOCIETIES OF THE WORLD; MEDITERRANEAN PEOPLES AND SOC",
+    "code": "SSS-LAQ",
     "teacher": "Campbell, Jennifer"
   },
   {
@@ -10351,6 +11024,7 @@
       }
     ],
     "name": "UNDERSTANDING POWER",
+    "code": "SSS-LAQ",
     "teacher": "Dufour, Maurice"
   },
   {
@@ -10368,6 +11042,7 @@
       }
     ],
     "name": "INTERNATIONAL BUSINESS",
+    "code": "SSS-LAQ",
     "teacher": "Elenakis, Peter"
   },
   {
@@ -10380,6 +11055,7 @@
       }
     ],
     "name": "INTRO TO PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "TBASSC1, Marianopolis"
   },
   {
@@ -10397,6 +11073,7 @@
       }
     ],
     "name": "INTRO TO PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "TBASSC4, Marianopolis"
   },
   {
@@ -10414,6 +11091,7 @@
       }
     ],
     "name": "INTRO TO PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "TBASSC1, Marianopolis"
   },
   {
@@ -10426,6 +11104,7 @@
       }
     ],
     "name": "INTRO TO PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "Burton, Kimberly"
   },
   {
@@ -10438,6 +11117,7 @@
       }
     ],
     "name": "INTRO TO PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "Burton, Kimberly"
   },
   {
@@ -10455,6 +11135,7 @@
       }
     ],
     "name": "INTRO TO PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "TBASSC1, Marianopolis"
   },
   {
@@ -10471,7 +11152,9 @@
         "room": "D-407"
       }
     ],
-    "name": "DEVELOPMENTAL PSY (CHILD)Linnen, Anne-Marie"
+    "name": "DEVELOPMENTAL PSY (CHILD)",
+    "code": "SSS-LAQ",
+    "teacher": "Linnen, Anne-Marie"
   },
   {
     "section": "00016",
@@ -10483,6 +11166,7 @@
       }
     ],
     "name": "HUMANS: From Stone Tools to Smart Phones",
+    "code": "SSS-LAQ",
     "teacher": "Campbell, Jennifer"
   },
   {
@@ -10500,6 +11184,7 @@
       }
     ],
     "name": "MICROECONOMICS",
+    "code": "SSS-LAQ",
     "teacher": "Terekhov, Vitaly"
   },
   {
@@ -10517,6 +11202,7 @@
       }
     ],
     "name": "MICROECONOMICS",
+    "code": "SSS-LAQ",
     "teacher": "Terekhov, Vitaly"
   },
   {
@@ -10529,6 +11215,7 @@
       }
     ],
     "name": "INTERNATIONAL POLITICS",
+    "code": "SSS-LAQ",
     "teacher": "Dufour, Maurice"
   },
   {
@@ -10546,6 +11233,7 @@
       }
     ],
     "name": "INTERNATIONAL POLITICS",
+    "code": "SSS-LAQ",
     "teacher": "Brzezinski, Marek"
   },
   {
@@ -10563,6 +11251,7 @@
       }
     ],
     "name": "INTERNATIONAL POLITICS",
+    "code": "SSS-LAQ",
     "teacher": "Brzezinski, Marek"
   },
   {
@@ -10580,6 +11269,7 @@
       }
     ],
     "name": "INDIVIDUAL & SOCIETY",
+    "code": "SSS-LAQ",
     "teacher": "Caverly, Grant"
   },
   {
@@ -10592,6 +11282,7 @@
       }
     ],
     "name": "INDIVIDUAL & SOCIETY",
+    "code": "SSS-LAQ",
     "teacher": "Caverly, Grant"
   },
   {
@@ -10609,6 +11300,7 @@
       }
     ],
     "name": "INTERNATIONAL BUSINESS",
+    "code": "SSS-LAQ",
     "teacher": "Elenakis, Peter"
   },
   {
@@ -10621,6 +11313,7 @@
       }
     ],
     "name": "INTRO TO PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "TBASSC1, Marianopolis"
   },
   {
@@ -10638,6 +11331,7 @@
       }
     ],
     "name": "INTRO TO PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "TBASSC4, Marianopolis"
   },
   {
@@ -10655,6 +11349,7 @@
       }
     ],
     "name": "INTRO TO PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "TBASSC1, Marianopolis"
   },
   {
@@ -10667,6 +11362,7 @@
       }
     ],
     "name": "INTRO TO PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "Burton, Kimberly"
   },
   {
@@ -10679,6 +11375,7 @@
       }
     ],
     "name": "INTRO TO PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "Burton, Kimberly"
   },
   {
@@ -10696,6 +11393,7 @@
       }
     ],
     "name": "INTRO TO PSYCHOLOGY",
+    "code": "SSS-LAQ",
     "teacher": "TBASSC1, Marianopolis"
   },
   {
@@ -10712,7 +11410,9 @@
         "room": "D-407"
       }
     ],
-    "name": "DEVELOPMENTAL PSY (CHILD)Linnen, Anne-Marie"
+    "name": "DEVELOPMENTAL PSY (CHILD)",
+    "code": "SSS-LAQ",
+    "teacher": "Linnen, Anne-Marie"
   },
   {
     "section": "00016",
@@ -10724,6 +11424,7 @@
       }
     ],
     "name": "HUMANS: From Stone Tools to Smart Phones",
+    "code": "SSS-LAQ",
     "teacher": "Campbell, Jennifer"
   },
   {
@@ -10741,6 +11442,7 @@
       }
     ],
     "name": "MICROECONOMICS",
+    "code": "SSS-LAQ",
     "teacher": "Terekhov, Vitaly"
   },
   {
@@ -10758,6 +11460,7 @@
       }
     ],
     "name": "MICROECONOMICS",
+    "code": "SSS-LAQ",
     "teacher": "Terekhov, Vitaly"
   },
   {
@@ -10770,6 +11473,7 @@
       }
     ],
     "name": "INTERNATIONAL POLITICS",
+    "code": "SSS-LAQ",
     "teacher": "Dufour, Maurice"
   },
   {
@@ -10787,6 +11491,7 @@
       }
     ],
     "name": "INTERNATIONAL POLITICS",
+    "code": "SSS-LAQ",
     "teacher": "Brzezinski, Marek"
   },
   {
@@ -10804,6 +11509,7 @@
       }
     ],
     "name": "INTERNATIONAL POLITICS",
+    "code": "SSS-LAQ",
     "teacher": "Brzezinski, Marek"
   },
   {
@@ -10821,6 +11527,7 @@
       }
     ],
     "name": "INDIVIDUAL & SOCIETY",
+    "code": "SSS-LAQ",
     "teacher": "Caverly, Grant"
   },
   {
@@ -10833,6 +11540,7 @@
       }
     ],
     "name": "INDIVIDUAL & SOCIETY",
+    "code": "SSS-LAQ",
     "teacher": "Caverly, Grant"
   },
   {
@@ -10845,6 +11553,7 @@
       }
     ],
     "name": "INDIVIDUAL & SOCIETY",
+    "code": "SSS-LAQ",
     "teacher": "Bird, Rebecca"
   },
   {
@@ -10862,6 +11571,7 @@
       }
     ],
     "name": "INDIVIDUAL & SOCIETY",
+    "code": "SSS-LAQ",
     "teacher": "Bird, Rebecca"
   },
   {
@@ -10874,6 +11584,7 @@
       }
     ],
     "name": "The Great War & Shaping the Modern World 20th C HISTORY",
+    "code": "SSS-LBQ",
     "teacher": "O'Keefe, David"
   },
   {
@@ -10886,6 +11597,7 @@
       }
     ],
     "name": "The Great War & Shaping the Modern World 20th C HISTORY",
+    "code": "SSS-LBQ",
     "teacher": "O'Keefe, David"
   },
   {
@@ -10903,6 +11615,7 @@
       }
     ],
     "name": "HONOURS SOCIAL SCIENCE SEMINAR",
+    "code": "SSS-LBQ",
     "teacher": "Campbell, Jennifer"
   },
   {
@@ -10915,6 +11628,7 @@
       }
     ],
     "name": "MASS MEDIA",
+    "code": "SSS-LBQ",
     "teacher": "Caverly, Grant"
   },
   {
@@ -10927,6 +11641,7 @@
       }
     ],
     "name": "SOCIAL INEQUALITIES AND SOCIAL PROBLEMS",
+    "code": "SSS-LBQ",
     "teacher": "Bird, Rebecca"
   },
   {
@@ -10939,6 +11654,7 @@
       }
     ],
     "name": "MARKETING",
+    "code": "SSS-LBQ",
     "teacher": "Elenakis, Peter"
   },
   {
@@ -10951,6 +11667,7 @@
       }
     ],
     "name": "WORLD GEOGRAPHY",
+    "code": "SSS-LBQ",
     "teacher": "Barbone, Patrizia"
   },
   {
@@ -10968,6 +11685,7 @@
       }
     ],
     "name": "AMERICAN HISTORY",
+    "code": "SSS-LBQ",
     "teacher": "TBASSC2, Marianopolis"
   },
   {
@@ -10980,6 +11698,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Terekhov, Vitaly"
   },
   {
@@ -10992,6 +11711,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Terekhov, Vitaly"
   },
   {
@@ -11004,6 +11724,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Kompaniyets, Eugene"
   },
   {
@@ -11021,6 +11742,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Kompaniyets, Eugene"
   },
   {
@@ -11033,6 +11755,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Kompaniyets, Eugene"
   },
   {
@@ -11045,6 +11768,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Vite-Leon, Norma"
   },
   {
@@ -11057,6 +11781,7 @@
       }
     ],
     "name": "INDIVIDUAL & SOCIETY",
+    "code": "SSS-LAQ",
     "teacher": "Bird, Rebecca"
   },
   {
@@ -11074,6 +11799,7 @@
       }
     ],
     "name": "INDIVIDUAL & SOCIETY",
+    "code": "SSS-LAQ",
     "teacher": "Bird, Rebecca"
   },
   {
@@ -11086,6 +11812,7 @@
       }
     ],
     "name": "The Great War & Shaping the Modern World 20th C HISTORY",
+    "code": "SSS-LBQ",
     "teacher": "O'Keefe, David"
   },
   {
@@ -11098,6 +11825,7 @@
       }
     ],
     "name": "The Great War & Shaping the Modern World 20th C HISTORY",
+    "code": "SSS-LBQ",
     "teacher": "O'Keefe, David"
   },
   {
@@ -11115,6 +11843,7 @@
       }
     ],
     "name": "HONOURS SOCIAL SCIENCE SEMINAR",
+    "code": "SSS-LBQ",
     "teacher": "Campbell, Jennifer"
   },
   {
@@ -11127,6 +11856,7 @@
       }
     ],
     "name": "MASS MEDIA",
+    "code": "SSS-LBQ",
     "teacher": "Caverly, Grant"
   },
   {
@@ -11139,6 +11869,7 @@
       }
     ],
     "name": "SOCIAL INEQUALITIES AND SOCIAL PROBLEMS",
+    "code": "SSS-LBQ",
     "teacher": "Bird, Rebecca"
   },
   {
@@ -11151,6 +11882,7 @@
       }
     ],
     "name": "MARKETING",
+    "code": "SSS-LBQ",
     "teacher": "Elenakis, Peter"
   },
   {
@@ -11163,6 +11895,7 @@
       }
     ],
     "name": "WORLD GEOGRAPHY",
+    "code": "SSS-LBQ",
     "teacher": "Barbone, Patrizia"
   },
   {
@@ -11180,6 +11913,7 @@
       }
     ],
     "name": "AMERICAN HISTORY",
+    "code": "SSS-LBQ",
     "teacher": "TBASSC2, Marianopolis"
   },
   {
@@ -11192,6 +11926,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Terekhov, Vitaly"
   },
   {
@@ -11204,6 +11939,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Terekhov, Vitaly"
   },
   {
@@ -11216,6 +11952,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Kompaniyets, Eugene"
   },
   {
@@ -11233,6 +11970,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Kompaniyets, Eugene"
   },
   {
@@ -11245,6 +11983,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Kompaniyets, Eugene"
   },
   {
@@ -11257,6 +11996,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Vite-Leon, Norma"
   },
   {
@@ -11269,6 +12009,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Vite-Leon, Norma"
   },
   {
@@ -11281,6 +12022,7 @@
       }
     ],
     "name": "INTERNATIONAL ECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Kompaniyets, Eugene"
   },
   {
@@ -11293,6 +12035,7 @@
       }
     ],
     "name": "SPORTS MANAGEMENT",
+    "code": "SSS-LBQ",
     "teacher": "Delorme, Bruno"
   },
   {
@@ -11310,6 +12053,7 @@
       }
     ],
     "name": "FUNDAMENTALS OF BUSINESS",
+    "code": "SSS-LBQ",
     "teacher": "Delorme, Bruno"
   },
   {
@@ -11322,6 +12066,7 @@
       }
     ],
     "name": "FUNDAMENTALS OF BUSINESS",
+    "code": "SSS-LBQ",
     "teacher": "Delorme, Bruno"
   },
   {
@@ -11334,6 +12079,7 @@
       }
     ],
     "name": "FUNDAMENTALS OF BUSINESS",
+    "code": "SSS-LBQ",
     "teacher": "Delorme, Bruno"
   },
   {
@@ -11351,6 +12097,7 @@
       }
     ],
     "name": "ACCOUNTING",
+    "code": "SSS-LBQ",
     "teacher": "Rudolph, Jeffrey"
   },
   {
@@ -11363,6 +12110,7 @@
       }
     ],
     "name": "ACCOUNTING",
+    "code": "SSS-LBQ",
     "teacher": "Rudolph, Jeffrey"
   },
   {
@@ -11380,6 +12128,7 @@
       }
     ],
     "name": "CULTURAL AND POLITICAL GEOGRAPHY",
+    "code": "SSS-LBQ",
     "teacher": "Barbone, Patrizia"
   },
   {
@@ -11397,6 +12146,7 @@
       }
     ],
     "name": "CRIMINOLOGY",
+    "code": "SSS-LBQ",
     "teacher": "Caverly, Grant"
   },
   {
@@ -11414,6 +12164,7 @@
       }
     ],
     "name": "WESTERN CIVILIZATION",
+    "code": "SSS-LBQ",
     "teacher": "Chew, Dolores"
   },
   {
@@ -11426,6 +12177,7 @@
       }
     ],
     "name": "WESTERN CIVILIZATION",
+    "code": "SSS-LBQ",
     "teacher": "Chew, Dolores"
   },
   {
@@ -11438,6 +12190,7 @@
       }
     ],
     "name": "WESTERN CIVILIZATION",
+    "code": "SSS-LBQ",
     "teacher": "Brzezinski, Marek"
   },
   {
@@ -11450,6 +12203,7 @@
       }
     ],
     "name": "WESTERN CIVILIZATION",
+    "code": "SSS-LBQ",
     "teacher": "Salomon, Maria"
   },
   {
@@ -11462,6 +12216,7 @@
       }
     ],
     "name": "WESTERN CIVILIZATION",
+    "code": "SSS-LBQ",
     "teacher": "TBASSC2, Marianopolis"
   },
   {
@@ -11474,6 +12229,7 @@
       }
     ],
     "name": "WESTERN CIVILIZATION",
+    "code": "SSS-LBQ",
     "teacher": "TBASSC2, Marianopolis"
   },
   {
@@ -11499,6 +12255,7 @@
       }
     ],
     "name": "MACROECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Vite-Leon, Norma"
   },
   {
@@ -11511,6 +12268,7 @@
       }
     ],
     "name": "INTERNATIONAL ECONOMICS",
+    "code": "SSS-LBQ",
     "teacher": "Kompaniyets, Eugene"
   },
   {
@@ -11523,6 +12281,7 @@
       }
     ],
     "name": "SPORTS MANAGEMENT",
+    "code": "SSS-LBQ",
     "teacher": "Delorme, Bruno"
   },
   {
@@ -11540,6 +12299,7 @@
       }
     ],
     "name": "FUNDAMENTALS OF BUSINESS",
+    "code": "SSS-LBQ",
     "teacher": "Delorme, Bruno"
   },
   {
@@ -11552,6 +12312,7 @@
       }
     ],
     "name": "FUNDAMENTALS OF BUSINESS",
+    "code": "SSS-LBQ",
     "teacher": "Delorme, Bruno"
   },
   {
@@ -11564,6 +12325,7 @@
       }
     ],
     "name": "FUNDAMENTALS OF BUSINESS",
+    "code": "SSS-LBQ",
     "teacher": "Delorme, Bruno"
   },
   {
@@ -11581,6 +12343,7 @@
       }
     ],
     "name": "ACCOUNTING",
+    "code": "SSS-LBQ",
     "teacher": "Rudolph, Jeffrey"
   },
   {
@@ -11593,6 +12356,7 @@
       }
     ],
     "name": "ACCOUNTING",
+    "code": "SSS-LBQ",
     "teacher": "Rudolph, Jeffrey"
   },
   {
@@ -11610,6 +12374,7 @@
       }
     ],
     "name": "CULTURAL AND POLITICAL GEOGRAPHY",
+    "code": "SSS-LBQ",
     "teacher": "Barbone, Patrizia"
   },
   {
@@ -11627,6 +12392,7 @@
       }
     ],
     "name": "CRIMINOLOGY",
+    "code": "SSS-LBQ",
     "teacher": "Caverly, Grant"
   },
   {
@@ -11644,6 +12410,7 @@
       }
     ],
     "name": "WESTERN CIVILIZATION",
+    "code": "SSS-LBQ",
     "teacher": "Chew, Dolores"
   },
   {
@@ -11656,6 +12423,7 @@
       }
     ],
     "name": "WESTERN CIVILIZATION",
+    "code": "SSS-LBQ",
     "teacher": "Chew, Dolores"
   },
   {
@@ -11668,6 +12436,7 @@
       }
     ],
     "name": "WESTERN CIVILIZATION",
+    "code": "SSS-LBQ",
     "teacher": "Brzezinski, Marek"
   },
   {
@@ -11680,6 +12449,7 @@
       }
     ],
     "name": "WESTERN CIVILIZATION",
+    "code": "SSS-LBQ",
     "teacher": "Salomon, Maria"
   },
   {
@@ -11692,6 +12462,7 @@
       }
     ],
     "name": "WESTERN CIVILIZATION",
+    "code": "SSS-LBQ",
     "teacher": "TBASSC2, Marianopolis"
   },
   {
@@ -11704,6 +12475,7 @@
       }
     ],
     "name": "WESTERN CIVILIZATION",
+    "code": "SSS-LBQ",
     "teacher": "TBASSC2, Marianopolis"
   },
   {
