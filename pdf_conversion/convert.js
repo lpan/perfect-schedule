@@ -27,7 +27,10 @@ var _onPFBinDataReady = function (evtData) {
   ];
   var count = -1; // for the foreach loop
   var course = -1;
-  evtData.data.Pages.forEach(function (page) {
+  evtData.data.Pages.forEach(function (page, i) {
+    // for some reason the pages are duplicated
+    if (i % 2 == 0)
+      return;
     page.Texts.
       sort(function (a, b) {
         if (a.y === b.y) {
@@ -90,6 +93,7 @@ var _onPFBinDataReady = function (evtData) {
   });
   pdfData = data;
   console.log(pdfData);
+  console.log(evtData.data.Pages.length);
 };
 
 var _onPFBinDataError = function (evtError) {
