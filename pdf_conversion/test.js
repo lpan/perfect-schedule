@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-fs.readFile('science.json', function (err, data) {
+fs.readFile('all_programs.json', function (err, data) {
   if (err)
     console.log(err);
   var pdf = JSON.parse(data);

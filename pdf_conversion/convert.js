@@ -91,10 +91,10 @@ var _onPFBinDataReady = function (evtData) {
           data[count].meeting[course].time = file;
         } else if (file.match(/^([A-Z]-\d{3}|\d{3}|AUD|GYM)$/) !== null) {
           data[count].meeting[course].room = file;
-        } else if (file.match(/^.+\,/) !== null) {
-          data[count].teacher += file;
+        } else if (file.match(/^((?![a-z]).)*$/) !== null) {
+          data[count].name += file;
         } else {
-          data[count].name += file.toString();
+          data[count].teacher += file.toString();
         }
       });
   });
