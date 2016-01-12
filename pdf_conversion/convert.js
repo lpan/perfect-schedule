@@ -69,6 +69,7 @@ var _onPFBinDataReady = function (evtData) {
           data[count].section = file;
           data[count].meeting = [];
           data[count].name = '';
+          data[count].teacher = '';
         } else if (file.match(/^.{3}-.{3}/) !== null) {
           if (file.match(/[0-9]{5}/) !== null) {
             count ++;
@@ -78,6 +79,7 @@ var _onPFBinDataReady = function (evtData) {
             data[count].code = file.match(/^.{3}-.{3}/)[0];
             data[count].meeting = []; 
             data[count].name = '';
+            data[count].teacher = '';
           } else {
             data[count].code = file;
           }
@@ -87,16 +89,10 @@ var _onPFBinDataReady = function (evtData) {
           data[count].meeting[course].day = file;
         } else if (file.match(/^[0-9]{2}\:[0-9]{2}-/) !== null) {
           data[count].meeting[course].time = file;
-        } else if (file.match(/^[A-Z]-[0-9]{3}/) !== null) {
-          data[count].meeting[course].room = file;
-        } else if (file.match(/^[0-9]{3}$/) !== null) {
-          data[count].meeting[course].room = file;
-        } else if (file.match(/^AUD$/) !== null) {
-          data[count].meeting[course].room = file;
-        } else if (file.match(/^GYM$/) !== null) {
+        } else if (file.match(/^([A-Z]-\d{3}|\d{3}|AUD|GYM)$/) !== null) {
           data[count].meeting[course].room = file;
         } else if (file.match(/^.+\,/) !== null) {
-          data[count].teacher = file;
+          data[count].teacher += file;
         } else {
           data[count].name += file.toString();
         }
