@@ -93,6 +93,8 @@ var _onPFBinDataReady = function (evtData) {
           data[count].meeting[course].room = file;
         } else if (file.match(/^AUD$/) !== null) {
           data[count].meeting[course].room = file;
+        } else if (file.match(/^GYM$/) !== null) {
+          data[count].meeting[course].room = file;
         } else if (file.match(/^.+\,/) !== null) {
           data[count].teacher = file;
         } else {

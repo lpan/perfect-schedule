@@ -20085,10 +20085,11 @@
     "meeting": [
       {
         "day": "M",
-        "time": "16:15-18:15"
+        "time": "16:15-18:15",
+        "room": "GYM"
       }
     ],
-    "name": "Fitness GamesGYM",
+    "name": "Fitness Games",
     "code": "109-101-MQ",
     "teacher": "Epstein, Neall"
   },
@@ -20227,10 +20228,11 @@
     "meeting": [
       {
         "day": "M",
-        "time": "10:15-12:15"
+        "time": "10:15-12:15",
+        "room": "GYM"
       }
     ],
-    "name": "BadmintonGYM",
+    "name": "Badminton",
     "code": "109-102-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
@@ -20239,10 +20241,11 @@
     "meeting": [
       {
         "day": "T",
-        "time": "10:15-12:15"
+        "time": "10:15-12:15",
+        "room": "GYM"
       }
     ],
-    "name": "BadmintonGYM",
+    "name": "Badminton",
     "code": "109-102-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
@@ -20251,10 +20254,11 @@
     "meeting": [
       {
         "day": "T",
-        "time": "14:15-16:15"
+        "time": "14:15-16:15",
+        "room": "GYM"
       }
     ],
-    "name": "BadmintonGYM",
+    "name": "Badminton",
     "code": "109-102-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
@@ -20263,10 +20267,11 @@
     "meeting": [
       {
         "day": "H",
-        "time": "10:15-12:15"
+        "time": "10:15-12:15",
+        "room": "GYM"
       }
     ],
-    "name": "BadmintonGYM",
+    "name": "Badminton",
     "code": "109-102-MQ",
     "teacher": "Vachon-Gee, Alexandre"
   },
@@ -20275,10 +20280,11 @@
     "meeting": [
       {
         "day": "W",
-        "time": "10:15-12:15"
+        "time": "10:15-12:15",
+        "room": "GYM"
       }
     ],
-    "name": "BadmintonGYM",
+    "name": "Badminton",
     "code": "109-102-MQ",
     "teacher": "Perron, Josee"
   },
@@ -20287,10 +20293,11 @@
     "meeting": [
       {
         "day": "M",
-        "time": "12:15-14:15"
+        "time": "12:15-14:15",
+        "room": "GYM"
       }
     ],
-    "name": "SoccerGYM",
+    "name": "Soccer",
     "code": "109-102-MQ",
     "teacher": "Scrase, Julia"
   },
@@ -20299,10 +20306,11 @@
     "meeting": [
       {
         "day": "W",
-        "time": "08:15-10:15"
+        "time": "08:15-10:15",
+        "room": "GYM"
       }
     ],
-    "name": "SoccerGYM",
+    "name": "Soccer",
     "code": "109-102-MQ",
     "teacher": "Scrase, Julia"
   },
@@ -20311,10 +20319,11 @@
     "meeting": [
       {
         "day": "H",
-        "time": "14:15-16:15"
+        "time": "14:15-16:15",
+        "room": "GYM"
       }
     ],
-    "name": "SoccerGYM",
+    "name": "Soccer",
     "code": "109-102-MQ",
     "teacher": "Scrase, Julia"
   },
@@ -20323,10 +20332,11 @@
     "meeting": [
       {
         "day": "M",
-        "time": "08:15-10:15"
+        "time": "08:15-10:15",
+        "room": "GYM"
       }
     ],
-    "name": "BasketballGYM",
+    "name": "Basketball",
     "code": "109-102-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
@@ -20335,10 +20345,11 @@
     "meeting": [
       {
         "day": "F",
-        "time": "08:15-10:15"
+        "time": "08:15-10:15",
+        "room": "GYM"
       }
     ],
-    "name": "BasketballGYM",
+    "name": "Basketball",
     "code": "109-102-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
@@ -20347,10 +20358,11 @@
     "meeting": [
       {
         "day": "W",
-        "time": "16:15-18:15"
+        "time": "16:15-18:15",
+        "room": "GYM"
       }
     ],
-    "name": "VolleyballGYM",
+    "name": "Volleyball",
     "code": "109-102-MQ",
     "teacher": "Epstein, Neall"
   },
@@ -20359,10 +20371,11 @@
     "meeting": [
       {
         "day": "W",
-        "time": "14:15-16:15"
+        "time": "14:15-16:15",
+        "room": "GYM"
       }
     ],
-    "name": "Floor HockeyGYM",
+    "name": "Floor Hockey",
     "code": "109-102-MQ",
     "teacher": "Epstein, Neall"
   },
@@ -20371,10 +20384,11 @@
     "meeting": [
       {
         "day": "T",
-        "time": "16:15-18:15"
+        "time": "16:15-18:15",
+        "room": "GYM"
       }
     ],
-    "name": "Ultimate FrisbeeGYM",
+    "name": "Ultimate Frisbee",
     "code": "109-102-MQ",
     "teacher": "Epstein, Neall"
   },
@@ -20383,10 +20397,11 @@
     "meeting": [
       {
         "day": "F",
-        "time": "10:15-12:15"
+        "time": "10:15-12:15",
+        "room": "GYM"
       }
     ],
-    "name": "Ultimate FrisbeeGYM",
+    "name": "Ultimate Frisbee",
     "code": "109-102-MQ",
     "teacher": "Epstein, Neall"
   },
@@ -20603,10 +20618,11 @@
     "meeting": [
       {
         "day": "M",
-        "time": "14:15-16:15"
+        "time": "14:15-16:15",
+        "room": "GYM"
       }
     ],
-    "name": "BadmintonGYM",
+    "name": "Badminton",
     "code": "109-103-MQ",
     "teacher": "Perron, Josee"
   },
@@ -20615,10 +20631,11 @@
     "meeting": [
       {
         "day": "H",
-        "time": "08:15-10:15"
+        "time": "08:15-10:15",
+        "room": "GYM"
       }
     ],
-    "name": "BadmintonGYM",
+    "name": "Badminton",
     "code": "109-103-MQ",
     "teacher": "Perron, Josee"
   },
@@ -20627,10 +20644,11 @@
     "meeting": [
       {
         "day": "T",
-        "time": "08:15-10:15"
+        "time": "08:15-10:15",
+        "room": "GYM"
       }
     ],
-    "name": "Team SportsGYM",
+    "name": "Team Sports",
     "code": "109-103-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
@@ -20639,10 +20657,11 @@
     "meeting": [
       {
         "day": "W",
-        "time": "12:15-14:15"
+        "time": "12:15-14:15",
+        "room": "GYM"
       }
     ],
-    "name": "Team SportsGYM",
+    "name": "Team Sports",
     "code": "109-103-MQ",
     "teacher": "TBAPHE3, Marianopolis"
   },
@@ -20651,10 +20670,11 @@
     "meeting": [
       {
         "day": "H",
-        "time": "16:15-18:15"
+        "time": "16:15-18:15",
+        "room": "GYM"
       }
     ],
-    "name": "SoccerGYM",
+    "name": "Soccer",
     "code": "109-103-MQ",
     "teacher": "Scrase, Julia"
   },
@@ -20663,10 +20683,11 @@
     "meeting": [
       {
         "day": "F",
-        "time": "12:15-14:15"
+        "time": "12:15-14:15",
+        "room": "GYM"
       }
     ],
-    "name": "BasketballGYM",
+    "name": "Basketball",
     "code": "109-103-MQ",
     "teacher": "Epstein, Neall"
   },
