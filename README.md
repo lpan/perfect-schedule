@@ -3,7 +3,7 @@ Create your perfect schedule with easiness. A free, opensource and
 extensible scheduling app.
 
 ### Basic Features and Functions
-* Be able to parse the course offering list (pdf)
+* Be able to parse the course offering list (pdf) **DONE**
 * Frontend heavy application (computation on the client side)
 * RESTful API only serves raw data in json format
 * Client app generates schedules according to user inputs (preferences)
