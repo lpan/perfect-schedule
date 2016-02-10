@@ -30,6 +30,7 @@ var courses = [
     //...
   }
 ];
+```
 
 ### The backend
 * A RESTful Express API
@@ -39,8 +40,6 @@ var courses = [
 
 ### The frontend
 * AngularJs App
-      
-```
 
 ## License
 GNU GENERAL PUBLIC LICENSE VERSION 3
