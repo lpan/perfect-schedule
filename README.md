@@ -3,8 +3,8 @@ Create your perfect semester schedule with easiness. A free, opensource and
 extensible mock schedule generator.
 
 ## Ideas
-* AngularJs app at the frontend
-* Backed with an RESTful api written in Express
+* Single Page App at the frontend
+* Backed with a RESTful api written in Express
 * All school data is represented as an array of course objects
 * Users can submit data of a certain school to the database
 
@@ -32,14 +32,19 @@ var courses = [
 ];
 ```
 
-### The backend
+## The backend
 * A RESTful Express API
 
 ##### Route
 * GET '/' => Serve "index.html"
+* GET '/search', $COLLEGE, $YEAR => Serve data.json
 
-### The frontend
-* AngularJs App
+
+## The frontend
+* A Single Page App
+
+##### Behaviours
+
 
 ## License
 GNU GENERAL PUBLIC LICENSE VERSION 3
