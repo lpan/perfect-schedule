@@ -14,10 +14,6 @@
   },
   "homepage": "https://github.com/lorix-lpan/perfect-schedule#readme",
   "dependencies": {
-    "express": "^4.13.3",
-    "underscore": "^1.8.3"
-  },
-  "devDependencies": {
-    "pdf2json": "^0.7.1"
+    "express": "^4.13.3"
   }
 }

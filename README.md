@@ -3,6 +3,7 @@ Create your perfect semester schedule with easiness. A free, opensource and
 extensible mock schedule generator.
 
 ## Ideas
+* Isomorphic MERN app
 * Single Page App at the frontend
 * Backed with a RESTful api written in Express
 * All school data is represented as an array of course objects
