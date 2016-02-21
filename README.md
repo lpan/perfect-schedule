@@ -33,6 +33,13 @@ var courses = [
 ];
 ```
 
+### PDF conversion
+A list of PDF converters
+
+* Marianopolis College:
+    * [converter-marianopolis](https://github.com/lorix-lpan/converter-marianopolis)
+    * [mariocoursepdfparser](https://github.com/sunbinyuan/mariocoursespdfparser)
+
 ## The backend
 * A RESTful Express API
 
