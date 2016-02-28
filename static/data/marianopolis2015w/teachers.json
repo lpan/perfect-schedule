@@ -1,131 +1,389 @@
 [
-  "Jinbachian, Lori",
-  "Williams, Daniel",
-  "Fatholahzadeh, Baharak",
-  "Rogers, Patrick",
-  "Lebel, Céline",
-  "Livingstone, Margaret",
-  "Lemelin, Dominic",
-  "Strauss, Anja",
-  "Garneau, Claude",
-  "White, Shaun",
-  "Catalano, Riccardo",
-  "WAVES, LIGHT & MODERN ",
-  "Perreault, Jean",
-  "Faust, Rachel",
-  "Vinet, Jérémie",
-  "D'Abramo, Claudia",
-  "Ranger, Jill",
-  "Daly, Stewart",
-  "Di Flumeri, Celestino",
-  "Goldner-Sauvé, Audrey",
-  "Oberholzer, Ursula",
-  "Saumier, Michèle",
-  "Nobile, Louise",
-  "Rinehart, Joseph",
-  "Godin, Veronique",
-  "Fenwick, Andrew",
-  "Gavrin, Victor",
-  "Bigdely, Hadi",
-  "Lim, Wee Keong",
-  "Léger, Alain",
-  "Zakon, Tamara",
-  "Desrochers, Maryse",
-  "Deslandes, Jean-François",
-  "Butt, Roby",
-  "Freeman, Jeffrey",
-  "Halab, Liliane",
-  "Keane, Angela",
-  "Li, Jason",
-  "Vukov, Aleksandar",
-  "Gallant, Pascal",
-  "Sankeralli, Marcel",
-  "Paradis, Dominique",
-  "Egan, Matthew",
-  "Lee, Rebecca",
-  "Fleischer, George",
-  "Shugar, Seth",
-  "Vann, Matthew",
-  "Fitz-James, Megan",
-  "Vincent, John",
-  "Pedersen, Susan",
-  "Berdichevsky, Leon",
-  "McCambridge, Andrew",
-  "Côté, Christine",
-  "Newell, Megan",
-  "Webster, Barry",
-  "Sheckler, Catherine",
-  "Dubé, Peter",
-  "Walser, Sabine",
-  "Frauley, Mary",
-  "Burton, Andrew",
-  "Carrier, Nicolas",
-  "Khoo, Jun Ling",
-  "Dann, Philip",
-  "Arnot, Elizabeth",
-  "MacDonald, John",
-  "Malott, Paul",
-  "Lauzon Dicso, Mathieu",
-  "Martineau, Julien",
-  "Gasse-Houle, Magali",
-  "Boulanger, Cynthia",
-  "Poirier, Bertrand",
-  "Pagé, Sylvain",
-  "Savescu, Olivia",
-  "Soucy, Lily",
-  "Lamont, Larry",
-  "Polak, Monique",
-  "Levine, Rachel",
-  "Berman, Nancy",
-  "TATTOOS, TROPHIES, AND T-",
-  "Waurechen, Sarah",
-  "McKay, Cory",
-  "Richardson, Wendy",
-  "Skaperdas, Theodore",
-  "Cawker, Hugh",
-  "Giacomin, Monica",
-  "Reichert, Alison",
-  "McDonald, Shelly",
-  "Vachon-Gee, Alexandre",
-  "Dafniotis, Zoe",
-  "Jeannet, Anne",
-  "Perron, Josee",
-  "Scrase, Julia",
-  "Epstein, Neall",
-  "Cerrolaza, Elena",
-  "Spriggs, Megan",
-  "Wong, Mary",
-  "Liss, Selena",
-  "Brandl, Eva",
-  "Hays, Matthew",
-  "Levasseur, Isabelle",
-  "Heron, Lillian",
-  "Queen, James",
-  "Pettit, James",
-  "Cohn, Serge",
-  "Koumouzelis, Angelique",
-  "Sasson, Vanessa",
-  "Lefcoe, Andrew",
-  "Vasquez, Javier",
-  "Escamilla, David",
-  "Colle, Lois",
-  "Kruger, Stuart",
-  "Burton, Kimberly",
-  "Linnen, Anne-Marie",
-  "Dufour, Maurice",
-  "O'Keefe, David",
-  "Campbell, Jennifer",
-  "Bird, Rebecca",
-  "Elenakis, Peter",
-  "Terekhov, Vitaly",
-  "Vite-Leon, Norma",
-  "Kompaniyets, Eugene",
-  "Delorme, Bruno",
-  "Rudolph, Jeffrey",
-  "Barbone, Patrizia",
-  "Caverly, Grant",
-  "Chew, Dolores",
-  "Brzezinski, Marek",
-  "Salomon, Maria",
-  "Willmer, Andrew"
+  {
+    "val": "Jinbachian, Lori"
+  },
+  {
+    "val": "Williams, Daniel"
+  },
+  {
+    "val": "Fatholahzadeh, Baharak"
+  },
+  {
+    "val": "Rogers, Patrick"
+  },
+  {
+    "val": "Lebel, Céline"
+  },
+  {
+    "val": "Livingstone, Margaret"
+  },
+  {
+    "val": "Lemelin, Dominic"
+  },
+  {
+    "val": "Strauss, Anja"
+  },
+  {
+    "val": "Garneau, Claude"
+  },
+  {
+    "val": "White, Shaun"
+  },
+  {
+    "val": "Catalano, Riccardo"
+  },
+  {
+    "val": "WAVES, LIGHT & MODERN "
+  },
+  {
+    "val": "Perreault, Jean"
+  },
+  {
+    "val": "Faust, Rachel"
+  },
+  {
+    "val": "Vinet, Jérémie"
+  },
+  {
+    "val": "D'Abramo, Claudia"
+  },
+  {
+    "val": "Ranger, Jill"
+  },
+  {
+    "val": "Daly, Stewart"
+  },
+  {
+    "val": "Di Flumeri, Celestino"
+  },
+  {
+    "val": "Goldner-Sauvé, Audrey"
+  },
+  {
+    "val": "Oberholzer, Ursula"
+  },
+  {
+    "val": "Saumier, Michèle"
+  },
+  {
+    "val": "Nobile, Louise"
+  },
+  {
+    "val": "Rinehart, Joseph"
+  },
+  {
+    "val": "Godin, Veronique"
+  },
+  {
+    "val": "Fenwick, Andrew"
+  },
+  {
+    "val": "Gavrin, Victor"
+  },
+  {
+    "val": "Bigdely, Hadi"
+  },
+  {
+    "val": "Lim, Wee Keong"
+  },
+  {
+    "val": "Léger, Alain"
+  },
+  {
+    "val": "Zakon, Tamara"
+  },
+  {
+    "val": "Desrochers, Maryse"
+  },
+  {
+    "val": "Deslandes, Jean-François"
+  },
+  {
+    "val": "Butt, Roby"
+  },
+  {
+    "val": "Freeman, Jeffrey"
+  },
+  {
+    "val": "Halab, Liliane"
+  },
+  {
+    "val": "Keane, Angela"
+  },
+  {
+    "val": "Li, Jason"
+  },
+  {
+    "val": "Vukov, Aleksandar"
+  },
+  {
+    "val": "Gallant, Pascal"
+  },
+  {
+    "val": "Sankeralli, Marcel"
+  },
+  {
+    "val": "Paradis, Dominique"
+  },
+  {
+    "val": "Egan, Matthew"
+  },
+  {
+    "val": "Lee, Rebecca"
+  },
+  {
+    "val": "Fleischer, George"
+  },
+  {
+    "val": "Shugar, Seth"
+  },
+  {
+    "val": "Vann, Matthew"
+  },
+  {
+    "val": "Fitz-James, Megan"
+  },
+  {
+    "val": "Vincent, John"
+  },
+  {
+    "val": "Pedersen, Susan"
+  },
+  {
+    "val": "Berdichevsky, Leon"
+  },
+  {
+    "val": "McCambridge, Andrew"
+  },
+  {
+    "val": "Côté, Christine"
+  },
+  {
+    "val": "Newell, Megan"
+  },
+  {
+    "val": "Webster, Barry"
+  },
+  {
+    "val": "Sheckler, Catherine"
+  },
+  {
+    "val": "Dubé, Peter"
+  },
+  {
+    "val": "Walser, Sabine"
+  },
+  {
+    "val": "Frauley, Mary"
+  },
+  {
+    "val": "Burton, Andrew"
+  },
+  {
+    "val": "Carrier, Nicolas"
+  },
+  {
+    "val": "Khoo, Jun Ling"
+  },
+  {
+    "val": "Dann, Philip"
+  },
+  {
+    "val": "Arnot, Elizabeth"
+  },
+  {
+    "val": "MacDonald, John"
+  },
+  {
+    "val": "Malott, Paul"
+  },
+  {
+    "val": "Lauzon Dicso, Mathieu"
+  },
+  {
+    "val": "Martineau, Julien"
+  },
+  {
+    "val": "Gasse-Houle, Magali"
+  },
+  {
+    "val": "Boulanger, Cynthia"
+  },
+  {
+    "val": "Poirier, Bertrand"
+  },
+  {
+    "val": "Pagé, Sylvain"
+  },
+  {
+    "val": "Savescu, Olivia"
+  },
+  {
+    "val": "Soucy, Lily"
+  },
+  {
+    "val": "Lamont, Larry"
+  },
+  {
+    "val": "Polak, Monique"
+  },
+  {
+    "val": "Levine, Rachel"
+  },
+  {
+    "val": "Berman, Nancy"
+  },
+  {
+    "val": "TATTOOS, TROPHIES, AND T-"
+  },
+  {
+    "val": "Waurechen, Sarah"
+  },
+  {
+    "val": "McKay, Cory"
+  },
+  {
+    "val": "Richardson, Wendy"
+  },
+  {
+    "val": "Skaperdas, Theodore"
+  },
+  {
+    "val": "Cawker, Hugh"
+  },
+  {
+    "val": "Giacomin, Monica"
+  },
+  {
+    "val": "Reichert, Alison"
+  },
+  {
+    "val": "McDonald, Shelly"
+  },
+  {
+    "val": "Vachon-Gee, Alexandre"
+  },
+  {
+    "val": "Dafniotis, Zoe"
+  },
+  {
+    "val": "Jeannet, Anne"
+  },
+  {
+    "val": "Perron, Josee"
+  },
+  {
+    "val": "Scrase, Julia"
+  },
+  {
+    "val": "Epstein, Neall"
+  },
+  {
+    "val": "Cerrolaza, Elena"
+  },
+  {
+    "val": "Spriggs, Megan"
+  },
+  {
+    "val": "Wong, Mary"
+  },
+  {
+    "val": "Liss, Selena"
+  },
+  {
+    "val": "Brandl, Eva"
+  },
+  {
+    "val": "Hays, Matthew"
+  },
+  {
+    "val": "Levasseur, Isabelle"
+  },
+  {
+    "val": "Heron, Lillian"
+  },
+  {
+    "val": "Queen, James"
+  },
+  {
+    "val": "Pettit, James"
+  },
+  {
+    "val": "Cohn, Serge"
+  },
+  {
+    "val": "Koumouzelis, Angelique"
+  },
+  {
+    "val": "Sasson, Vanessa"
+  },
+  {
+    "val": "Lefcoe, Andrew"
+  },
+  {
+    "val": "Vasquez, Javier"
+  },
+  {
+    "val": "Escamilla, David"
+  },
+  {
+    "val": "Colle, Lois"
+  },
+  {
+    "val": "Kruger, Stuart"
+  },
+  {
+    "val": "Burton, Kimberly"
+  },
+  {
+    "val": "Linnen, Anne-Marie"
+  },
+  {
+    "val": "Dufour, Maurice"
+  },
+  {
+    "val": "O'Keefe, David"
+  },
+  {
+    "val": "Campbell, Jennifer"
+  },
+  {
+    "val": "Bird, Rebecca"
+  },
+  {
+    "val": "Elenakis, Peter"
+  },
+  {
+    "val": "Terekhov, Vitaly"
+  },
+  {
+    "val": "Vite-Leon, Norma"
+  },
+  {
+    "val": "Kompaniyets, Eugene"
+  },
+  {
+    "val": "Delorme, Bruno"
+  },
+  {
+    "val": "Rudolph, Jeffrey"
+  },
+  {
+    "val": "Barbone, Patrizia"
+  },
+  {
+    "val": "Caverly, Grant"
+  },
+  {
+    "val": "Chew, Dolores"
+  },
+  {
+    "val": "Brzezinski, Marek"
+  },
+  {
+    "val": "Salomon, Maria"
+  },
+  {
+    "val": "Willmer, Andrew"
+  }
 ]

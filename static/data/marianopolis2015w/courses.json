@@ -1,296 +1,884 @@
 [
-  "MOLECULAR GENETICS",
-  "GENERAL BIOLOGY I",
-  "DIFFERENTIAL EQUATIONS",
-  "GENERAL CHEMISTRY I",
-  "GENERAL CHEMISTRY II",
-  "MECHANICS",
-  "RESEARCH METHODS",
-  "INTEGRATIVE PROJECT (ARTS & ",
-  "LETTERS)",
-  "THEATRE IV",
-  "FOR - FORMS & TECHNIQUES",
-  "PERSP IN ARTS & LETTERS II",
-  "CRI - CRITIQUE",
-  "EXP - EXPLORATIONS",
-  "TEC - TECHNIQUES - ALC",
-  "THEATRE TECHNIQUES",
-  "P.I. II (PIANO LAB + PIANO ACC.)",
-  "P.I. II (VOICE LAB + VOICE ACC.)",
-  "P.I. II (JAZZ  LABS)",
-  "P.I. II (STR. LAB + STRING ACC.)",
-  "P.I. II (WIND LAB + WIND ACC.)",
-  "P.I. II  (GUITAR LABS)",
-  "P.I. I  (PERCUSSION LABS)",
-  "MUSIC LITERATURE II",
-  "LARGE ENS. & VOICE CL. ll ",
-  "(CHOIR LAB)",
-  "(ORCH. LAB)",
-  "LARGE ENS. & PIANO CL. ll (WIND ",
-  "SYMPH. LAB)",
-  "LARGE ENS. & PIANO CL. ll ",
-  "(CONTEMPORARY)",
-  "LARGE ENS & VOICE CL II (CHOIR ",
-  "LARGE ENS & PIANO CL II (CHOIR ",
-  "LARGE ENS & PIANO CL II (ORCH ",
-  "LAB)",
-  "LARGE ENS & PIANO CL II (WIND ",
-  "SYM LAB",
-  "EAR TRAINING & THEORY II",
-  "P.I. IV (PIANO LAB + PIANO ACC. + ",
-  "P.I. IV (VOICE LAB + VOICE ACC.+ ",
-  "P.I. IV (STR. LAB + STRING ACC. + ",
-  "P.I. IV (WIND LAB + WIND ACC. + ",
-  "I.P.)",
-  "P.I.  IV  (GUITAR LABS + I.P.)",
-  "P.I. III  (PERCUSSION LABS)",
-  "P.I. IV (JAZZ  LABS + I.P.)",
-  "MUSIC LITERATURE IV",
-  "VOICE CL. III + SMALL ENS. ",
-  "(VOICE TRIO I)",
-  "(STRING ENSEMBLE)",
-  "(VOICE TRIO)",
-  "PIANO CL. III + SMALL ENS. (TRIO)",
-  "(VOICE TRIO II)",
-  "VOICE III + SMALL ENS. (VOICE ",
-  "TRIO II)",
-  "COMP. III + SMALL ENS. (DDEC)",
-  "PIANO CL. III + SMALL ENS. ",
-  "(GENERIC)",
-  "PIANO CL. III + SMALL ENS. (JAZZ ",
-  "GENERIC)",
-  "VOICE CLASS III + SMALL ENS. ",
-  "(TRIO)",
-  "VOICE CLASS II (GENERIC)",
-  "EAR TRAINING & THEORY IV",
-  "ENRICHED GENERAL BIOLOGY I",
-  "ENRICHED CALCULUS II",
-  "ENRICHED MECHANICS",
-  "MECHANICS (A&S)",
-  "PHYSICS",
-  "ENRICHED (LIFE SCIENCES) ",
-  "ENRICHED (MODERN PHYSICS) ",
-  "ELECTRICITY & MAGNETISM",
-  "SOCIAL CHANGE",
-  "HUMAN BIOLOGY",
-  "GENERAL BIOLOGY II",
-  "GENERAL BIOLOGY II (A & S)",
-  "HUMAN PHYSIOLOGY",
-  "CALCULUS I",
-  "LINEAR ALGEBRA I",
-  "CALCULUS II",
-  "SOCIAL STATISTICS",
-  "CALCULUS III",
-  "LINEAR ALGEBRA II",
-  "PROBABILITY & STATISTICS",
-  "FINITE MATHEMATICS",
-  "ORGANIC CHEMISTRY I",
-  "ORGANIC CHEMISTRY II",
-  "DIGITAL ELECTRONICS",
-  "ASTROPHYSICS",
-  "POST-CLASSICAL HISTORY",
-  "MATH AND LOGIC",
-  "INTEGRATIVE PROJECT",
-  "QUANTITATIVE METHODS",
-  "COMPUTER PROGRAMMING",
-  "TECHNICAL DRAWING",
-  "THEATRE FORMS & TECHNIQUES",
-  "THEATRE CREATION",
-  "ISS - LIBERAL ARTS ISSUES COURSE",
-  "BUSINESS CASE STUDIES",
-  "LIK - LIBERAL ARTS K COURSE",
-  "Modern World 20th C History",
-  "INTRO TO ANTHROPOLOGY",
-  "NOVELS AND THE MOVIES",
-  "LIN - LIBERAL ARTS N COURSE",
-  "INTRO TO COLLEGE ENGLISH",
-  "TRUTH, HISTORY, AND FICTION",
-  "TELEPLAY AS LITERATURE",
-  "DETECTIVE FICTION",
-  "SHORT FICTION",
-  "THE SOCIAL NOVEL",
-  "SCIENCE FICTION",
-  "MAGIC REALISM",
-  "SCREENPLAY/STAGEPLAY",
-  "THE ESSAY",
-  "The Penny Dreadful",
-  "COMICS AS LITERATURE",
-  "CONTEMPORARY CANADIAN ",
-  "NOVEL",
-  "ROGUES & REBELS: NOVELS OF ",
-  "NONCOMFORMITY",
-  "LITERARY GENRE",
-  "ENGLISH LIT TO 1800 (A & S and ",
-  "Liberal Arts)",
-  "LITERARY THEMES",
-  "THE PSYCHOPATH IN FICTION ",
-  "AND NON-FICTION",
-  "CRITICAL APPROACHES: ",
-  "LITERATURE AND THEORY",
-  "WORLD MYTHOLOGY AND ",
-  "CRITICAL THEORY",
-  "LIFE WRITING",
-  "SOCIAL ISSUES IN LITERATURE",
-  "CRITICAL APPROACHES TO ",
-  "LITERATURE",
-  "CREATIVE WRITING",
-  "CHARACTER-DRIVEN CREATIVE ",
-  "WRITING",
-  "CREATIVE NONFICTION: WRITING ",
-  "(TRUE) STORIES",
-  "JOURNALISM",
-  "WRITING FOR CHILDREN",
-  "BUSINESS COMMUNICATION",
-  "THE POWER OF ",
-  "REPRESENTATION",
-  "WRITINGS AND WRITING ABOUT ",
-  "FOOD",
-  "RESEARCHING EIGHTEENTH-",
-  "CENTURY CRIME WRITING",
-  "LEGAL ISSUES",
-  "ADAPTED TO PROGRAM",
-  "MODERNISM & CRITICAL THEORY ",
-  "(A & S AND LIB ARTS)",
-  "PRÉP. AU FRA. DU COLL.",
-  "LANGUE ET EXPRESSION I",
-  "LANGUE ET COMMUNICATION",
-  "LANGUE FRANÇAISE ET ",
-  "CULTURE",
-  "LE QUÉBEC EN DEVENIR",
-  "CHANSON FRANÇAISE",
-  "LE CONTE",
-  "AU THÉÂTRE CETTE SAISON",
-  "LES LITTÉRATURES DE ",
-  "L'IMAGINAIRE",
-  "LANGUE ET EXPRESSION II",
-  "DÉCOUVERTES",
-  "FICTIONS",
-  "HISTOIRE DE L'AMOUR",
-  "SCIENCE MODERNE",
-  "L'ABSURDE DANS LA ",
-  "LITTÉRATURE",
-  "LITÉRATURE MIGRANTE",
-  "GENDER BENDER",
-  "ADOLESCENT EXPLORATIONS",
-  "MEDIEVAL KNOWLEDGE (Liberal ",
-  "STUFF OF NONSENSE",
-  "SOUNDS OF MUSIC",
-  "TRUTH: PHOTOGRAPHY, ",
-  "DOCUMENTARY AND REALITY TV",
-  "KNOWLEDGE",
-  "WHY ROME?",
-  "ARCHAEOLOGY: WHAT LIES ",
-  "BENEATH",
-  "LISTEN TO THE MUSIC",
-  "ART AND CULTURE OF THE ",
-  "ANCIENT AMERICAS",
-  "CELLS",
-  "MEN AND MASCULINITY",
-  "ANCIENT GREEKS",
-  "STORIES AND STORYTELLING",
-  "WORLD VIEWS",
-  "WAYS OF KNOWING",
-  "JUST AND UNJUST WARS",
-  "DA VINCI CODE",
-  "VIDEO GAMES",
-  "JUST AND UNJUST WARS (Liberal ",
-  "Arts Only)",
-  "ETHICS AND THE FAMILY",
-  "ETHICS AND SEXUALITY",
-  "ETHICS AND DEMOCRACY",
-  "ETHICS ON STAGE",
-  "ETHICAL ISSUES",
-  "MUSIC AND ETHICS",
-  "BIBLICAL SEX",
-  "Fitness/Yoga",
-  "Fitness/Aerobics",
-  "Fitness/Zumba",
-  "Fitness Games",
-  "Fitness",
-  "Cross Country Skiing",
-  "Intro Outdoor Ed.",
-  "Dance",
-  "Volleyball",
-  "Floor Hockey",
-  "Ultimate Frisbee",
-  "Pilates",
-  "Martial Arts",
-  "Yoga",
-  "Sports Conditioning",
-  "Weight Training",
-  "Cardio Dance",
-  "Nature Hikes",
-  "Stress Management",
-  "Badminton",
-  "Team Sports",
-  "Soccer",
-  "Basketball",
-  "MEDIEVAL-RENAISSANCE ART",
-  "20TH CENTURY ART",
-  "INTRO TO STUDIO ART",
-  "PAINTING",
-  "DIGITAL ART",
-  "ASPECTS OF NARRATIVE",
-  "HISTORY OF CINEMA",
-  "LANGUAGE OF FILM",
-  "GERMAN I",
-  "GERMAN II",
-  "ITALIAN I",
-  "MUSIC ACROSS THE AGES",
-  "PHILOSOPHIC QUEST",
-  "EASTERN PHILOSOPHIES",
-  "THINK FOR YOURSELF",
-  "MEDICAL ETHICS",
-  "ENHANCING COMPUTER SKILLS",
-  "WEB PAGE DESIGN",
-  "COMPUTER GRAPHICS",
-  "ON THE TRACK OF THE GODS",
-  "EASTERN RELIGIONS",
-  "TOPICS IN RELIGIOUS STUDIES",
-  "EXPLORING THE UNIVERSE",
-  "SPANISH III",
-  "SPANISH I",
-  "SPANISH II",
-  "PSYCH OF MENTAL DISORDERS",
-  "DEVELOPMENTAL PSY (ADOL)",
-  "SOCIAL PSYCHOLOGY",
-  "FORENSIC PSYCHOLOGY - Topics ",
-  "in Psychology II",
-  "FUNDAMENTALS OF LAW - ",
-  "Selected Topics in the Social ",
-  "Sciences",
-  "SOCIETIES OF THE WORLD; ",
-  "MEDITERRANEAN PEOPLES AND ",
-  "SOC",
-  "UNDERSTANDING POWER",
-  "INTERNATIONAL BUSINESS",
-  "INTRO TO PSYCHOLOGY",
-  "DEVELOPMENTAL PSY (CHILD)",
-  "HUMANS: From Stone Tools to ",
-  "Smart Phones",
-  "MICROECONOMICS",
-  "INTERNATIONAL POLITICS",
-  "INDIVIDUAL & SOCIETY",
-  "The Great War & Shaping the ",
-  "Modern World 20th C HISTORY",
-  "HONOURS SOCIAL SCIENCE ",
-  "SEMINAR",
-  "MASS MEDIA",
-  "SOCIAL INEQUALITIES AND ",
-  "SOCIAL PROBLEMS",
-  "MARKETING",
-  "WORLD GEOGRAPHY",
-  "AMERICAN HISTORY",
-  "MACROECONOMICS",
-  "INTERNATIONAL ECONOMICS",
-  "D-120A",
-  "SPORTS MANAGEMENT",
-  "FUNDAMENTALS OF BUSINESS",
-  "D-120B",
-  "ACCOUNTING",
-  "CULTURAL AND POLITICAL ",
-  "GEOGRAPHY",
-  "CRIMINOLOGY",
-  "WESTERN CIVILIZATION",
-  "THEATRE II"
+  {
+    "val": "MOLECULAR GENETICS"
+  },
+  {
+    "val": "GENERAL BIOLOGY I"
+  },
+  {
+    "val": "DIFFERENTIAL EQUATIONS"
+  },
+  {
+    "val": "GENERAL CHEMISTRY I"
+  },
+  {
+    "val": "GENERAL CHEMISTRY II"
+  },
+  {
+    "val": "MECHANICS"
+  },
+  {
+    "val": "RESEARCH METHODS"
+  },
+  {
+    "val": "INTEGRATIVE PROJECT (ARTS & "
+  },
+  {
+    "val": "LETTERS)"
+  },
+  {
+    "val": "THEATRE IV"
+  },
+  {
+    "val": "FOR - FORMS & TECHNIQUES"
+  },
+  {
+    "val": "PERSP IN ARTS & LETTERS II"
+  },
+  {
+    "val": "CRI - CRITIQUE"
+  },
+  {
+    "val": "EXP - EXPLORATIONS"
+  },
+  {
+    "val": "TEC - TECHNIQUES - ALC"
+  },
+  {
+    "val": "THEATRE TECHNIQUES"
+  },
+  {
+    "val": "P.I. II (PIANO LAB + PIANO ACC.)"
+  },
+  {
+    "val": "P.I. II (VOICE LAB + VOICE ACC.)"
+  },
+  {
+    "val": "P.I. II (JAZZ  LABS)"
+  },
+  {
+    "val": "P.I. II (STR. LAB + STRING ACC.)"
+  },
+  {
+    "val": "P.I. II (WIND LAB + WIND ACC.)"
+  },
+  {
+    "val": "P.I. II  (GUITAR LABS)"
+  },
+  {
+    "val": "P.I. I  (PERCUSSION LABS)"
+  },
+  {
+    "val": "MUSIC LITERATURE II"
+  },
+  {
+    "val": "LARGE ENS. & VOICE CL. ll "
+  },
+  {
+    "val": "(CHOIR LAB)"
+  },
+  {
+    "val": "(ORCH. LAB)"
+  },
+  {
+    "val": "LARGE ENS. & PIANO CL. ll (WIND "
+  },
+  {
+    "val": "SYMPH. LAB)"
+  },
+  {
+    "val": "LARGE ENS. & PIANO CL. ll "
+  },
+  {
+    "val": "(CONTEMPORARY)"
+  },
+  {
+    "val": "LARGE ENS & VOICE CL II (CHOIR "
+  },
+  {
+    "val": "LARGE ENS & PIANO CL II (CHOIR "
+  },
+  {
+    "val": "LARGE ENS & PIANO CL II (ORCH "
+  },
+  {
+    "val": "LAB)"
+  },
+  {
+    "val": "LARGE ENS & PIANO CL II (WIND "
+  },
+  {
+    "val": "SYM LAB"
+  },
+  {
+    "val": "EAR TRAINING & THEORY II"
+  },
+  {
+    "val": "P.I. IV (PIANO LAB + PIANO ACC. + "
+  },
+  {
+    "val": "P.I. IV (VOICE LAB + VOICE ACC.+ "
+  },
+  {
+    "val": "P.I. IV (STR. LAB + STRING ACC. + "
+  },
+  {
+    "val": "P.I. IV (WIND LAB + WIND ACC. + "
+  },
+  {
+    "val": "I.P.)"
+  },
+  {
+    "val": "P.I.  IV  (GUITAR LABS + I.P.)"
+  },
+  {
+    "val": "P.I. III  (PERCUSSION LABS)"
+  },
+  {
+    "val": "P.I. IV (JAZZ  LABS + I.P.)"
+  },
+  {
+    "val": "MUSIC LITERATURE IV"
+  },
+  {
+    "val": "VOICE CL. III + SMALL ENS. "
+  },
+  {
+    "val": "(VOICE TRIO I)"
+  },
+  {
+    "val": "(STRING ENSEMBLE)"
+  },
+  {
+    "val": "(VOICE TRIO)"
+  },
+  {
+    "val": "PIANO CL. III + SMALL ENS. (TRIO)"
+  },
+  {
+    "val": "(VOICE TRIO II)"
+  },
+  {
+    "val": "VOICE III + SMALL ENS. (VOICE "
+  },
+  {
+    "val": "TRIO II)"
+  },
+  {
+    "val": "COMP. III + SMALL ENS. (DDEC)"
+  },
+  {
+    "val": "PIANO CL. III + SMALL ENS. "
+  },
+  {
+    "val": "(GENERIC)"
+  },
+  {
+    "val": "PIANO CL. III + SMALL ENS. (JAZZ "
+  },
+  {
+    "val": "GENERIC)"
+  },
+  {
+    "val": "VOICE CLASS III + SMALL ENS. "
+  },
+  {
+    "val": "(TRIO)"
+  },
+  {
+    "val": "VOICE CLASS II (GENERIC)"
+  },
+  {
+    "val": "EAR TRAINING & THEORY IV"
+  },
+  {
+    "val": "ENRICHED GENERAL BIOLOGY I"
+  },
+  {
+    "val": "ENRICHED CALCULUS II"
+  },
+  {
+    "val": "ENRICHED MECHANICS"
+  },
+  {
+    "val": "MECHANICS (A&S)"
+  },
+  {
+    "val": "PHYSICS"
+  },
+  {
+    "val": "ENRICHED (LIFE SCIENCES) "
+  },
+  {
+    "val": "ENRICHED (MODERN PHYSICS) "
+  },
+  {
+    "val": "ELECTRICITY & MAGNETISM"
+  },
+  {
+    "val": "SOCIAL CHANGE"
+  },
+  {
+    "val": "HUMAN BIOLOGY"
+  },
+  {
+    "val": "GENERAL BIOLOGY II"
+  },
+  {
+    "val": "GENERAL BIOLOGY II (A & S)"
+  },
+  {
+    "val": "HUMAN PHYSIOLOGY"
+  },
+  {
+    "val": "CALCULUS I"
+  },
+  {
+    "val": "LINEAR ALGEBRA I"
+  },
+  {
+    "val": "CALCULUS II"
+  },
+  {
+    "val": "SOCIAL STATISTICS"
+  },
+  {
+    "val": "CALCULUS III"
+  },
+  {
+    "val": "LINEAR ALGEBRA II"
+  },
+  {
+    "val": "PROBABILITY & STATISTICS"
+  },
+  {
+    "val": "FINITE MATHEMATICS"
+  },
+  {
+    "val": "ORGANIC CHEMISTRY I"
+  },
+  {
+    "val": "ORGANIC CHEMISTRY II"
+  },
+  {
+    "val": "DIGITAL ELECTRONICS"
+  },
+  {
+    "val": "ASTROPHYSICS"
+  },
+  {
+    "val": "POST-CLASSICAL HISTORY"
+  },
+  {
+    "val": "MATH AND LOGIC"
+  },
+  {
+    "val": "INTEGRATIVE PROJECT"
+  },
+  {
+    "val": "QUANTITATIVE METHODS"
+  },
+  {
+    "val": "COMPUTER PROGRAMMING"
+  },
+  {
+    "val": "TECHNICAL DRAWING"
+  },
+  {
+    "val": "THEATRE FORMS & TECHNIQUES"
+  },
+  {
+    "val": "THEATRE CREATION"
+  },
+  {
+    "val": "ISS - LIBERAL ARTS ISSUES COURSE"
+  },
+  {
+    "val": "BUSINESS CASE STUDIES"
+  },
+  {
+    "val": "LIK - LIBERAL ARTS K COURSE"
+  },
+  {
+    "val": "Modern World 20th C History"
+  },
+  {
+    "val": "INTRO TO ANTHROPOLOGY"
+  },
+  {
+    "val": "NOVELS AND THE MOVIES"
+  },
+  {
+    "val": "LIN - LIBERAL ARTS N COURSE"
+  },
+  {
+    "val": "INTRO TO COLLEGE ENGLISH"
+  },
+  {
+    "val": "TRUTH, HISTORY, AND FICTION"
+  },
+  {
+    "val": "TELEPLAY AS LITERATURE"
+  },
+  {
+    "val": "DETECTIVE FICTION"
+  },
+  {
+    "val": "SHORT FICTION"
+  },
+  {
+    "val": "THE SOCIAL NOVEL"
+  },
+  {
+    "val": "SCIENCE FICTION"
+  },
+  {
+    "val": "MAGIC REALISM"
+  },
+  {
+    "val": "SCREENPLAY/STAGEPLAY"
+  },
+  {
+    "val": "THE ESSAY"
+  },
+  {
+    "val": "The Penny Dreadful"
+  },
+  {
+    "val": "COMICS AS LITERATURE"
+  },
+  {
+    "val": "CONTEMPORARY CANADIAN "
+  },
+  {
+    "val": "NOVEL"
+  },
+  {
+    "val": "ROGUES & REBELS: NOVELS OF "
+  },
+  {
+    "val": "NONCOMFORMITY"
+  },
+  {
+    "val": "LITERARY GENRE"
+  },
+  {
+    "val": "ENGLISH LIT TO 1800 (A & S and "
+  },
+  {
+    "val": "Liberal Arts)"
+  },
+  {
+    "val": "LITERARY THEMES"
+  },
+  {
+    "val": "THE PSYCHOPATH IN FICTION "
+  },
+  {
+    "val": "AND NON-FICTION"
+  },
+  {
+    "val": "CRITICAL APPROACHES: "
+  },
+  {
+    "val": "LITERATURE AND THEORY"
+  },
+  {
+    "val": "WORLD MYTHOLOGY AND "
+  },
+  {
+    "val": "CRITICAL THEORY"
+  },
+  {
+    "val": "LIFE WRITING"
+  },
+  {
+    "val": "SOCIAL ISSUES IN LITERATURE"
+  },
+  {
+    "val": "CRITICAL APPROACHES TO "
+  },
+  {
+    "val": "LITERATURE"
+  },
+  {
+    "val": "CREATIVE WRITING"
+  },
+  {
+    "val": "CHARACTER-DRIVEN CREATIVE "
+  },
+  {
+    "val": "WRITING"
+  },
+  {
+    "val": "CREATIVE NONFICTION: WRITING "
+  },
+  {
+    "val": "(TRUE) STORIES"
+  },
+  {
+    "val": "JOURNALISM"
+  },
+  {
+    "val": "WRITING FOR CHILDREN"
+  },
+  {
+    "val": "BUSINESS COMMUNICATION"
+  },
+  {
+    "val": "THE POWER OF "
+  },
+  {
+    "val": "REPRESENTATION"
+  },
+  {
+    "val": "WRITINGS AND WRITING ABOUT "
+  },
+  {
+    "val": "FOOD"
+  },
+  {
+    "val": "RESEARCHING EIGHTEENTH-"
+  },
+  {
+    "val": "CENTURY CRIME WRITING"
+  },
+  {
+    "val": "LEGAL ISSUES"
+  },
+  {
+    "val": "ADAPTED TO PROGRAM"
+  },
+  {
+    "val": "MODERNISM & CRITICAL THEORY "
+  },
+  {
+    "val": "(A & S AND LIB ARTS)"
+  },
+  {
+    "val": "PRÉP. AU FRA. DU COLL."
+  },
+  {
+    "val": "LANGUE ET EXPRESSION I"
+  },
+  {
+    "val": "LANGUE ET COMMUNICATION"
+  },
+  {
+    "val": "LANGUE FRANÇAISE ET "
+  },
+  {
+    "val": "CULTURE"
+  },
+  {
+    "val": "LE QUÉBEC EN DEVENIR"
+  },
+  {
+    "val": "CHANSON FRANÇAISE"
+  },
+  {
+    "val": "LE CONTE"
+  },
+  {
+    "val": "AU THÉÂTRE CETTE SAISON"
+  },
+  {
+    "val": "LES LITTÉRATURES DE "
+  },
+  {
+    "val": "L'IMAGINAIRE"
+  },
+  {
+    "val": "LANGUE ET EXPRESSION II"
+  },
+  {
+    "val": "DÉCOUVERTES"
+  },
+  {
+    "val": "FICTIONS"
+  },
+  {
+    "val": "HISTOIRE DE L'AMOUR"
+  },
+  {
+    "val": "SCIENCE MODERNE"
+  },
+  {
+    "val": "L'ABSURDE DANS LA "
+  },
+  {
+    "val": "LITTÉRATURE"
+  },
+  {
+    "val": "LITÉRATURE MIGRANTE"
+  },
+  {
+    "val": "GENDER BENDER"
+  },
+  {
+    "val": "ADOLESCENT EXPLORATIONS"
+  },
+  {
+    "val": "MEDIEVAL KNOWLEDGE (Liberal "
+  },
+  {
+    "val": "STUFF OF NONSENSE"
+  },
+  {
+    "val": "SOUNDS OF MUSIC"
+  },
+  {
+    "val": "TRUTH: PHOTOGRAPHY, "
+  },
+  {
+    "val": "DOCUMENTARY AND REALITY TV"
+  },
+  {
+    "val": "KNOWLEDGE"
+  },
+  {
+    "val": "WHY ROME?"
+  },
+  {
+    "val": "ARCHAEOLOGY: WHAT LIES "
+  },
+  {
+    "val": "BENEATH"
+  },
+  {
+    "val": "LISTEN TO THE MUSIC"
+  },
+  {
+    "val": "ART AND CULTURE OF THE "
+  },
+  {
+    "val": "ANCIENT AMERICAS"
+  },
+  {
+    "val": "CELLS"
+  },
+  {
+    "val": "MEN AND MASCULINITY"
+  },
+  {
+    "val": "ANCIENT GREEKS"
+  },
+  {
+    "val": "STORIES AND STORYTELLING"
+  },
+  {
+    "val": "WORLD VIEWS"
+  },
+  {
+    "val": "WAYS OF KNOWING"
+  },
+  {
+    "val": "JUST AND UNJUST WARS"
+  },
+  {
+    "val": "DA VINCI CODE"
+  },
+  {
+    "val": "VIDEO GAMES"
+  },
+  {
+    "val": "JUST AND UNJUST WARS (Liberal "
+  },
+  {
+    "val": "Arts Only)"
+  },
+  {
+    "val": "ETHICS AND THE FAMILY"
+  },
+  {
+    "val": "ETHICS AND SEXUALITY"
+  },
+  {
+    "val": "ETHICS AND DEMOCRACY"
+  },
+  {
+    "val": "ETHICS ON STAGE"
+  },
+  {
+    "val": "ETHICAL ISSUES"
+  },
+  {
+    "val": "MUSIC AND ETHICS"
+  },
+  {
+    "val": "BIBLICAL SEX"
+  },
+  {
+    "val": "Fitness/Yoga"
+  },
+  {
+    "val": "Fitness/Aerobics"
+  },
+  {
+    "val": "Fitness/Zumba"
+  },
+  {
+    "val": "Fitness Games"
+  },
+  {
+    "val": "Fitness"
+  },
+  {
+    "val": "Cross Country Skiing"
+  },
+  {
+    "val": "Intro Outdoor Ed."
+  },
+  {
+    "val": "Dance"
+  },
+  {
+    "val": "Volleyball"
+  },
+  {
+    "val": "Floor Hockey"
+  },
+  {
+    "val": "Ultimate Frisbee"
+  },
+  {
+    "val": "Pilates"
+  },
+  {
+    "val": "Martial Arts"
+  },
+  {
+    "val": "Yoga"
+  },
+  {
+    "val": "Sports Conditioning"
+  },
+  {
+    "val": "Weight Training"
+  },
+  {
+    "val": "Cardio Dance"
+  },
+  {
+    "val": "Nature Hikes"
+  },
+  {
+    "val": "Stress Management"
+  },
+  {
+    "val": "Badminton"
+  },
+  {
+    "val": "Team Sports"
+  },
+  {
+    "val": "Soccer"
+  },
+  {
+    "val": "Basketball"
+  },
+  {
+    "val": "MEDIEVAL-RENAISSANCE ART"
+  },
+  {
+    "val": "20TH CENTURY ART"
+  },
+  {
+    "val": "INTRO TO STUDIO ART"
+  },
+  {
+    "val": "PAINTING"
+  },
+  {
+    "val": "DIGITAL ART"
+  },
+  {
+    "val": "ASPECTS OF NARRATIVE"
+  },
+  {
+    "val": "HISTORY OF CINEMA"
+  },
+  {
+    "val": "LANGUAGE OF FILM"
+  },
+  {
+    "val": "GERMAN I"
+  },
+  {
+    "val": "GERMAN II"
+  },
+  {
+    "val": "ITALIAN I"
+  },
+  {
+    "val": "MUSIC ACROSS THE AGES"
+  },
+  {
+    "val": "PHILOSOPHIC QUEST"
+  },
+  {
+    "val": "EASTERN PHILOSOPHIES"
+  },
+  {
+    "val": "THINK FOR YOURSELF"
+  },
+  {
+    "val": "MEDICAL ETHICS"
+  },
+  {
+    "val": "ENHANCING COMPUTER SKILLS"
+  },
+  {
+    "val": "WEB PAGE DESIGN"
+  },
+  {
+    "val": "COMPUTER GRAPHICS"
+  },
+  {
+    "val": "ON THE TRACK OF THE GODS"
+  },
+  {
+    "val": "EASTERN RELIGIONS"
+  },
+  {
+    "val": "TOPICS IN RELIGIOUS STUDIES"
+  },
+  {
+    "val": "EXPLORING THE UNIVERSE"
+  },
+  {
+    "val": "SPANISH III"
+  },
+  {
+    "val": "SPANISH I"
+  },
+  {
+    "val": "SPANISH II"
+  },
+  {
+    "val": "PSYCH OF MENTAL DISORDERS"
+  },
+  {
+    "val": "DEVELOPMENTAL PSY (ADOL)"
+  },
+  {
+    "val": "SOCIAL PSYCHOLOGY"
+  },
+  {
+    "val": "FORENSIC PSYCHOLOGY - Topics "
+  },
+  {
+    "val": "in Psychology II"
+  },
+  {
+    "val": "FUNDAMENTALS OF LAW - "
+  },
+  {
+    "val": "Selected Topics in the Social "
+  },
+  {
+    "val": "Sciences"
+  },
+  {
+    "val": "SOCIETIES OF THE WORLD; "
+  },
+  {
+    "val": "MEDITERRANEAN PEOPLES AND "
+  },
+  {
+    "val": "SOC"
+  },
+  {
+    "val": "UNDERSTANDING POWER"
+  },
+  {
+    "val": "INTERNATIONAL BUSINESS"
+  },
+  {
+    "val": "INTRO TO PSYCHOLOGY"
+  },
+  {
+    "val": "DEVELOPMENTAL PSY (CHILD)"
+  },
+  {
+    "val": "HUMANS: From Stone Tools to "
+  },
+  {
+    "val": "Smart Phones"
+  },
+  {
+    "val": "MICROECONOMICS"
+  },
+  {
+    "val": "INTERNATIONAL POLITICS"
+  },
+  {
+    "val": "INDIVIDUAL & SOCIETY"
+  },
+  {
+    "val": "The Great War & Shaping the "
+  },
+  {
+    "val": "Modern World 20th C HISTORY"
+  },
+  {
+    "val": "HONOURS SOCIAL SCIENCE "
+  },
+  {
+    "val": "SEMINAR"
+  },
+  {
+    "val": "MASS MEDIA"
+  },
+  {
+    "val": "SOCIAL INEQUALITIES AND "
+  },
+  {
+    "val": "SOCIAL PROBLEMS"
+  },
+  {
+    "val": "MARKETING"
+  },
+  {
+    "val": "WORLD GEOGRAPHY"
+  },
+  {
+    "val": "AMERICAN HISTORY"
+  },
+  {
+    "val": "MACROECONOMICS"
+  },
+  {
+    "val": "INTERNATIONAL ECONOMICS"
+  },
+  {
+    "val": "D-120A"
+  },
+  {
+    "val": "SPORTS MANAGEMENT"
+  },
+  {
+    "val": "FUNDAMENTALS OF BUSINESS"
+  },
+  {
+    "val": "D-120B"
+  },
+  {
+    "val": "ACCOUNTING"
+  },
+  {
+    "val": "CULTURAL AND POLITICAL "
+  },
+  {
+    "val": "GEOGRAPHY"
+  },
+  {
+    "val": "CRIMINOLOGY"
+  },
+  {
+    "val": "WESTERN CIVILIZATION"
+  },
+  {
+    "val": "THEATRE II"
+  }
 ]

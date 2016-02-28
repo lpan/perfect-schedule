@@ -1,5 +1,4 @@
 import Express from 'express';
-import { MongoClient } from 'mongodb';
 import bodyParser from 'body-parser';
 import path from 'path';
 
@@ -29,21 +28,12 @@ import { match, RouterContext } from 'react-router';
 import routes from '../shared/routes';
 import { fetchComponentData } from './util/fetchData';
 import posts from './routes/course.routes';
-import serverConfig from './config';
+import { serverConfig } from './config';
 
 // Populate database with course data
-import feedData from './feedData';
+import feedData from './util/feedData';
 
-// MongoDB Connection
-MongoClient.connect(serverConfig.mongoURL, (error, db) => {
-  if (error) {
-    console.error('Please make sure Mongodb is installed and running!'); // eslint-disable-line no-console
-    throw error;
-  }
-
-  // Add json course data to db
-  feedData(db, 'marianopolis');
-});
+feedData();
 
 // Apply body Parser and server public assets and routes
 app.use(bodyParser.json({ limit: '20mb' }));
