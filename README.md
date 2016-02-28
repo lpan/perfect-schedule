@@ -6,53 +6,34 @@ extensible mock schedule generator.
 * Isomorphic MERN app
 * Single Page App at the frontend
 * Backed with a RESTful api written in Express
-* All school data is represented as an array of course objects
-* Users can submit data of a certain school to the database
-
-Example Data format:
-```javascript
-var courses = [
-  {
-    name: "GENERAL BIOLOGY I",
-    teacher: "John Doe",
-    classes: [
-      {
-        day: "T"
-        room: "A101",
-        start: "12:00",
-        end: "14:00"
-      },
-      {
-        // ...
-      }
-    ]
-  },
-  {
-    //...
-  }
-];
-```
+* Users can submit data of a certain school => save to the db if the data is
+  valid
 
 ### PDF conversion
 A list of PDF converters
 
 * Marianopolis College:
-    * [converter-marianopolis](https://github.com/lorix-lpan/converter-marianopolis)
-    * [mariocoursepdfparser](https://github.com/sunbinyuan/mariocoursespdfparser)
-
-## The backend
-* A RESTful Express API
-
-##### Route
-* GET '/' => Serve "index.html"
-* GET '/search', $COLLEGE, $YEAR => Serve data.json
+  * [converter-marianopolis](https://github.com/lorix-lpan/converter-marianopolis)
+  * [mariocoursepdfparser](https://github.com/sunbinyuan/mariocoursespdfparser)
 
 
-## The frontend
-* A Single Page App
+### API reference
 
-##### Behaviours
+#### Search course
+* GET '/api/search', school, code, teacher, course => serve courses
 
+###### Example
+```bash
+curl localhost:8000/api/search?school=marianopolis&code=SSS-LAQ
+```
+* => returns a list of all SSS-LAQ courses at Marianopolis
 
-## License
-GNU GENERAL PUBLIC LICENSE VERSION 3
+#### Get Suggestions
+* GET '/api/suggest', school, type, val => serve a list of (teacher|course|code)
+
+###### Example
+```bash
+curl localhost:8000/api/suggest?school=marianopolis&type=teacher&val=ob
+```
+* => returns a list of teacher objects whose name contains "ob"
+* type -> ['teacher', 'course', 'code']
