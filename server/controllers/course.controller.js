@@ -23,6 +23,6 @@ export function getSuggests(req, res) {
 
     let collect = db.collection(req.query.school);
 
-    collect.find({ req.query.type: { $regex: `.*#{req.query.val}.*` } })
+    // collect.find({ req.query.type: { $regex: `.*#{req.query.val}.*` } })
 
 }
