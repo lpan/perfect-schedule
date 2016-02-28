@@ -8,7 +8,7 @@ export function getCourses(req, res) {
 
   MongoClient.connect(serverConfig.mongoURL, (err, db) => {
 
-    let collect = db.collection(req.query.school);
+    let collect = db.collection(`${req.query.school}-details`);
     let query = _.omit(req.query, 'school');
 
     collect.find(query).toArray( (e, docs) => {

@@ -21,28 +21,34 @@
     "val": "RESEARCH METHODS"
   },
   {
-    "val": "INTEGRATIVE PROJECT (ARTS & "
+    "val": "INTEGRATIVE PROJECT (ARTS & LETTERS)"
   },
   {
-    "val": "LETTERS)"
+    "val": "EAR TRAINING & THEORY IVCRI - CRITIQUE"
+  },
+  {
+    "val": "INTEGRATIVE PROJECT (ARTS & LETTERS)CRI - CRITIQUE"
   },
   {
     "val": "THEATRE IV"
   },
   {
-    "val": "FOR - FORMS & TECHNIQUES"
+    "val": "SPANISH IIIEXP - EXPLORATIONS"
+  },
+  {
+    "val": "GERMAN IIFOR - FORMS & TECHNIQUES"
   },
   {
     "val": "PERSP IN ARTS & LETTERS II"
   },
   {
-    "val": "CRI - CRITIQUE"
+    "val": "CREATIVE WRITINGCRI - CRITIQUE"
   },
   {
-    "val": "EXP - EXPLORATIONS"
+    "val": "CRITICAL APPROACHES: LITERATURE AND THEORYEXP - EXPLORATIONS"
   },
   {
-    "val": "TEC - TECHNIQUES - ALC"
+    "val": "L'ABSURDE DANS LA LITTÉRATURETEC - TECHNIQUES - ALC"
   },
   {
     "val": "THEATRE TECHNIQUES"
@@ -72,61 +78,46 @@
     "val": "MUSIC LITERATURE II"
   },
   {
-    "val": "LARGE ENS. & VOICE CL. ll "
+    "val": "LARGE ENS. & VOICE CL. ll (CHOIR LAB)"
   },
   {
-    "val": "(CHOIR LAB)"
+    "val": "LARGE ENS. & PIANO CL. ll (CHOIR LAB)"
   },
   {
-    "val": "(ORCH. LAB)"
+    "val": "LARGE ENS. & PIANO CL. ll (ORCH. LAB)"
   },
   {
-    "val": "LARGE ENS. & PIANO CL. ll (WIND "
+    "val": "LARGE ENS. & PIANO CL. ll (WIND SYMPH. LAB)"
   },
   {
-    "val": "SYMPH. LAB)"
+    "val": "LARGE ENS. & PIANO CL. ll (CONTEMPORARY)"
   },
   {
-    "val": "LARGE ENS. & PIANO CL. ll "
+    "val": "LARGE ENS & VOICE CL II (CHOIR LAB)"
   },
   {
-    "val": "(CONTEMPORARY)"
+    "val": "LARGE ENS & PIANO CL II (CHOIR LAB)"
   },
   {
-    "val": "LARGE ENS & VOICE CL II (CHOIR "
+    "val": "LARGE ENS & PIANO CL II (ORCH LAB)"
   },
   {
-    "val": "LARGE ENS & PIANO CL II (CHOIR "
-  },
-  {
-    "val": "LARGE ENS & PIANO CL II (ORCH "
-  },
-  {
-    "val": "LAB)"
-  },
-  {
-    "val": "LARGE ENS & PIANO CL II (WIND "
-  },
-  {
-    "val": "SYM LAB"
+    "val": "LARGE ENS & PIANO CL II (WIND SYM LAB"
   },
   {
     "val": "EAR TRAINING & THEORY II"
   },
   {
-    "val": "P.I. IV (PIANO LAB + PIANO ACC. + "
+    "val": "P.I. IV (PIANO LAB + PIANO ACC. + I.P.)"
   },
   {
-    "val": "P.I. IV (VOICE LAB + VOICE ACC.+ "
+    "val": "P.I. IV (VOICE LAB + VOICE ACC.+ I.P.)"
   },
   {
-    "val": "P.I. IV (STR. LAB + STRING ACC. + "
+    "val": "P.I. IV (STR. LAB + STRING ACC. + I.P.)"
   },
   {
-    "val": "P.I. IV (WIND LAB + WIND ACC. + "
-  },
-  {
-    "val": "I.P.)"
+    "val": "P.I. IV (WIND LAB + WIND ACC. + I.P.)"
   },
   {
     "val": "P.I.  IV  (GUITAR LABS + I.P.)"
@@ -141,49 +132,34 @@
     "val": "MUSIC LITERATURE IV"
   },
   {
-    "val": "VOICE CL. III + SMALL ENS. "
+    "val": "VOICE CL. III + SMALL ENS. (VOICE TRIO I)"
   },
   {
-    "val": "(VOICE TRIO I)"
+    "val": "PIANO CL. III + SMALL ENS. (STRING ENSEMBLE)"
   },
   {
-    "val": "(STRING ENSEMBLE)"
-  },
-  {
-    "val": "(VOICE TRIO)"
+    "val": "PIANO CL. III + SMALL ENS. (VOICE TRIO)"
   },
   {
     "val": "PIANO CL. III + SMALL ENS. (TRIO)"
   },
   {
-    "val": "(VOICE TRIO II)"
+    "val": "PIANO CL. III + SMALL ENS. (VOICE TRIO II)"
   },
   {
-    "val": "VOICE III + SMALL ENS. (VOICE "
-  },
-  {
-    "val": "TRIO II)"
+    "val": "VOICE III + SMALL ENS. (VOICE TRIO II)"
   },
   {
     "val": "COMP. III + SMALL ENS. (DDEC)"
   },
   {
-    "val": "PIANO CL. III + SMALL ENS. "
+    "val": "PIANO CL. III + SMALL ENS. (GENERIC)"
   },
   {
-    "val": "(GENERIC)"
+    "val": "PIANO CL. III + SMALL ENS. (JAZZ GENERIC)"
   },
   {
-    "val": "PIANO CL. III + SMALL ENS. (JAZZ "
-  },
-  {
-    "val": "GENERIC)"
-  },
-  {
-    "val": "VOICE CLASS III + SMALL ENS. "
-  },
-  {
-    "val": "(TRIO)"
+    "val": "VOICE CLASS III + SMALL ENS. (TRIO)"
   },
   {
     "val": "VOICE CLASS II (GENERIC)"
@@ -207,10 +183,10 @@
     "val": "PHYSICS"
   },
   {
-    "val": "ENRICHED (LIFE SCIENCES) "
+    "val": "ENRICHED (LIFE SCIENCES) ELECTRICITY & MAGNETISM"
   },
   {
-    "val": "ENRICHED (MODERN PHYSICS) "
+    "val": "ENRICHED (MODERN PHYSICS) ELECTRICITY & MAGNETISM"
   },
   {
     "val": "ELECTRICITY & MAGNETISM"
@@ -291,37 +267,46 @@
     "val": "THEATRE CREATION"
   },
   {
-    "val": "ISS - LIBERAL ARTS ISSUES COURSE"
+    "val": "GERMAN IIISS - LIBERAL ARTS ISSUES COURSE"
   },
   {
     "val": "BUSINESS CASE STUDIES"
   },
   {
-    "val": "LIK - LIBERAL ARTS K COURSE"
+    "val": "LITERARY THEMESLIK - LIBERAL ARTS K COURSE"
   },
   {
-    "val": "Modern World 20th C History"
+    "val": "The Great War & Shaping the Modern World 20th C History"
   },
   {
     "val": "INTRO TO ANTHROPOLOGY"
   },
   {
+    "val": "TRUTH, HISTORY, AND FICTION"
+  },
+  {
+    "val": "TRUTH, HISTORY, AND FICTIONSHORT FICTION"
+  },
+  {
     "val": "NOVELS AND THE MOVIES"
   },
   {
-    "val": "LIN - LIBERAL ARTS N COURSE"
+    "val": "LITERARY GENRELIN - LIBERAL ARTS N COURSE"
   },
   {
     "val": "INTRO TO COLLEGE ENGLISH"
   },
   {
-    "val": "TRUTH, HISTORY, AND FICTION"
-  },
-  {
     "val": "TELEPLAY AS LITERATURE"
   },
   {
+    "val": "TRUTH, HISTORY, AND FICTIONTELEPLAY AS LITERATURE"
+  },
+  {
     "val": "DETECTIVE FICTION"
+  },
+  {
+    "val": "TRUTH, HISTORY, AND FICTIONDETECTIVE FICTION"
   },
   {
     "val": "SHORT FICTION"
@@ -348,46 +333,28 @@
     "val": "COMICS AS LITERATURE"
   },
   {
-    "val": "CONTEMPORARY CANADIAN "
+    "val": "CONTEMPORARY CANADIAN NOVEL"
   },
   {
-    "val": "NOVEL"
-  },
-  {
-    "val": "ROGUES & REBELS: NOVELS OF "
-  },
-  {
-    "val": "NONCOMFORMITY"
+    "val": "ROGUES & REBELS: NOVELS OF NONCOMFORMITY"
   },
   {
     "val": "LITERARY GENRE"
   },
   {
-    "val": "ENGLISH LIT TO 1800 (A & S and "
-  },
-  {
-    "val": "Liberal Arts)"
+    "val": "ENGLISH LIT TO 1800 (A & S and Liberal Arts)"
   },
   {
     "val": "LITERARY THEMES"
   },
   {
-    "val": "THE PSYCHOPATH IN FICTION "
+    "val": "THE PSYCHOPATH IN FICTION AND NON-FICTION"
   },
   {
-    "val": "AND NON-FICTION"
+    "val": "CRITICAL APPROACHES: LITERATURE AND THEORY"
   },
   {
-    "val": "CRITICAL APPROACHES: "
-  },
-  {
-    "val": "LITERATURE AND THEORY"
-  },
-  {
-    "val": "WORLD MYTHOLOGY AND "
-  },
-  {
-    "val": "CRITICAL THEORY"
+    "val": "WORLD MYTHOLOGY AND CRITICAL THEORY"
   },
   {
     "val": "LIFE WRITING"
@@ -396,25 +363,16 @@
     "val": "SOCIAL ISSUES IN LITERATURE"
   },
   {
-    "val": "CRITICAL APPROACHES TO "
-  },
-  {
-    "val": "LITERATURE"
+    "val": "CRITICAL APPROACHES TO LITERATURE"
   },
   {
     "val": "CREATIVE WRITING"
   },
   {
-    "val": "CHARACTER-DRIVEN CREATIVE "
+    "val": "CHARACTER-DRIVEN CREATIVE WRITING"
   },
   {
-    "val": "WRITING"
-  },
-  {
-    "val": "CREATIVE NONFICTION: WRITING "
-  },
-  {
-    "val": "(TRUE) STORIES"
+    "val": "CREATIVE NONFICTION: WRITING (TRUE) STORIES"
   },
   {
     "val": "JOURNALISM"
@@ -426,22 +384,13 @@
     "val": "BUSINESS COMMUNICATION"
   },
   {
-    "val": "THE POWER OF "
+    "val": "THE POWER OF REPRESENTATION"
   },
   {
-    "val": "REPRESENTATION"
+    "val": "WRITINGS AND WRITING ABOUT FOOD"
   },
   {
-    "val": "WRITINGS AND WRITING ABOUT "
-  },
-  {
-    "val": "FOOD"
-  },
-  {
-    "val": "RESEARCHING EIGHTEENTH-"
-  },
-  {
-    "val": "CENTURY CRIME WRITING"
+    "val": "RESEARCHING EIGHTEENTH-CENTURY CRIME WRITING"
   },
   {
     "val": "LEGAL ISSUES"
@@ -450,10 +399,7 @@
     "val": "ADAPTED TO PROGRAM"
   },
   {
-    "val": "MODERNISM & CRITICAL THEORY "
-  },
-  {
-    "val": "(A & S AND LIB ARTS)"
+    "val": "MODERNISM & CRITICAL THEORY (A & S AND LIB ARTS)"
   },
   {
     "val": "PRÉP. AU FRA. DU COLL."
@@ -465,10 +411,7 @@
     "val": "LANGUE ET COMMUNICATION"
   },
   {
-    "val": "LANGUE FRANÇAISE ET "
-  },
-  {
-    "val": "CULTURE"
+    "val": "LANGUE FRANÇAISE ET CULTURE"
   },
   {
     "val": "LE QUÉBEC EN DEVENIR"
@@ -483,10 +426,7 @@
     "val": "AU THÉÂTRE CETTE SAISON"
   },
   {
-    "val": "LES LITTÉRATURES DE "
-  },
-  {
-    "val": "L'IMAGINAIRE"
+    "val": "LES LITTÉRATURES DE L'IMAGINAIRE"
   },
   {
     "val": "LANGUE ET EXPRESSION II"
@@ -504,10 +444,7 @@
     "val": "SCIENCE MODERNE"
   },
   {
-    "val": "L'ABSURDE DANS LA "
-  },
-  {
-    "val": "LITTÉRATURE"
+    "val": "L'ABSURDE DANS LA LITTÉRATURE"
   },
   {
     "val": "LITÉRATURE MIGRANTE"
@@ -519,7 +456,7 @@
     "val": "ADOLESCENT EXPLORATIONS"
   },
   {
-    "val": "MEDIEVAL KNOWLEDGE (Liberal "
+    "val": "MEDIEVAL KNOWLEDGE (Liberal Arts Only)"
   },
   {
     "val": "STUFF OF NONSENSE"
@@ -528,10 +465,7 @@
     "val": "SOUNDS OF MUSIC"
   },
   {
-    "val": "TRUTH: PHOTOGRAPHY, "
-  },
-  {
-    "val": "DOCUMENTARY AND REALITY TV"
+    "val": "TRUTH: PHOTOGRAPHY, DOCUMENTARY AND REALITY TV"
   },
   {
     "val": "KNOWLEDGE"
@@ -540,19 +474,13 @@
     "val": "WHY ROME?"
   },
   {
-    "val": "ARCHAEOLOGY: WHAT LIES "
-  },
-  {
-    "val": "BENEATH"
+    "val": "ARCHAEOLOGY: WHAT LIES BENEATH"
   },
   {
     "val": "LISTEN TO THE MUSIC"
   },
   {
-    "val": "ART AND CULTURE OF THE "
-  },
-  {
-    "val": "ANCIENT AMERICAS"
+    "val": "ART AND CULTURE OF THE ANCIENT AMERICAS"
   },
   {
     "val": "CELLS"
@@ -582,10 +510,7 @@
     "val": "VIDEO GAMES"
   },
   {
-    "val": "JUST AND UNJUST WARS (Liberal "
-  },
-  {
-    "val": "Arts Only)"
+    "val": "JUST AND UNJUST WARS (Liberal Arts Only)"
   },
   {
     "val": "ETHICS AND THE FAMILY"
@@ -765,28 +690,13 @@
     "val": "SOCIAL PSYCHOLOGY"
   },
   {
-    "val": "FORENSIC PSYCHOLOGY - Topics "
+    "val": "FORENSIC PSYCHOLOGY - Topics in Psychology II"
   },
   {
-    "val": "in Psychology II"
+    "val": "FUNDAMENTALS OF LAW - Selected Topics in the Social Sciences"
   },
   {
-    "val": "FUNDAMENTALS OF LAW - "
-  },
-  {
-    "val": "Selected Topics in the Social "
-  },
-  {
-    "val": "Sciences"
-  },
-  {
-    "val": "SOCIETIES OF THE WORLD; "
-  },
-  {
-    "val": "MEDITERRANEAN PEOPLES AND "
-  },
-  {
-    "val": "SOC"
+    "val": "SOCIETIES OF THE WORLD; MEDITERRANEAN PEOPLES AND SOC"
   },
   {
     "val": "UNDERSTANDING POWER"
@@ -801,10 +711,7 @@
     "val": "DEVELOPMENTAL PSY (CHILD)"
   },
   {
-    "val": "HUMANS: From Stone Tools to "
-  },
-  {
-    "val": "Smart Phones"
+    "val": "HUMANS: From Stone Tools to Smart Phones"
   },
   {
     "val": "MICROECONOMICS"
@@ -816,25 +723,16 @@
     "val": "INDIVIDUAL & SOCIETY"
   },
   {
-    "val": "The Great War & Shaping the "
+    "val": "The Great War & Shaping the Modern World 20th C HISTORY"
   },
   {
-    "val": "Modern World 20th C HISTORY"
-  },
-  {
-    "val": "HONOURS SOCIAL SCIENCE "
-  },
-  {
-    "val": "SEMINAR"
+    "val": "HONOURS SOCIAL SCIENCE SEMINAR"
   },
   {
     "val": "MASS MEDIA"
   },
   {
-    "val": "SOCIAL INEQUALITIES AND "
-  },
-  {
-    "val": "SOCIAL PROBLEMS"
+    "val": "SOCIAL INEQUALITIES AND SOCIAL PROBLEMS"
   },
   {
     "val": "MARKETING"
@@ -852,25 +750,16 @@
     "val": "INTERNATIONAL ECONOMICS"
   },
   {
-    "val": "D-120A"
-  },
-  {
     "val": "SPORTS MANAGEMENT"
   },
   {
     "val": "FUNDAMENTALS OF BUSINESS"
   },
   {
-    "val": "D-120B"
-  },
-  {
     "val": "ACCOUNTING"
   },
   {
-    "val": "CULTURAL AND POLITICAL "
-  },
-  {
-    "val": "GEOGRAPHY"
+    "val": "CULTURAL AND POLITICAL GEOGRAPHY"
   },
   {
     "val": "CRIMINOLOGY"
@@ -880,5 +769,8 @@
   },
   {
     "val": "THEATRE II"
+  },
+  {
+    "val": ""
   }
 ]

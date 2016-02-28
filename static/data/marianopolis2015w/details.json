@@ -23,10 +23,11 @@
         "time": [
           "11:15",
           "12:45"
-        ]
+        ],
+        "room": "D-120A"
       }
     ],
-    "name": "MOLECULAR GENETICSD-120A",
+    "name": "MOLECULAR GENETICS",
     "teacher": "Ranger, Jill",
     "code": "101-LCW-MS"
   },
@@ -758,7 +759,8 @@
         "time": [
           "08:15",
           "09:45"
-        ]
+        ],
+        "room": "D-120B"
       },
       {
         "day": "W",
@@ -773,10 +775,11 @@
         "time": [
           "11:15",
           "12:45"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "MECHANICSD-120BD-120B",
+    "name": "MECHANICS",
     "teacher": "Faust, Rachel",
     "code": "203-NYA-05"
   },
@@ -788,7 +791,8 @@
         "time": [
           "12:45",
           "14:15"
-        ]
+        ],
+        "room": "D-120B"
       },
       {
         "day": "T",
@@ -803,10 +807,11 @@
         "time": [
           "09:45",
           "11:15"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "MECHANICSD-120BD-120B",
+    "name": "MECHANICS",
     "teacher": "Faust, Rachel",
     "code": "203-NYA-05"
   },
@@ -818,7 +823,8 @@
         "time": [
           "14:15",
           "15:45"
-        ]
+        ],
+        "room": "D-120A"
       },
       {
         "day": "W",
@@ -829,7 +835,7 @@
         "room": "D-307"
       }
     ],
-    "name": "MECHANICSD-120A",
+    "name": "MECHANICS",
     "teacher": "Lefcoe, Andrew",
     "code": "203-NYA-05"
   },
@@ -921,10 +927,11 @@
         "time": [
           "12:45",
           "14:15"
-        ]
+        ],
+        "room": "D-120A"
       }
     ],
-    "name": "MECHANICSD-120A",
+    "name": "MECHANICS",
     "teacher": "Livingstone, Margaret",
     "code": "203-NYA-05"
   },
@@ -944,10 +951,11 @@
         "time": [
           "16:15",
           "17:45"
-        ]
+        ],
+        "room": "D-120A"
       }
     ],
-    "name": "MECHANICSD-120A",
+    "name": "MECHANICS",
     "teacher": "Livingstone, Margaret",
     "code": "203-NYA-05"
   },
@@ -983,7 +991,8 @@
         "time": [
           "11:15",
           "12:45"
-        ]
+        ],
+        "room": "D-120B"
       },
       {
         "day": "T",
@@ -998,10 +1007,11 @@
         "time": [
           "14:15",
           "15:45"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "MECHANICS (A&S)D-120BD-120B",
+    "name": "MECHANICS (A&S)",
     "teacher": "Lefcoe, Andrew",
     "code": "203-NYA-05"
   },
@@ -1109,7 +1119,8 @@
         "time": [
           "08:15",
           "09:45"
-        ]
+        ],
+        "room": "D-120A"
       },
       {
         "day": "H",
@@ -1120,7 +1131,7 @@
         "room": "D-305"
       }
     ],
-    "name": "ELECTRICITY & MAGNETISMD-120A",
+    "name": "ELECTRICITY & MAGNETISM",
     "teacher": "Perreault, Jean",
     "code": "203-NYB-05"
   },
@@ -1292,17 +1303,19 @@
         "time": [
           "11:15",
           "12:45"
-        ]
+        ],
+        "room": "D-120B"
       },
       {
         "day": "F",
         "time": [
           "08:15",
           "09:45"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "ENRICHED (LIFE SCIENCES) ELECTRICITY & MAGNETISMD-120BD-120B",
+    "name": "ENRICHED (LIFE SCIENCES) ELECTRICITY & MAGNETISM",
     "teacher": "Faust, Rachel",
     "code": "203-NYB-05"
   },
@@ -1754,7 +1767,8 @@
         "time": [
           "12:45",
           "14:15"
-        ]
+        ],
+        "room": "D-120A"
       },
       {
         "day": "F",
@@ -1765,7 +1779,7 @@
         "room": "D-405"
       }
     ],
-    "name": "CALCULUS IID-120A",
+    "name": "CALCULUS II",
     "teacher": "Nobile, Louise",
     "code": "201-NYB-05"
   },
@@ -2529,10 +2543,11 @@
         "time": [
           "11:15",
           "12:45"
-        ]
+        ],
+        "room": "D-120A"
       }
     ],
-    "name": "COMPUTER PROGRAMMINGD-120A",
+    "name": "COMPUTER PROGRAMMING",
     "teacher": "Fleischer, George",
     "code": "420-LFA-MS"
   },
@@ -3111,10 +3126,11 @@
         "time": [
           "14:15",
           "17:15"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "HISTORY OF CINEMAD-120B",
+    "name": "HISTORY OF CINEMA",
     "teacher": "Hays, Matthew",
     "code": "530-LEA-MS"
   },
@@ -3558,10 +3574,11 @@
         "time": [
           "09:45",
           "12:45"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "LANGUAGE OF FILMD-120B",
+    "name": "LANGUAGE OF FILM",
     "teacher": "Hays, Matthew",
     "code": "530-LFB-MS"
   },
@@ -3869,10 +3886,11 @@
         "time": [
           "09:45",
           "12:45"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "LANGUAGE OF FILMD-120B",
+    "name": "LANGUAGE OF FILM",
     "teacher": "Hays, Matthew",
     "code": "530-AQB-MS"
   },
@@ -4036,10 +4054,11 @@
         "time": [
           "14:15",
           "17:15"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "HISTORY OF CINEMAD-120B",
+    "name": "HISTORY OF CINEMA",
     "teacher": "Hays, Matthew",
     "code": "530-AEA-MS"
   },
@@ -4707,7 +4726,8 @@
         "time": [
           "16:15",
           "17:15"
-        ]
+        ],
+        "room": "D-120B"
       },
       {
         "day": "S",
@@ -4718,7 +4738,7 @@
         "room": "900"
       }
     ],
-    "name": "P.I. II (WIND LAB + WIND ACC.)D-120B",
+    "name": "P.I. II (WIND LAB + WIND ACC.)",
     "teacher": "McGill, TBA; Simons, Mark",
     "code": "551-221-MS"
   },
@@ -5138,7 +5158,8 @@
         "time": [
           "16:15",
           "17:15"
-        ]
+        ],
+        "room": "D-120B"
       },
       {
         "day": "W",
@@ -5157,7 +5178,7 @@
         "room": "900"
       }
     ],
-    "name": "P.I. IV (WIND LAB + WIND ACC. + D-120BI.P.)",
+    "name": "P.I. IV (WIND LAB + WIND ACC. + I.P.)",
     "teacher": "McGill, TBA; McKay, Cory; Simons, Mark",
     "code": "551-421-MS"
   },
@@ -5745,7 +5766,8 @@
         "time": [
           "11:15",
           "12:45"
-        ]
+        ],
+        "room": "D-120B"
       },
       {
         "day": "T",
@@ -5760,10 +5782,11 @@
         "time": [
           "14:15",
           "15:45"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "MECHANICS (A&S)D-120BD-120B",
+    "name": "MECHANICS (A&S)",
     "teacher": "Lefcoe, Andrew",
     "code": "203-701-MS"
   },
@@ -5807,17 +5830,19 @@
         "time": [
           "11:15",
           "12:45"
-        ]
+        ],
+        "room": "D-120B"
       },
       {
         "day": "F",
         "time": [
           "08:15",
           "09:45"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "ENRICHED (LIFE SCIENCES) ELECTRICITY & MAGNETISMD-120BD-120B",
+    "name": "ENRICHED (LIFE SCIENCES) ELECTRICITY & MAGNETISM",
     "teacher": "Faust, Rachel",
     "code": "203-703-MS"
   },
@@ -6917,14 +6942,16 @@
         "time": [
           "11:15",
           "12:45"
-        ]
+        ],
+        "room": "D-120A"
       },
       {
         "day": "H",
         "time": [
           "08:15",
           "09:45"
-        ]
+        ],
+        "room": "D-120A"
       },
       {
         "day": "F",
@@ -6935,7 +6962,7 @@
         "room": "G-202"
       }
     ],
-    "name": "HUMAN PHYSIOLOGYD-120AD-120A",
+    "name": "HUMAN PHYSIOLOGY",
     "teacher": "Saumier, Michèle",
     "code": "101-LCV-05"
   },
@@ -7675,7 +7702,8 @@
         "time": [
           "08:15",
           "09:45"
-        ]
+        ],
+        "room": "D-120A"
       },
       {
         "day": "H",
@@ -7686,7 +7714,7 @@
         "room": "D-307"
       }
     ],
-    "name": "ASTROPHYSICSD-120A",
+    "name": "ASTROPHYSICS",
     "teacher": "Paradis, Dominique",
     "code": "203-LCW-05"
   },
@@ -8082,10 +8110,11 @@
         "time": [
           "09:45",
           "11:15"
-        ]
+        ],
+        "room": "D-120A"
       }
     ],
-    "name": "MACROECONOMICSD-120A",
+    "name": "MACROECONOMICS",
     "teacher": "Kompaniyets, Eugene",
     "code": "383-920-MS"
   },
@@ -8137,10 +8166,11 @@
         "time": [
           "11:15",
           "12:45"
-        ]
+        ],
+        "room": "D-120A"
       }
     ],
-    "name": "COMPUTER PROGRAMMINGD-120A",
+    "name": "COMPUTER PROGRAMMING",
     "teacher": "Fleischer, George",
     "code": "420-LCU-05"
   },
@@ -8832,10 +8862,11 @@
         "time": [
           "14:15",
           "15:45"
-        ]
+        ],
+        "room": "D-120A"
       }
     ],
-    "name": "INTERNATIONAL ECONOMICSD-120A",
+    "name": "INTERNATIONAL ECONOMICS",
     "teacher": "Kompaniyets, Eugene",
     "code": "383-924-MS"
   },
@@ -8991,10 +9022,11 @@
         "time": [
           "09:45",
           "12:45"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "LANGUAGE OF FILMD-120B",
+    "name": "LANGUAGE OF FILM",
     "teacher": "Hays, Matthew",
     "code": "530-300-MS"
   },
@@ -9270,10 +9302,11 @@
         "time": [
           "12:45",
           "14:15"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "SPORTS MANAGEMENTD-120B",
+    "name": "SPORTS MANAGEMENT",
     "teacher": "Delorme, Bruno",
     "code": "401-431-MS"
   },
@@ -9325,10 +9358,11 @@
         "time": [
           "09:45",
           "11:15"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "FUNDAMENTALS OF BUSINESSD-120B",
+    "name": "FUNDAMENTALS OF BUSINESS",
     "teacher": "Delorme, Bruno",
     "code": "401-913-MS"
   },
@@ -9380,10 +9414,11 @@
         "time": [
           "14:15",
           "17:15"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "HISTORY OF CINEMAD-120B",
+    "name": "HISTORY OF CINEMA",
     "teacher": "Hays, Matthew",
     "code": "530-100-MS"
   },
@@ -12675,10 +12710,11 @@
         "time": [
           "16:15",
           "17:45"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "ETHICS ON STAGED-120B",
+    "name": "ETHICS ON STAGE",
     "teacher": "Willmer, Andrew",
     "code": "345-LPH-MS"
   },
@@ -13915,10 +13951,11 @@
         "time": [
           "14:15",
           "17:15"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "HISTORY OF CINEMAD-120B",
+    "name": "HISTORY OF CINEMA",
     "teacher": "Hays, Matthew"
   },
   {
@@ -13930,10 +13967,11 @@
         "time": [
           "09:45",
           "12:45"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "LANGUAGE OF FILMD-120B",
+    "name": "LANGUAGE OF FILM",
     "teacher": "Hays, Matthew"
   },
   {
@@ -15287,10 +15325,11 @@
         "time": [
           "09:45",
           "11:15"
-        ]
+        ],
+        "room": "D-120A"
       }
     ],
-    "name": "MACROECONOMICSD-120A",
+    "name": "MACROECONOMICS",
     "teacher": "Kompaniyets, Eugene",
     "code": "SSS-LBQ"
   },
@@ -15334,10 +15373,11 @@
         "time": [
           "14:15",
           "15:45"
-        ]
+        ],
+        "room": "D-120A"
       }
     ],
-    "name": "INTERNATIONAL ECONOMICSD-120A",
+    "name": "INTERNATIONAL ECONOMICS",
     "teacher": "Kompaniyets, Eugene",
     "code": "SSS-LBQ"
   },
@@ -15349,10 +15389,11 @@
         "time": [
           "12:45",
           "14:15"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "SPORTS MANAGEMENTD-120B",
+    "name": "SPORTS MANAGEMENT",
     "teacher": "Delorme, Bruno",
     "code": "SSS-LBQ"
   },
@@ -15404,10 +15445,11 @@
         "time": [
           "09:45",
           "11:15"
-        ]
+        ],
+        "room": "D-120B"
       }
     ],
-    "name": "FUNDAMENTALS OF BUSINESSD-120B",
+    "name": "FUNDAMENTALS OF BUSINESS",
     "teacher": "Delorme, Bruno",
     "code": "SSS-LBQ"
   },
