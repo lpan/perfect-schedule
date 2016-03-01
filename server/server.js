@@ -27,13 +27,15 @@ import { match, RouterContext } from 'react-router';
 // Import required modules
 import routes from '../shared/routes';
 import { fetchComponentData } from './util/fetchData';
-import posts from './routes/course.routes';
+import posts from './routes/api.routes';
 import { serverConfig } from './config';
 
 // Populate database with course data
 import feedData from './util/feedData';
 
 feedData();
+
+import getMuiTheme from 'material-ui/lib/styles/getMuiTheme';
 
 // Apply body Parser and server public assets and routes
 app.use(bodyParser.json({ limit: '20mb' }));
@@ -81,8 +83,19 @@ app.use((req, res) => {
 
     const store = configureStore(initialState);
 
+
+    // server rendering material ui
+    const muiTheme = getMuiTheme({}, {
+      avatar: {
+        borderColor: null,
+      },
+      userAgent: req.headers['user-agent'],
+    });
+
     fetchComponentData(store.dispatch, renderProps.components, renderProps.params)
       .then(() => {
+        // test
+        renderProps.components = muiTheme(renderProps.components);
         const initialView = renderToString(
           <Provider store={store}>
             <RouterContext {...renderProps} />

@@ -6,8 +6,9 @@ export const serverConfig = {
 export const schools = [
   {
     name: 'marianopolis',
+    full: 'Marianopolis College',
     year: '2015',
     term: 'w',
-    data: ['details', 'teachers', 'courses', 'codes']
-  }
+    data: ['details', 'teachers', 'courses', 'codes'],
+  },
 ];
