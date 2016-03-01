@@ -12,7 +12,7 @@ export function getCourses (req, res) {
     const collect = db.collection(`${req.query.school}-details`);
     const query = _.omit(req.query, 'school');
 
-    collect.find(query).toArray( (e, docs) => {
+    collect.find(query).limit(5).toArray( (e, docs) => {
       res.send(docs);
     });
   });
@@ -46,7 +46,7 @@ export function getSuggests (req, res) {
       const collectName = `${req.query.school}-${req.query.type}s`;
       const collect = db.collection(collectName);
 
-      collect.find({ val: { $regex: `.*(?i)${req.query.val}.*` } }).toArray( (e, docs) => {
+      collect.find({ val: { $regex: `.*(?i)${req.query.val}.*` } }).limit(5).toArray( (e, docs) => {
         res.send(docs);
       });
 
