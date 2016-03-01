@@ -1,6 +1,5 @@
 import request from 'axios';
-
-var host = 'localhost:8000';
+import { host } from '../config/info';
 
 // ex. school => marianopolis
 // type => school/teacher/course/code
@@ -15,4 +14,3 @@ export default function (school, type, val, callback) {
       callback(false);
     });
 }
-
