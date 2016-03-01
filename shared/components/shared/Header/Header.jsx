@@ -6,7 +6,7 @@ import HomeIcon from './HomeIcon';
 import NavTab from './NavTab';
 
 const navStyle = {
-  height: '3em',
+  height: '2.5em',
   width: '100%',
 };
 
@@ -21,7 +21,6 @@ function Header () {
     <Paper style={navStyle} zDepth={2}>
       <HomeIcon />
       <div style={tabsStyle}>
-        <NavTab />
         <NavTab name="Developer" />
         <NavTab name="Donate" />
       </div>

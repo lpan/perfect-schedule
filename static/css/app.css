@@ -1,4 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
+
 html, body {
   margin: 0 0 0 0;
   background-color: #42a5f5;
+  font-family: 'Roboto';
+}
+
+body {
+  font-size: x-large;
+}
+
+@media (max-width: 1800px) {
+  body {
+    font-size: large;
+  }
+}
+
+@media (max-width: 500px) {
+  body {
+    font-size: medium;
+  }
 }

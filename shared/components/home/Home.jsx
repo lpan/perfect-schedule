@@ -1,13 +1,17 @@
 import React from 'react';
 
 import Header from '../shared/Header/Header';
-import AutoSuggest from '../shared/AutoSuggest';
+import Footer from '../shared/Footer/Footer';
+import FrontLogo from './FrontLogo';
+import CenterField from './CenterField';
 
 function Home (props) {
   return (
     <div>
       <Header />
-      <AutoSuggest school="marianopolis" inputType="school" />
+      <FrontLogo />
+      <CenterField />
+      <Footer />
     </div>
   );
 }

@@ -2,7 +2,7 @@ import React from 'react';
 import FlatButton from 'material-ui/lib/flat-button';
 
 const btnStyle = {
-  fontWeight: 'bold',
+  fontWeight: '500'
 };
 
 
@@ -14,7 +14,7 @@ class NavTab extends React.Component {
 
   render () {
     return (
-      <FlatButton style={btnStyle} label="About" secondary={true} />
+      <FlatButton style={btnStyle} label={this.props.name} secondary={true} />
     );
   }
 }

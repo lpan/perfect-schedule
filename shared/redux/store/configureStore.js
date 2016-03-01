@@ -10,7 +10,7 @@ export function configureStore(initialState = {}) {
   if (process.env.CLIENT) {
     finalCreateStore = compose(
       applyMiddleware(thunk),
-      DevTools.instrument(),
+      // DevTools.instrument(),
       persistState(window.location.href.match(/[?&]debug_session=([^&]+)\b/))
     )(createStore);
   } else {
