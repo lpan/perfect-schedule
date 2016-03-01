@@ -1,5 +1,5 @@
 import React from 'react';
-import AutoSuggest from './AutoSuggest';
+import AutoSuggest from '../shared/AutoSuggest';
 
 function Home (props) {
   return (
