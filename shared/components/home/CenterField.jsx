@@ -1,16 +1,12 @@
 import React from 'react';
 import Paper from 'material-ui/lib/paper';
 
-import Radium from 'radium';
-
-import AutoSuggest from '../shared/AutoSuggest';
+import AutoSuggest from '../shared/AutoSuggest/AutoSuggest';
 import SubmitButton from './SubmitButton';
 import Colors from 'material-ui/lib/styles/colors';
 
 const centerStyle = {
   height: '10em',
-  width: '50%',
-  margin: 'auto',
   marginTop: '3%',
   textAlign: 'center',
 };
@@ -27,14 +23,20 @@ const containerStyle = {
 
 function CenterField () {
   return (
-    <Paper style={centerStyle} zDepth={3}>
-      <div style={containerStyle}>
-        <p style={titleStyle}>Find Your Perfect Schedule Now</p>
-        <AutoSuggest school="marianopolis" inputType="school" />
-        <SubmitButton />
-      </div>
-    </Paper>
+    <div className="row center-xs">
+      <Paper className="col-md-6" style={centerStyle} zDepth={3}>
+        <div style={containerStyle}>
+          <div className="row center-xs">
+            <p style={titleStyle}>Find Your Perfect Schedule Now</p>
+          </div>
+          <div className="row center-xs">
+            <AutoSuggest className="col-md-8 col-xs-12" school="marianopolis" inputType="school" />
+            <SubmitButton className="col-md-4" />
+          </div>
+        </div>
+      </Paper>
+    </div>
   );
 }
 
-export default Radium(CenterField);
+export default CenterField;

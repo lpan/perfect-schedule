@@ -9,7 +9,7 @@ const containerStyle = {
 
 const priStyle = {
   fontWeight: '500',
-  fontSize: '1.5em',
+  fontSize: '2em',
   marginBottom: '0'
 }
 
@@ -25,7 +25,7 @@ const imgStyle = {
 function FrontLogo () {
   return (
     <div style={containerStyle}>
-      <img style={imgStyle} src={'./img/test-logo.png'} />
+      <img style={imgStyle} src={'./img/big-logo.png'} />
       <p style={priStyle}>Your Perfect Schedule</p>
       <p style={secStyle}>Make your perfect mock schedule with easiness</p>
     </div>

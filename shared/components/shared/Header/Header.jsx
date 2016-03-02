@@ -1,28 +1,20 @@
 import React from 'react';
-import { Link } from 'react-router';
 import Paper from 'material-ui/lib/paper';
 
 import HomeIcon from './HomeIcon';
 import NavTab from './NavTab';
 
-const navStyle = {
-  height: '2.5em',
-  width: '100%',
-};
-
-const tabsStyle = {
-  position: 'absolute',
-  right: '2%',
-  top: '1%'
+const contStyle = {
+  marginRight: '1.5em'
 };
 
 function Header () {
   return (
-    <Paper style={navStyle} zDepth={2}>
-      <HomeIcon />
-      <div style={tabsStyle}>
-        <NavTab name="Developer" />
-        <NavTab name="Donate" />
+    <Paper className="row middle-xs between-xs" zDepth={2}>
+      <HomeIcon link="/" />
+      <div style={contStyle}>
+        <NavTab name="About" link="/about" />
+        <NavTab name="Contribute" link="/contribute" />
       </div>
     </Paper>
   );

@@ -1,5 +1,5 @@
 import request from 'axios';
-import { host } from '../config/info';
+import { host } from '../../../config/info';
 
 // ex. school => marianopolis
 // type => school/teacher/course/code

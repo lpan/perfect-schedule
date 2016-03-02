@@ -35,8 +35,6 @@ import feedData from './util/feedData';
 
 feedData();
 
-import getMuiTheme from 'material-ui/lib/styles/getMuiTheme';
-
 // Apply body Parser and server public assets and routes
 app.use(bodyParser.json({ limit: '20mb' }));
 app.use(bodyParser.urlencoded({ limit: '20mb', extended: false }));
@@ -46,6 +44,7 @@ app.use('/api', posts);
 // Render Initial HTML
 const renderFullPage = (html, initialState) => {
   const cssPath = process.env.NODE_ENV === 'production' ? '/css/app.min.css' : '/css/app.css';
+  const gridPath = '/css/flexboxgrid.min.css';
   return `
     <!doctype html>
     <html>
@@ -55,7 +54,7 @@ const renderFullPage = (html, initialState) => {
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Perfect Schedule | A Free and Opensource Schedule Generator</title>
         <link rel="stylesheet" href=${cssPath} />
-        <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'/>
+        <link rel="stylesheet" href=${gridPath} />
       </head>
       <body>
         <div id="root">${html}</div>
@@ -84,18 +83,8 @@ app.use((req, res) => {
     const store = configureStore(initialState);
 
 
-    // server rendering material ui
-    const muiTheme = getMuiTheme({}, {
-      avatar: {
-        borderColor: null,
-      },
-      userAgent: req.headers['user-agent'],
-    });
-
     fetchComponentData(store.dispatch, renderProps.components, renderProps.params)
       .then(() => {
-        // test
-        renderProps.components = muiTheme(renderProps.components);
         const initialView = renderToString(
           <Provider store={store}>
             <RouterContext {...renderProps} />

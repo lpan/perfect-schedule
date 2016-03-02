@@ -1,7 +1,7 @@
 import React from 'react';
 import AutoComplete from 'material-ui/lib/auto-complete';
 
-import getSuggest from '../../helpers/getSuggestions';
+import getSuggest from './getSuggestions';
 
 class AutoSuggest extends React.Component {
 

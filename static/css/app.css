@@ -2,12 +2,17 @@
 
 html, body {
   margin: 0 0 0 0;
+  padding: 0 0 0 0;
   background-color: #42a5f5;
   font-family: 'Roboto';
+  width: auto !important;
+  height: 100%;
+  overflow-x: hidden !important;
 }
 
 body {
   font-size: x-large;
+  position: relative;
 }
 
 @media (max-width: 1800px) {
