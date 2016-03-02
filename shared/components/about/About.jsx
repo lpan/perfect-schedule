@@ -1,13 +1,11 @@
 import React from 'react';
 
-import Header from '../shared/Header/Header';
-import Footer from '../shared/Footer/Footer';
+import PageTitle from '../shared/PageTitle/PageTitle';
 
 function About (props) {
   return (
     <div>
-      <Header />
-      <Footer />
+      <PageTitle text="What is Perfect Schedule" />
     </div>
   );
 }

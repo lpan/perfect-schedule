@@ -1,15 +1,13 @@
 import React from 'react';
 
-import Header from '../shared/Header/Header';
-import Footer from '../shared/Footer/Footer';
+import PageTitle from '../shared/PageTitle/PageTitle';
 import HelpContent from './HelpContent';
 
 function Contribute (props) {
   return (
     <div>
-      <Header />
+      <PageTitle text='If you are...' />
       <HelpContent />
-      <Footer />
     </div>
   );
 }
