@@ -53,6 +53,7 @@ const renderFullPage = (html, initialState) => {
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Perfect Schedule | A Free and Opensource Schedule Generator</title>
+        <link rel="shortcut icon" href="/img/icon.png" />
         <link rel="stylesheet" href=${cssPath} />
         <link rel="stylesheet" href=${gridPath} />
       </head>
