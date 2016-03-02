@@ -62,7 +62,7 @@ function HelpContent (props) {
           </div>
           <div className="row center-xs">
             <p style={textStyle} className="col-xs-10">
-              We need your help as well if you do not know how to code! In order to provide
+              We need your help too if you do not know how to code! In order to provide
               the best user experience as possible, we do not put ads on our website.
               However, as you probably know, hosting and domain name cost money. If you 
               like this project, share it on your favourite social media or&nbsp;
