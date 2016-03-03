@@ -1,8 +1,6 @@
 import request from 'axios';
 
-import { host } from '../../../../server/config';
-
-// const baseURL = process.env.NODE_ENV === 'development' ? 'localhost:8000' : 'schedule-perfect.me';
+const host = location.hostname;
 
 // ex. school => marianopolis
 // type => school/teacher/course/code
