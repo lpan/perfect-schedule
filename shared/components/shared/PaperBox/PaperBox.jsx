@@ -36,7 +36,7 @@ function PaperBox (props) {
 PaperBox.propTypes = {
   box: PropTypes.shape({
     title: PropTypes.string.isRequired,
-    text: PropTypes.string.isRequired
+    text: PropTypes.any.isRequired
   }).isRequired,
 
   layout: PropTypes.string.isRequired

@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
 
 import PageTitle from '../shared/PageTitle/PageTitle';
 import SecTitle from './SecTitle';

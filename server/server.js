@@ -70,6 +70,11 @@ const renderFullPage = (html, initialState) => {
 
 // Server Side Rendering based on routes matched by React-router.
 app.use((req, res) => {
+
+  GLOBAL.navigator = {
+    userAgent: req.headers['user-agent']
+  };
+
   match({ routes, location: req.url }, (err, redirectLocation, renderProps) => {
     if (err) {
       return res.status(500).end('Internal server error');

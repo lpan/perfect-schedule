@@ -1,9 +1,6 @@
 import React from 'react';
-import Colors from 'material-ui/lib/styles/colors';
 
-const linkStyle = {
-  color: Colors.blue800,
-};
+import { linkStyle } from '../../helpers/CommonStyles/TextStyle';
 
 const links = {
   specifications: '',
