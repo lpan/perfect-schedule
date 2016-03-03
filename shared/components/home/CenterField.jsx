@@ -29,9 +29,13 @@ function CenterField () {
           <div className="row center-xs">
             <p style={titleStyle}>Find Your Perfect Schedule Now</p>
           </div>
-          <div className="row center-xs">
-            <AutoSuggest className="col-md-8 col-xs-12" school="marianopolis" inputType="school" />
-            <SubmitButton className="col-md-4" />
+          <div className="row center-xs middle-xs">
+            <div className="col-md-4 col-xs-12">
+              <AutoSuggest school="marianopolis" inputType="school" />
+            </div>
+            <div className="col-md-4 col-xs-12">
+              <SubmitButton />
+            </div>
           </div>
         </div>
       </Paper>
