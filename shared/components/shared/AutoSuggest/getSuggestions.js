@@ -1,6 +1,16 @@
+import React from 'react';
 import request from 'axios';
 
-const host = location.hostname;
+let host = 'localhost:8000';
+
+if (typeof(window) !== 'undefined'){
+
+  let url = window.location.hostname;
+
+  // in production
+  if (url !== 'localhost')
+    host = window.location.hostname;
+}
 
 // ex. school => marianopolis
 // type => school/teacher/course/code
