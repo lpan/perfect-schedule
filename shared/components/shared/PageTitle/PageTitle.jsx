@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { PropTypes } from 'react';
 import Colors from 'material-ui/lib/styles/colors';
 
 const headStyle = {
@@ -13,5 +13,9 @@ function PageTitle (props) {
     </div>
   );
 }
+
+PageTitle.propTypes = {
+  text: PropTypes.string.isRequired
+};
 
 export default PageTitle;

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { PropTypes } from 'react';
 import Paper from 'material-ui/lib/paper';
 import Colors from 'material-ui/lib/styles/colors';
 
@@ -32,5 +32,14 @@ function PaperBox (props) {
     </Paper>
   );
 }
+
+PaperBox.propTypes = {
+  box: PropTypes.shape({
+    title: PropTypes.string.isRequired,
+    text: PropTypes.string.isRequired
+  }).isRequired,
+
+  layout: PropTypes.string.isRequired
+};
 
 export default PaperBox;
