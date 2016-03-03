@@ -17,7 +17,8 @@ const titleStyle = {
 };
 
 const containerStyle = {
-  paddingTop: '0.5em'
+  paddingTop: '0.5em',
+  paddingBottom: '1em'
 };
 
 const inputStyle = {
