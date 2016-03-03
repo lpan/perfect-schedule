@@ -1,5 +1,5 @@
 # Perfect Schedule
-As seen on [schedule-perfect.me](schedule-perfect.me)
+As seen on [schedule-perfect.me](http://schedule-perfect.me)
 
 
 Create your perfect semester schedule with easiness. A free, opensource and
