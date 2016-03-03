@@ -22,7 +22,7 @@ const about = {
       title: 'Intelligent',
       text: [
         "Perfect Schedule is a smart schedule ",
-        "generator which creates a collections of schedules automatically according to ",
+        "generator which automatically creates a collections of schedules according to ",
         "your preferences. To find out how it works, click ",
         <a style={linkStyle} href={links.how}>here</a>,
         "."
