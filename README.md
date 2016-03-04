@@ -46,12 +46,9 @@ Our ultimate goal is to support all colleges in the world! Expand our database o
 #### Data submission
 
 Your school's course data is crucial to Perfect Schedule! To get the course data of your school, you can either talk 
-to your school's official or just hack your school's course offering PDF. However, the final data to be submitted has
-to meet the following requirements:
+to your school's official or just hack your school's course offering PDF.
 
-* 4 seperate JSON files => ['teachers.json', 'codes.json', 'courses.json', 'details.json']
-* Each file consists of an array of Objects
-* Make a pull request to [this](https://github.com/lorix-lpan/perfect-schedule-schools) repo to submit your data (Make sure to read the README first)
+To submit the data, make a pull request to [this](https://github.com/lorix-lpan/perfect-schedule-schools) repo.
 
 If you choose to convert the PDF manually (it is fun), here is a list of PDF converters
 
