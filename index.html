@@ -20,12 +20,11 @@
 
     <section class="main-content">
       <h1>
-<a id="perfect-schedule" class="anchor" href="#perfect-schedule" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Perfect Schedule</h1>
+<a id="perfect-schedule" class="anchor" href="#perfect-schedule" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="http://schedule-perfect.me">Perfect Schedule</a>
+</h1>
 
 <p>Create your perfect semester schedule with easiness. A free, opensource and
-extensible mock schedule generator.</p>
-
-<p><a href="http://schedule-perfect.me">schedule-perfect.me</a></p>
+extensible mock schedule maker.</p>
 
 <h5>
 <a id="note" class="anchor" href="#note" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Note</h5>
@@ -33,9 +32,80 @@ extensible mock schedule generator.</p>
 <p>This project is still in an early phase of development! </p>
 
 <h3>
-<a id="pdf-conversion" class="anchor" href="#pdf-conversion" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>PDF conversion</h3>
+<a id="what-exactly-is-perfect-schedule" class="anchor" href="#what-exactly-is-perfect-schedule" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>What exactly is <a href="http://schedule-perfect.me">Perfect Schedule</a>
+</h3>
 
-<p>A list of PDF converters</p>
+<p>Perfect schedule is an online schedule maker to help college and CEGEP students to get the best 
+semester schedule possible. Different from many other online schedule generators, Perfect Schedule is not simply
+a static schedule maker app that resorts on course data manually entered by the user. Perfect Schedule is an 
+intelligent schedule maker connected to a rapidly growing database. To get a list of your perfect schedules, simply
+tell Perfect Schedule what school do you go to and what courses are you going to take (and your preferences of course).
+That is it!</p>
+
+<h3>
+<a id="contribute" class="anchor" href="#contribute" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contribute</h3>
+
+<p>Our ultimate goal is to support all colleges in the world! Expand our database or improve our app if you could!</p>
+
+<h4>
+<a id="roadmap" class="anchor" href="#roadmap" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Roadmap</h4>
+
+<h5>
+<a id="client-side" class="anchor" href="#client-side" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Client side</h5>
+
+<ul>
+<li>[x] Static pages with basic information</li>
+<li>[x] Input box capable of fetching suggestions from DB via AJAX</li>
+<li>[ ] '/${school}' page -&gt; ['browse courses', 'see available schedules']</li>
+<li>[ ] '/generate' page fetches courses + renders available schedules.<sup>1</sup>
+</li>
+</ul>
+
+<h5>
+<a id="server-and-database" class="anchor" href="#server-and-database" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Server and Database</h5>
+
+<ul>
+<li>[x] Extensible (has a configuration file keeps track of a list of supported school)</li>
+<li>[x] Feed course data to DB -&gt; if a school is in config file but its collections are empty</li>
+<li>[x] Handle GET '/api/suggest' request.</li>
+<li>[x] Handle GET '/api/search' request.</li>
+</ul>
+
+<h5>
+<a id="school-data" class="anchor" href="#school-data" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>School Data</h5>
+
+<ul>
+<li>[x] <a href="http://github.com/lorix-lpan/converter-marianopolis">Marianopolis College</a>
+</li>
+<li>[ ] Vanier College</li>
+<li>[ ] Dawson College</li>
+<li>[ ] John Abbott College</li>
+</ul>
+
+<h5>
+<a id="bugs-and-issues" class="anchor" href="#bugs-and-issues" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Bugs and Issues</h5>
+
+<ul>
+<li>[ ] Unable to add react-motion for better UX due to <a href="http://stackoverflow.com/questions/35787069/react-each-child-in-an-array-or-iterator-should-have-a-unique-key-prop-when-m/35788275#35788275">this</a> error.</li>
+<li>[ ] ...</li>
+</ul>
+
+<p>1: The course compatibility test will be done on the client side</p>
+
+<h4>
+<a id="data-submission" class="anchor" href="#data-submission" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data submission</h4>
+
+<p>Your school's course data is crucial to Perfect Schedule! To get the course data of your school, you can either talk 
+to your school's official or just hack your school's course offering PDF. However, the final data to be submitted has
+to meet the following requirements:</p>
+
+<ul>
+<li>4 seperate JSON files =&gt; ['teachers.json', 'codes.json', 'courses.json', 'details.json']</li>
+<li>Each file consists of an array of Objects</li>
+<li>Make a pull request to <a href="https://github.com/lorix-lpan/perfect-schedule-schools">this</a> repo to submit your data (Make sure to read the README first)</li>
+</ul>
+
+<p>If you choose to convert the PDF manually (it is fun), here is a list of PDF converters</p>
 
 <ul>
 <li>Marianopolis College:
