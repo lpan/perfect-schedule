@@ -19,8 +19,85 @@
     </section>
 
     <section class="main-content">
-      <h3>
-<a id="welcome-to-perfect-schedule-the-smart-schedule-generator-you-will-love" class="anchor" href="#welcome-to-perfect-schedule-the-smart-schedule-generator-you-will-love" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to Perfect Schedule, the smart schedule generator you will love</h3>
+      <h1>
+<a id="perfect-schedule" class="anchor" href="#perfect-schedule" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Perfect Schedule</h1>
+
+<p>Create your perfect semester schedule with easiness. A free, opensource and
+extensible mock schedule generator.</p>
+
+<p><a href="http://schedule-perfect.me">schedule-perfect.me</a></p>
+
+<h5>
+<a id="note" class="anchor" href="#note" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Note</h5>
+
+<p>This project is still in an early phase of development! </p>
+
+<h3>
+<a id="pdf-conversion" class="anchor" href="#pdf-conversion" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>PDF conversion</h3>
+
+<p>A list of PDF converters</p>
+
+<ul>
+<li>Marianopolis College:
+
+<ul>
+<li><a href="https://github.com/lorix-lpan/converter-marianopolis">converter-marianopolis</a></li>
+<li><a href="https://github.com/sunbinyuan/mariocoursespdfparser">mariocoursepdfparser</a></li>
+</ul>
+</li>
+</ul>
+
+<h3>
+<a id="api-reference" class="anchor" href="#api-reference" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>API reference</h3>
+
+<h4>
+<a id="search-course" class="anchor" href="#search-course" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Search course</h4>
+
+<p>To get a list of detailed course objects</p>
+
+<h6>
+<a id="note-1" class="anchor" href="#note-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Note</h6>
+
+<p>The search option has to be either empty or match <strong>exactly</strong></p>
+
+<p>GET '/api/search':</p>
+
+<div class="highlight highlight-source-js"><pre>  school<span class="pl-k">:</span> <span class="pl-smi">string</span>.<span class="pl-c1">match</span>(<span class="pl-sr"><span class="pl-pds">/</span>(<span class="pl-c1">[<span class="pl-c1">a-z</span>]</span><span class="pl-k">|</span><span class="pl-cce">\-</span>)<span class="pl-k">+</span><span class="pl-pds">/</span></span>).<span class="pl-smi">isRequired</span> <span class="pl-c">// ex. marianopolis</span>
+  course<span class="pl-k">:</span> string <span class="pl-c">// ex. CALCULUS I</span>
+  teacher<span class="pl-k">:</span> <span class="pl-smi">string</span>.<span class="pl-c1">match</span>(<span class="pl-sr"><span class="pl-pds">/</span><span class="pl-c1">[<span class="pl-c1">A-Z</span>]</span><span class="pl-c1">.</span><span class="pl-k">*</span>,<span class="pl-cce">\ </span><span class="pl-c1">[<span class="pl-c1">A-Z</span>]</span><span class="pl-c1">.</span><span class="pl-k">*</span><span class="pl-pds">/</span></span>) <span class="pl-c">// ex. Doe, John</span>
+  code<span class="pl-k">:</span> string <span class="pl-c">// ex. SSS-LAQ</span></pre></div>
+
+<h6>
+<a id="example" class="anchor" href="#example" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Example</h6>
+
+<div class="highlight highlight-source-shell"><pre>curl localhost:8000/api/search<span class="pl-k">?</span>school=marianopolis<span class="pl-k">&amp;</span>code=SSS-LAQ</pre></div>
+
+<p>=&gt; returns a list of all SSS-LAQ courses at Marianopolis</p>
+
+<h4>
+<a id="get-suggestions" class="anchor" href="#get-suggestions" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Get Suggestions</h4>
+
+<p>To emulate Google suggestion.</p>
+
+<h6>
+<a id="note-2" class="anchor" href="#note-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Note</h6>
+
+<p>By default, all suggestions return maximum 5 data objects per request</p>
+
+<p>GET '/api/suggest';</p>
+
+<div class="highlight highlight-source-js"><pre>{
+  school<span class="pl-k">:</span> <span class="pl-smi">string</span>.<span class="pl-c1">match</span>(<span class="pl-sr"><span class="pl-pds">/</span>(<span class="pl-c1">[<span class="pl-c1">a-z</span>]</span><span class="pl-k">|</span><span class="pl-cce">\-</span>)<span class="pl-k">+</span><span class="pl-pds">/</span></span>).<span class="pl-smi">isRequired</span> <span class="pl-c">// ex. 'marianopolis'</span>
+  type<span class="pl-k">:</span> <span class="pl-smi">string</span>.<span class="pl-c1">match</span>(<span class="pl-sr"><span class="pl-pds">/</span>(teacher<span class="pl-k">|</span>course<span class="pl-k">|</span>code)<span class="pl-pds">/</span></span>).<span class="pl-smi">isRequired</span> <span class="pl-c">// ex. 'teacher'</span>
+  val<span class="pl-k">:</span> string <span class="pl-c">// ex. 'ab'</span>
+}</pre></div>
+
+<h6>
+<a id="example-1" class="anchor" href="#example-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Example</h6>
+
+<div class="highlight highlight-source-shell"><pre>curl schedule-perfect.me/api/suggest<span class="pl-k">?</span>school=marianopolis<span class="pl-k">&amp;</span><span class="pl-c1">type</span>=teacher<span class="pl-k">&amp;</span>val=ob</pre></div>
+
+<p>=&gt; returns a list of teacher objects whose name contains "ob"</p>
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/lorix-lpan/perfect-schedule">Perfect-schedule</a> is maintained by <a href="https://github.com/lorix-lpan">lorix-lpan</a>.</span>
