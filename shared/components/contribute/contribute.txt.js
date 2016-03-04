@@ -16,9 +16,9 @@ const contribute = {
       title: 'A Developer',
       text: [
         `Want your school to be supported? Supply your school's course data according to the `,
-        <a style={linkStyle} href={links.specifications}>specifications</a>,
+        <a style={linkStyle} target="_blank" href={links.specifications}>specifications</a>,
         ' ',
-        <a href={links.here} style={linkStyle}>here</a>,
+        <a href={links.here} target="_blank" style={linkStyle}>here</a>,
         `. Talk to your school's representatives or `,
         <a href={links.hack} target="_blank" style={linkStyle}>hack</a>,
         " your school's course offering PDF. It is all up to you!"
@@ -31,7 +31,7 @@ const contribute = {
         'the best user experience as possible, we do not put ads on our website. ',
         'However, as you probably know, hosting and domain name cost money. If you ',
         'like this project, share it on your favourite social media or ',
-        <a href={links.donate} style={linkStyle}>Donate</a>,
+        <a href={links.donate} target="_blank" style={linkStyle}>Donate</a>,
         '.'
       ]
     }

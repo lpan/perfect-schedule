@@ -24,7 +24,7 @@ const about = {
         "Perfect Schedule is a smart schedule ",
         "generator which automatically creates a collections of schedules according to ",
         "your preferences. To find out how it works, click ",
-        <a style={linkStyle} href={links.how}>here</a>,
+        <a style={linkStyle} target="_blank" href={links.how}>here</a>,
         "."
       ]
     },
