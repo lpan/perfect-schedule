@@ -51,7 +51,7 @@ to meet the following requirements:
 
 * 4 seperate JSON files => ['teachers.json', 'codes.json', 'courses.json', 'details.json']
 * Each file consists of an array of Objects
-* Make a pull request to [this]() repo to submit your data (Make sure to read the README first)
+* Make a pull request to [this](https://github.com/lorix-lpan/perfect-schedule-schools) repo to submit your data (Make sure to read the README first)
 
 If you choose to convert the PDF manually (it is fun), here is a list of PDF converters
 
