@@ -8,7 +8,7 @@ function Contribute (props) {
   return (
     <div>
       <PageTitle text={contribute.priTitle} />
-      <HelpContent details={contribute.details} />
+      <HelpContent boxes={contribute.details} />
     </div>
   );
 }

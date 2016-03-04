@@ -12,7 +12,7 @@ const layout = 'col-md-4 col-xs-10';
 function HelpContent (props) {
   return (
     <div className="row around-md center-xs">
-      {props.details.map(i => <PaperBox layout={layout} box={i} />)}
+      {props.boxes.map( (box, i) => <PaperBox key={i} layout={layout} box={box} />)}
     </div>
   );
 }

@@ -3,7 +3,7 @@ import { linkStyle } from '../../helpers/CommonStyles/TextStyle';
 
 const links = {
   // how does it work link
-  how: ''
+  how: 'http://lorix-lpan.github.io/perfect-schedule/'
 };
 
 const about = {

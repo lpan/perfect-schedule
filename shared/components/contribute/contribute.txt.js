@@ -3,8 +3,8 @@ import React from 'react';
 import { linkStyle } from '../../helpers/CommonStyles/TextStyle';
 
 const links = {
-  specifications: '',
-  here: '',
+  specifications: 'https://github.com/lorix-lpan/perfect-schedule-schools#readme',
+  here: 'https://github.com/lorix-lpan/perfect-schedule-schools',
   hack: 'https://github.com/lorix-lpan/converter-marianopolis',
   donate: ''
 };
