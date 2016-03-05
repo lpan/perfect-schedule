@@ -5,12 +5,8 @@ extensible mock schedule maker.
 ##### Note
 This project is still in an early phase of development! 
 
-### What exactly is [Perfect Schedule](http://schedule-perfect.me)
-Perfect schedule is an online schedule maker to help college and CEGEP students get the best 
-semester schedule possible. Different from many other online schedule generators, Perfect Schedule is not simply
-a static schedule maker app that resorts on course data manually entered by the user. Perfect Schedule is an 
-intelligent schedule maker connected to a rapidly growing database. To get a list of your perfect schedules, simply
-tell Perfect Schedule what school do you go to and what courses you are going to take. That is it!
+### What exactly is Perfect Schedule
+Perfect Schedule is an online scheduling application that helps students create their ideal schedules. Every semester, students spend hours creating schedules using spreadsheets or other scheduling applications. Many of these applications are static, and require the user to manually input their course information. Perfect Schedule solves this problem by connecting to a rapidly growing database in order to automate data input. This intelligent tool is fast, effective, and easy to use. Simply tell Perfect Schedule your school’s name, and the courses you would like to take. With a few clicks, Perfect Schedule will list all possible schedules that can be made. Saving time has never been easier!
 
 # Contribute
 Our ultimate goal is to support all colleges in the world! Expand the database or improve the app if you could!
@@ -21,7 +17,7 @@ Our ultimate goal is to support all colleges in the world! Expand the database o
 - [x] Static pages with basic information
 - [x] Input box capable of fetching suggestions from DB via AJAX
 - [ ] /$SCHOOL page -> ['browse courses', 'see available schedules']
-- [ ] /generate page fetches courses + renders available schedules.<sup>1</sup>
+- [ ] /generate page -> [fetches courses, renders available schedules.<sup>1</sup>']
 
 ##### Server and Database
 - [x] Extensible (has a configuration file keeps track of a list of supported school)
