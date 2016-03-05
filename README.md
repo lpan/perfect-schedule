@@ -12,10 +12,10 @@ a static schedule maker app that resorts on course data manually entered by the 
 intelligent schedule maker connected to a rapidly growing database. To get a list of your perfect schedules, simply
 tell Perfect Schedule what school do you go to and what courses you are going to take. That is it!
 
-### Contribute
+# Contribute
 Our ultimate goal is to support all colleges in the world! Expand the database or improve the app if you could!
 
-#### Roadmap
+## Roadmap
 
 ##### Client side
 - [x] Static pages with basic information
@@ -42,7 +42,7 @@ Our ultimate goal is to support all colleges in the world! Expand the database o
 1: The course compatibility test will be done on the client side
 
 
-#### Data submission
+## Data submission
 
 Your school's course data is crucial to Perfect Schedule! To get the course data of your school, you can either talk 
 to your school's official or just hack your school's course offering PDF.
@@ -56,7 +56,7 @@ If you choose to convert the PDF manually (it is fun), here is a list of PDF con
   * [mariocoursepdfparser](https://github.com/sunbinyuan/mariocoursespdfparser)
 
 
-### API reference
+# API reference
 
 #### Search course
 To get a list of detailed course objects
