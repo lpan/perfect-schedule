@@ -6,23 +6,22 @@ extensible mock schedule maker.
 This project is still in an early phase of development! 
 
 ### What exactly is [Perfect Schedule](http://schedule-perfect.me)
-Perfect schedule is an online schedule maker to help college and CEGEP students to get the best 
+Perfect schedule is an online schedule maker to help college and CEGEP students get the best 
 semester schedule possible. Different from many other online schedule generators, Perfect Schedule is not simply
 a static schedule maker app that resorts on course data manually entered by the user. Perfect Schedule is an 
 intelligent schedule maker connected to a rapidly growing database. To get a list of your perfect schedules, simply
-tell Perfect Schedule what school do you go to and what courses are you going to take (and your preferences of course).
-That is it!
+tell Perfect Schedule what school do you go to and what courses you are going to take. That is it!
 
 ### Contribute
-Our ultimate goal is to support all colleges in the world! Expand our database or improve our app if you could!
+Our ultimate goal is to support all colleges in the world! Expand the database or improve the app if you could!
 
 #### Roadmap
 
 ##### Client side
 - [x] Static pages with basic information
 - [x] Input box capable of fetching suggestions from DB via AJAX
-- [ ] '/${school}' page -> ['browse courses', 'see available schedules']
-- [ ] '/generate' page fetches courses + renders available schedules.<sup>1</sup>
+- [ ] /$SCHOOL page -> ['browse courses', 'see available schedules']
+- [ ] /generate page fetches courses + renders available schedules.<sup>1</sup>
 
 ##### Server and Database
 - [x] Extensible (has a configuration file keeps track of a list of supported school)
