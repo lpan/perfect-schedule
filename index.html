@@ -14,7 +14,8 @@
       <h1 class="project-name">Perfect-schedule</h1>
       <h2 class="project-tagline">Create your perfect schedule with easiness</h2>
       <a href="https://github.com/lorix-lpan/perfect-schedule" class="btn">View on GitHub</a>
-      <a href="http://schedule-perfect.me" class="btn">schedule-perfect.me</a>
+      <a href="https://github.com/lorix-lpan/perfect-schedule/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/lorix-lpan/perfect-schedule/tarball/master" class="btn">Download .tar.gz</a>
     </section>
 
     <section class="main-content">
@@ -34,17 +35,16 @@ extensible mock schedule maker.</p>
 <a id="what-exactly-is-perfect-schedule" class="anchor" href="#what-exactly-is-perfect-schedule" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>What exactly is <a href="http://schedule-perfect.me">Perfect Schedule</a>
 </h3>
 
-<p>Perfect schedule is an online schedule maker to help college and CEGEP students to get the best 
+<p>Perfect schedule is an online schedule maker to help college and CEGEP students get the best 
 semester schedule possible. Different from many other online schedule generators, Perfect Schedule is not simply
 a static schedule maker app that resorts on course data manually entered by the user. Perfect Schedule is an 
 intelligent schedule maker connected to a rapidly growing database. To get a list of your perfect schedules, simply
-tell Perfect Schedule what school do you go to and what courses are you going to take (and your preferences of course).
-That is it!</p>
+tell Perfect Schedule what school do you go to and what courses you are going to take. That is it!</p>
 
 <h3>
 <a id="contribute" class="anchor" href="#contribute" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contribute</h3>
 
-<p>Our ultimate goal is to support all colleges in the world! Expand our database or improve our app if you could!</p>
+<p>Our ultimate goal is to support all colleges in the world! Expand the database or improve the app if you could!</p>
 
 <h4>
 <a id="roadmap" class="anchor" href="#roadmap" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Roadmap</h4>
@@ -55,8 +55,8 @@ That is it!</p>
 <ul>
 <li>[x] Static pages with basic information</li>
 <li>[x] Input box capable of fetching suggestions from DB via AJAX</li>
-<li>[ ] '/${school}' page -&gt; ['browse courses', 'see available schedules']</li>
-<li>[ ] '/generate' page fetches courses + renders available schedules.<sup>1</sup>
+<li>[ ] /$SCHOOL page -&gt; ['browse courses', 'see available schedules']</li>
+<li>[ ] /generate page fetches courses + renders available schedules.<sup>1</sup>
 </li>
 </ul>
 
@@ -95,14 +95,9 @@ That is it!</p>
 <a id="data-submission" class="anchor" href="#data-submission" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data submission</h4>
 
 <p>Your school's course data is crucial to Perfect Schedule! To get the course data of your school, you can either talk 
-to your school's official or just hack your school's course offering PDF. However, the final data to be submitted has
-to meet the following requirements:</p>
+to your school's official or just hack your school's course offering PDF.</p>
 
-<ul>
-<li>4 seperate JSON files =&gt; ['teachers.json', 'codes.json', 'courses.json', 'details.json']</li>
-<li>Each file consists of an array of Objects</li>
-<li>Make a pull request to <a href="https://github.com/lorix-lpan/perfect-schedule-schools">this</a> repo to submit your data (Make sure to read the README first)</li>
-</ul>
+<p>To submit the data, make a pull request to <a href="https://github.com/lorix-lpan/perfect-schedule-schools">this</a> repo.</p>
 
 <p>If you choose to convert the PDF manually (it is fun), here is a list of PDF converters</p>
 
