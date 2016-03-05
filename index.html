@@ -2,7 +2,7 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Perfect-schedule by lorix-lpan</title>
+    <title>Perfect Schedule by lorix-lpan</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -11,10 +11,11 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">Perfect-schedule</h1>
+      <h1 class="project-name">Perfect Schedule</h1>
       <h2 class="project-tagline">Create your perfect schedule with easiness</h2>
       <a href="https://github.com/lorix-lpan/perfect-schedule" class="btn">View on GitHub</a>
-      <a href="http://schedule-perfect.me" class="btn">schedule-perfect.me</a>
+      <a href="https://github.com/lorix-lpan/perfect-schedule/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/lorix-lpan/perfect-schedule/tarball/master" class="btn">Download .tar.gz</a>
     </section>
 
     <section class="main-content">
@@ -31,22 +32,17 @@ extensible mock schedule maker.</p>
 <p>This project is still in an early phase of development! </p>
 
 <h3>
-<a id="what-exactly-is-perfect-schedule" class="anchor" href="#what-exactly-is-perfect-schedule" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>What exactly is <a href="http://schedule-perfect.me">Perfect Schedule</a>
-</h3>
+<a id="what-exactly-is-perfect-schedule" class="anchor" href="#what-exactly-is-perfect-schedule" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>What exactly is Perfect Schedule</h3>
 
-<p>Perfect schedule is an online schedule maker to help college and CEGEP students get the best 
-semester schedule possible. Different from many other online schedule generators, Perfect Schedule is not simply
-a static schedule maker app that resorts on course data manually entered by the user. Perfect Schedule is an 
-intelligent schedule maker connected to a rapidly growing database. To get a list of your perfect schedules, simply
-tell Perfect Schedule what school do you go to and what courses you are going to take. That is it!</p>
+<p>Perfect Schedule is an online scheduling application that helps students create their ideal schedules. Every semester, students spend hours creating schedules using spreadsheets or other scheduling applications. Many of these applications are static, and require the user to manually input their course information. Perfect Schedule solves this problem by connecting to a rapidly growing database in order to automate data input. This intelligent tool is fast, effective, and easy to use. Simply tell Perfect Schedule your school’s name, and the courses you would like to take. With a few clicks, Perfect Schedule will list all possible schedules that can be made. Saving time has never been easier!</p>
 
-<h3>
-<a id="contribute" class="anchor" href="#contribute" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contribute</h3>
+<h1>
+<a id="contribute" class="anchor" href="#contribute" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contribute</h1>
 
 <p>Our ultimate goal is to support all colleges in the world! Expand the database or improve the app if you could!</p>
 
-<h4>
-<a id="roadmap" class="anchor" href="#roadmap" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Roadmap</h4>
+<h2>
+<a id="roadmap" class="anchor" href="#roadmap" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Roadmap</h2>
 
 <h5>
 <a id="client-side" class="anchor" href="#client-side" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Client side</h5>
@@ -55,8 +51,7 @@ tell Perfect Schedule what school do you go to and what courses you are going to
 <li>[x] Static pages with basic information</li>
 <li>[x] Input box capable of fetching suggestions from DB via AJAX</li>
 <li>[ ] /$SCHOOL page -&gt; ['browse courses', 'see available schedules']</li>
-<li>[ ] /generate page fetches courses + renders available schedules.<sup>1</sup>
-</li>
+<li>[ ] /generate page -&gt; [fetches courses, renders available schedules.<sup>1</sup>']</li>
 </ul>
 
 <h5>
@@ -90,8 +85,8 @@ tell Perfect Schedule what school do you go to and what courses you are going to
 
 <p>1: The course compatibility test will be done on the client side</p>
 
-<h4>
-<a id="data-submission" class="anchor" href="#data-submission" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data submission</h4>
+<h2>
+<a id="data-submission" class="anchor" href="#data-submission" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data submission</h2>
 
 <p>Your school's course data is crucial to Perfect Schedule! To get the course data of your school, you can either talk 
 to your school's official or just hack your school's course offering PDF.</p>
@@ -110,60 +105,8 @@ to your school's official or just hack your school's course offering PDF.</p>
 </li>
 </ul>
 
-<h3>
-<a id="api-reference" class="anchor" href="#api-reference" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>API reference</h3>
-
-<h4>
-<a id="search-course" class="anchor" href="#search-course" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Search course</h4>
-
-<p>To get a list of detailed course objects</p>
-
-<h6>
-<a id="note-1" class="anchor" href="#note-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Note</h6>
-
-<p>The search option has to be either empty or match <strong>exactly</strong></p>
-
-<p>GET '/api/search':</p>
-
-<div class="highlight highlight-source-js"><pre>  school<span class="pl-k">:</span> <span class="pl-smi">string</span>.<span class="pl-c1">match</span>(<span class="pl-sr"><span class="pl-pds">/</span>(<span class="pl-c1">[<span class="pl-c1">a-z</span>]</span><span class="pl-k">|</span><span class="pl-cce">\-</span>)<span class="pl-k">+</span><span class="pl-pds">/</span></span>).<span class="pl-smi">isRequired</span> <span class="pl-c">// ex. marianopolis</span>
-  course<span class="pl-k">:</span> string <span class="pl-c">// ex. CALCULUS I</span>
-  teacher<span class="pl-k">:</span> <span class="pl-smi">string</span>.<span class="pl-c1">match</span>(<span class="pl-sr"><span class="pl-pds">/</span><span class="pl-c1">[<span class="pl-c1">A-Z</span>]</span><span class="pl-c1">.</span><span class="pl-k">*</span>,<span class="pl-cce">\ </span><span class="pl-c1">[<span class="pl-c1">A-Z</span>]</span><span class="pl-c1">.</span><span class="pl-k">*</span><span class="pl-pds">/</span></span>) <span class="pl-c">// ex. Doe, John</span>
-  code<span class="pl-k">:</span> string <span class="pl-c">// ex. SSS-LAQ</span></pre></div>
-
-<h6>
-<a id="example" class="anchor" href="#example" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Example</h6>
-
-<div class="highlight highlight-source-shell"><pre>curl localhost:8000/api/search<span class="pl-k">?</span>school=marianopolis<span class="pl-k">&amp;</span>code=SSS-LAQ</pre></div>
-
-<p>=&gt; returns a list of all SSS-LAQ courses at Marianopolis</p>
-
-<h4>
-<a id="get-suggestions" class="anchor" href="#get-suggestions" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Get Suggestions</h4>
-
-<p>To emulate Google suggestion.</p>
-
-<h6>
-<a id="note-2" class="anchor" href="#note-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Note</h6>
-
-<p>By default, all suggestions return maximum 5 data objects per request</p>
-
-<p>GET '/api/suggest';</p>
-
-<div class="highlight highlight-source-js"><pre>{
-  school<span class="pl-k">:</span> <span class="pl-smi">string</span>.<span class="pl-c1">match</span>(<span class="pl-sr"><span class="pl-pds">/</span>(<span class="pl-c1">[<span class="pl-c1">a-z</span>]</span><span class="pl-k">|</span><span class="pl-cce">\-</span>)<span class="pl-k">+</span><span class="pl-pds">/</span></span>).<span class="pl-smi">isRequired</span> <span class="pl-c">// ex. 'marianopolis'</span>
-  type<span class="pl-k">:</span> <span class="pl-smi">string</span>.<span class="pl-c1">match</span>(<span class="pl-sr"><span class="pl-pds">/</span>(teacher<span class="pl-k">|</span>course<span class="pl-k">|</span>code)<span class="pl-pds">/</span></span>).<span class="pl-smi">isRequired</span> <span class="pl-c">// ex. 'teacher'</span>
-  val<span class="pl-k">:</span> string <span class="pl-c">// ex. 'ab'</span>
-}</pre></div>
-
-<h6>
-<a id="example-1" class="anchor" href="#example-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Example</h6>
-
-<div class="highlight highlight-source-shell"><pre>curl schedule-perfect.me/api/suggest<span class="pl-k">?</span>school=marianopolis<span class="pl-k">&amp;</span><span class="pl-c1">type</span>=teacher<span class="pl-k">&amp;</span>val=ob</pre></div>
-
-<p>=&gt; returns a list of teacher objects whose name contains "ob"</p>
-
       <footer class="site-footer">
-        <span class="site-footer-owner"><a href="https://github.com/lorix-lpan/perfect-schedule">Perfect-schedule</a> is maintained by <a href="https://github.com/lorix-lpan">lorix-lpan</a>.</span>
+        <span class="site-footer-owner"><a href="https://github.com/lorix-lpan/perfect-schedule">Perfect Schedule</a> is maintained by <a href="https://github.com/lorix-lpan">lorix-lpan</a>.</span>
 
         <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
       </footer>
