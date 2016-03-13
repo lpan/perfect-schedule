@@ -11,4 +11,8 @@
     "es6": true,
     "classes": true,
    },
+   "rules": {
+    "quotes": "off",
+    "no-console": "off",
+   }
 }

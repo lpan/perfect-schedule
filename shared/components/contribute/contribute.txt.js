@@ -15,13 +15,11 @@ const contribute = {
     {
       title: 'A Developer',
       text: [
-        `Want your school to be supported?
-        Supply your school's course data according to the `,
+        "Want your school to be supported? Supply your school's course data according to the ",
         <a style={linkStyle} target="_blank" href={links.specifications}>specifications</a>,
         ' ',
         <a href={links.here} target="_blank" style={linkStyle}>here</a>,
-        `. Talk to your school's
-        representatives or `,
+        ". Talk to your school's representatives or ",
         <a href={links.hack} target="_blank" style={linkStyle}>hack</a>,
         " your school's course offering PDF. It is all up to you!",
       ],
