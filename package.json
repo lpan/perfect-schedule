@@ -21,12 +21,11 @@
   "bugs": {
     "url": "git+https://github.com/lorix-lpan/perfect-schedule/issues"
   },
-  "homepage": "https://github.com/Hashnode/mern-starter#readme",
+  "homepage": "http://lorix-lpan.github.io/perfect-schedule",
   "author": "Lawrence Pan <lawrencefeipan@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
     "ansi-to-html-umd": "^0.4.2",
-    "axios": "^0.9.1",
     "babel-core": "^6.4.5",
     "babel-preset-stage-0": "^6.5.0",
     "body-parser": "^1.14.2",
@@ -46,6 +45,7 @@
     "redux": "^3.1.5",
     "redux-thunk": "^1.0.3",
     "sanitize-html": "^1.11.3",
+    "superagent": "^1.8.0",
     "underscore": "^1.8.3"
   },
   "devDependencies": {

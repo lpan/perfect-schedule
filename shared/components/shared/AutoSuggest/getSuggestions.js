@@ -1,11 +1,11 @@
 import React from 'react';
-import request from 'axios';
+import request from 'superagent';
 
 let host = 'localhost:8000';
 
 if (typeof(window) !== 'undefined'){
 
-  let url = window.location.hostname;
+  const url = window.location.hostname;
 
   // in production
   if (url !== 'localhost')
@@ -15,13 +15,6 @@ if (typeof(window) !== 'undefined'){
 // ex. school => marianopolis
 // type => school/teacher/course/code
 export default function (school, type, val, callback) {
-  request.
-    get(`http://${host}/api/suggest?school=${school}&val=${val}&type=${type}`).
-    then(response => {
-      console.log(response.data);
-      callback(response.data);
-    }).
-    catch(err => {
-      callback(false);
-    });
+  const getUrl = `http://${host}/api/suggest?school=${school}&val=${val}&type=${type}`;
+  request.get(getUrl).end(callback);
 };

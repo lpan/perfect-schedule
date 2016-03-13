@@ -16,11 +16,10 @@ class AutoSuggest extends React.Component {
 
   handleUpdateInput = (input) => {
     // fetch data from server to show suggestions
-    getSuggest(this.props.school, this.props.inputType, input, (data) => {
+    getSuggest(this.props.school, this.props.inputType, input, (err, data) => {
       if (data.length !== 0) {
-        data = data.map(file => file.val);
         this.setState({
-          dataSource: data
+          dataSource: JSON.parse(data.text).map(file => file.val)
         });
       }
     });
