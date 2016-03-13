@@ -1,7 +1,7 @@
 const initialState = {};
 
-const rootReducer = (state = initialState, action) => {
+function rootReducer(state = initialState) {
   return state;
-};
+}
 
 export default rootReducer;

@@ -4,7 +4,7 @@ import Colors from 'material-ui/lib/styles/colors';
 const contStyle = {
   position: 'absolute',
   bottom: '0',
-  right: '0'
+  right: '0',
 };
 
 const textStyle = {
@@ -17,7 +17,7 @@ const hrefStyle = {
   color: Colors.blue100,
 };
 
-function Footer () {
+function Footer() {
   return (
     <div style={contStyle} className="row end-xs">
       <p style={textStyle}>

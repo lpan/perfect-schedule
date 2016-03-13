@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { PropTypes } from 'react';
 import Colors from 'material-ui/lib/styles/colors';
 
 const headStyle = {
@@ -6,15 +6,19 @@ const headStyle = {
   textShadow: `2px 2px ${Colors.blue600}`,
   fontWeight: '300',
   fontSize: '1em',
-  marginTop: '0'
+  marginTop: '0',
 };
 
-function SecTitle (props) {
+function SecTitle(props) {
   return (
     <div className="row center-xs">
       <p className="col-md-6 col-xs-8" style={headStyle}>{props.text}</p>
     </div>
   );
 }
+
+SecTitle.propTypes = {
+  text: PropTypes.string.isRequired,
+};
 
 export default SecTitle;

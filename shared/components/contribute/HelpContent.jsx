@@ -1,20 +1,21 @@
-import React from 'react';
-import Paper from 'material-ui/lib/paper';
-
+import React, { PropTypes } from 'react';
 import PaperBox from '../shared/PaperBox/PaperBox';
-
-const paperStyle = {
-  marginTop: '1em'
-};
 
 const layout = 'col-md-4 col-xs-10';
 
-function HelpContent (props) {
+function HelpContent(props) {
   return (
     <div className="row around-md center-xs">
-      {props.boxes.map( (box, i) => <PaperBox key={i} layout={layout} box={box} />)}
+      {props.boxes.map((box, i) => <PaperBox key={i} layout={layout} box={box} />)}
     </div>
   );
 }
+
+HelpContent.propTypes = {
+  boxes: PropTypes.arrayOf(PropTypes.shape({
+    title: PropTypes.string.isRequired,
+    text: PropTypes.any.isRequired,
+  })),
+};
 
 export default HelpContent;

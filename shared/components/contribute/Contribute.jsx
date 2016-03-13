@@ -4,7 +4,7 @@ import PageTitle from '../shared/PageTitle/PageTitle';
 import HelpContent from './HelpContent';
 import contribute from './contribute.txt';
 
-function Contribute (props) {
+function Contribute() {
   return (
     <div>
       <PageTitle text={contribute.priTitle} />

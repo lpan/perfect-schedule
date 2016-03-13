@@ -1,6 +1,6 @@
 import React from 'react';
 
-function School (props) {
+function School() {
   return (
     <div>
       <h1>Hello</h1>

@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Generate (props) {
+function Generate() {
   return (
     <div>
     </div>

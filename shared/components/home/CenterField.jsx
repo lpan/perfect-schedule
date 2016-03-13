@@ -18,14 +18,14 @@ const titleStyle = {
 
 const containerStyle = {
   paddingTop: '0.5em',
-  paddingBottom: '1em'
+  paddingBottom: '1em',
 };
 
 const inputStyle = {
-  paddingBottom: '1em'
+  paddingBottom: '1em',
 };
 
-function CenterField () {
+function CenterField() {
   return (
     <div className="row center-xs">
       <Paper className="col-md-6 col-xs-10" style={centerStyle} zDepth={3}>

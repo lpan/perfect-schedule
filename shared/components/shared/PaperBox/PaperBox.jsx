@@ -3,13 +3,13 @@ import Paper from 'material-ui/lib/paper';
 import Colors from 'material-ui/lib/styles/colors';
 
 const contStyle = {
-  marginTop: '2em'
+  marginTop: '2em',
 };
 
 const titleStyle = {
   fontSize: '1.5em',
   color: Colors.blue600,
-  fontWeight: '300'
+  fontWeight: '300',
 };
 
 const textStyle = {
@@ -17,10 +17,10 @@ const textStyle = {
   fontSize: '1em',
   fontWeight: '300',
   paddingBottom: '3em',
-  textAlign: 'justify'
+  textAlign: 'justify',
 };
 
-function PaperBox (props) {
+function PaperBox(props) {
   return (
     <Paper style={contStyle} zDepth={4} className={props.layout}>
       <div className="row center-xs">
@@ -36,10 +36,10 @@ function PaperBox (props) {
 PaperBox.propTypes = {
   box: PropTypes.shape({
     title: PropTypes.string.isRequired,
-    text: PropTypes.any.isRequired
+    text: PropTypes.any.isRequired,
   }).isRequired,
 
-  layout: PropTypes.string.isRequired
+  layout: PropTypes.string.isRequired,
 };
 
 export default PaperBox;

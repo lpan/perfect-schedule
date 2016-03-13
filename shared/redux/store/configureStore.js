@@ -2,7 +2,7 @@ import { createStore, applyMiddleware, compose } from 'redux';
 import { persistState } from 'redux-devtools';
 import thunk from 'redux-thunk';
 import rootReducer from '../reducers/index';
-import DevTools from '../../helpers/DevTools/DevTools';
+// import DevTools from '../../helpers/DevTools/DevTools';
 
 export function configureStore(initialState = {}) {
   let finalCreateStore;

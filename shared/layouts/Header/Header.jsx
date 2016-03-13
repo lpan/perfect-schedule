@@ -5,10 +5,10 @@ import HomeIcon from './HomeIcon';
 import NavTab from './NavTab';
 
 const contStyle = {
-  marginRight: '1.5em'
+  marginRight: '1.5em',
 };
 
-function Header () {
+function Header() {
   return (
     <Paper className="row middle-xs between-xs" zDepth={2}>
       <HomeIcon link="/" />

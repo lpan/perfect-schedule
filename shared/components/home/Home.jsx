@@ -3,7 +3,7 @@ import React from 'react';
 import FrontLogo from './FrontLogo';
 import CenterField from './CenterField';
 
-function Home (props) {
+function Home() {
   return (
     <div>
       <FrontLogo />

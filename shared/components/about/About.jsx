@@ -6,7 +6,7 @@ import DetailContent from './DetailContent';
 
 import about from './about.txt';
 
-function About (props) {
+function About() {
   return (
     <div>
       <PageTitle text={about.priText} />

@@ -1,16 +1,16 @@
-import React from 'react';
+import React, { PropTypes } from 'react';
 import AutoComplete from 'material-ui/lib/auto-complete';
 
 import getSuggest from './getSuggestions';
 
 class AutoSuggest extends React.Component {
 
-  constructor (props) {
+  constructor(props) {
     super(props);
 
     this.state = {
       // possible schools according to user input
-      dataSource: []
+      dataSource: [],
     };
   }
 
@@ -19,13 +19,13 @@ class AutoSuggest extends React.Component {
     getSuggest(this.props.school, this.props.inputType, input, (err, data) => {
       if (data.length !== 0) {
         this.setState({
-          dataSource: JSON.parse(data.text).map(file => file.val)
+          dataSource: JSON.parse(data.text).map(file => file.val),
         });
       }
     });
   }
 
-  render () {
+  render() {
     return (
       <AutoComplete
         hintText="Enter your school name"
@@ -36,5 +36,10 @@ class AutoSuggest extends React.Component {
     );
   }
 }
+
+AutoSuggest.propTypes = {
+  school: PropTypes.string.isRequired,
+  inputType: PropTypes.string.isRequired,
+};
 
 export default AutoSuggest;

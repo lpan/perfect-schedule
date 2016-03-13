@@ -71,7 +71,7 @@ const renderFullPage = (html, initialState) => {
 // Server Side Rendering based on routes matched by React-router.
 app.use((req, res) => {
   GLOBAL.navigator = {
-    userAgent: req.headers['user-agent']
+    userAgent: req.headers['user-agent'],
   };
 
   match({ routes, location: req.url }, (err, redirectLocation, renderProps) => {
@@ -102,6 +102,7 @@ app.use((req, res) => {
       .catch(() => {
         res.end(renderFullPage('Error', {}));
       });
+    return 0;
   });
 });
 
