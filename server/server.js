@@ -17,17 +17,8 @@ if (process.env.NODE_ENV !== 'production') {
   app.use(webpackHotMiddleware(compiler));
 }
 
-// React And Redux Setup
-import { configureStore } from '../shared/redux/store/configureStore';
-import { Provider } from 'react-redux';
-import React from 'react';
-import { renderToString } from 'react-dom/server';
-import { match, RouterContext } from 'react-router';
-
 // Import required modules
-import routes from '../shared/config/routes';
-import { fetchComponentData } from './util/fetchData';
-import posts from './routes/api.routes';
+import apiRoutes from './routes/api.routes';
 import { serverConfig } from './config';
 
 // Populate database with course data
@@ -39,10 +30,10 @@ feedData();
 app.use(bodyParser.json({ limit: '20mb' }));
 app.use(bodyParser.urlencoded({ limit: '20mb', extended: false }));
 app.use(Express.static(path.resolve(__dirname, '../static')));
-app.use('/api', posts);
+app.use('/api', apiRoutes);
 
 // Render Initial HTML
-const renderFullPage = (html, initialState) => {
+function renderFullPage() {
   const cssPath = process.env.NODE_ENV === 'production' ? '/css/app.min.css' : '/css/app.css';
   const gridPath = '/css/flexboxgrid.min.css';
   return `
@@ -58,52 +49,15 @@ const renderFullPage = (html, initialState) => {
         <link rel="stylesheet" href=${gridPath} />
       </head>
       <body>
-        <div id="root">${html}</div>
-        <script>
-          window.__INITIAL_STATE__ = ${JSON.stringify(initialState)};
-        </script>
+        <div id="root"></div>
         <script src="/dist/bundle.js"></script>
       </body>
     </html>
   `;
-};
+}
 
-// Server Side Rendering based on routes matched by React-router.
-app.use((req, res) => {
-  GLOBAL.navigator = {
-    userAgent: req.headers['user-agent'],
-  };
-
-  match({ routes, location: req.url }, (err, redirectLocation, renderProps) => {
-    if (err) {
-      return res.status(500).end('Internal server error');
-    }
-
-    if (!renderProps) {
-      return res.status(404).end('Not found!');
-    }
-
-    const initialState = { posts: [], post: {} };
-
-    const store = configureStore(initialState);
-
-
-    fetchComponentData(store.dispatch, renderProps.components, renderProps.params)
-      .then(() => {
-        const initialView = renderToString(
-          <Provider store={store}>
-            <RouterContext {...renderProps} />
-          </Provider>
-        );
-        const finalState = store.getState();
-
-        res.status(200).end(renderFullPage(initialView, finalState));
-      })
-      .catch(() => {
-        res.end(renderFullPage('Error', {}));
-      });
-    return 0;
-  });
+app.get('/', (req, res) => {
+  res.send(renderFullPage());
 });
 
 // start app
