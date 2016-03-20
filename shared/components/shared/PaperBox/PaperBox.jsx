@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react';
 import Paper from 'material-ui/lib/paper';
-import Colors from 'material-ui/lib/styles/colors';
+import { blue600, blue800 } from 'material-ui/lib/styles/colors';
 
 const contStyle = {
   marginTop: '2em',
@@ -8,12 +8,12 @@ const contStyle = {
 
 const titleStyle = {
   fontSize: '1.5em',
-  color: Colors.blue600,
+  color: blue600,
   fontWeight: '300',
 };
 
 const textStyle = {
-  color: Colors.blue800,
+  color: blue800,
   fontSize: '1em',
   fontWeight: '300',
   paddingBottom: '3em',

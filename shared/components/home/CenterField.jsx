@@ -3,7 +3,7 @@ import Paper from 'material-ui/lib/paper';
 
 import AutoSuggest from '../shared/AutoSuggest/AutoSuggest';
 import SubmitButton from './SubmitButton';
-import Colors from 'material-ui/lib/styles/colors';
+import { blue500 } from 'material-ui/lib/styles/colors';
 
 const centerStyle = {
   marginTop: '3%',
@@ -11,7 +11,7 @@ const centerStyle = {
 };
 
 const titleStyle = {
-  color: Colors.blue500,
+  color: blue500,
   fontSize: '1.3em',
   fontWeight: '300',
 };

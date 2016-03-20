@@ -49,7 +49,9 @@ function renderFullPage() {
         <link rel="stylesheet" href=${gridPath} />
       </head>
       <body>
-        <div id="root"></div>
+        <div id="root">
+          <div class="loader">Loading...</div>
+        </div>
         <script src="/dist/bundle.js"></script>
       </body>
     </html>

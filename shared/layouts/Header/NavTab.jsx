@@ -20,8 +20,8 @@ function NavTab(props) {
 }
 
 NavTab.propTypes = {
-  link: PropTypes.string.required,
-  name: PropTypes.string.required,
+  link: PropTypes.string.isRequired,
+  name: PropTypes.string.isRequired,
 };
 
 export default NavTab;

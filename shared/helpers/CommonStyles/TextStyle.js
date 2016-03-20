@@ -1,6 +1,6 @@
-import Colors from 'material-ui/lib/styles/colors';
+import { blue800 } from 'material-ui/lib/styles/colors';
 
 export const linkStyle = {
-  color: Colors.blue800,
+  color: blue800,
 };
 

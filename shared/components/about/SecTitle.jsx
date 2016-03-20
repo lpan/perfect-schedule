@@ -1,9 +1,9 @@
 import React, { PropTypes } from 'react';
-import Colors from 'material-ui/lib/styles/colors';
+import { blue600 } from 'material-ui/lib/styles/colors';
 
 const headStyle = {
   color: 'white',
-  textShadow: `2px 2px ${Colors.blue600}`,
+  textShadow: `2px 2px ${blue600}`,
   fontWeight: '300',
   fontSize: '1em',
   marginTop: '0',
