@@ -1,5 +1,4 @@
 import Express from 'express';
-import bodyParser from 'body-parser';
 import path from 'path';
 
 // Webpack Requirements
@@ -10,14 +9,19 @@ import webpackHotMiddleware from 'webpack-hot-middleware';
 
 // Initialize the Express App
 const app = new Express();
-
 if (process.env.NODE_ENV !== 'production') {
   const compiler = webpack(config);
   app.use(webpackDevMiddleware(compiler, { noInfo: true, publicPath: config.output.publicPath }));
   app.use(webpackHotMiddleware(compiler));
 }
 
+// React And Redux Setup
+import React from 'react';
+import { renderToString } from 'react-dom/server';
+import { match, RouterContext } from 'react-router';
+
 // Import required modules
+import routes from '../shared/config/routes';
 import apiRoutes from './routes/api.routes';
 import { serverConfig } from './config';
 
@@ -26,16 +30,13 @@ import feedData from './util/feedData';
 
 feedData();
 
-// Apply body Parser and server public assets and routes
-app.use(bodyParser.json({ limit: '20mb' }));
-app.use(bodyParser.urlencoded({ limit: '20mb', extended: false }));
+// Apply server public assets and routes
 app.use(Express.static(path.resolve(__dirname, '../static')));
 app.use('/api', apiRoutes);
 
 // Render Initial HTML
-function renderFullPage() {
+function renderFullPage(html) {
   const cssPath = process.env.NODE_ENV === 'production' ? '/css/app.min.css' : '/css/app.css';
-  const gridPath = '/css/flexboxgrid.min.css';
   return `
     <!doctype html>
     <html>
@@ -46,11 +47,10 @@ function renderFullPage() {
         <title>Perfect Schedule | A Free and Opensource Schedule Generator</title>
         <link rel="shortcut icon" href="/img/icon.png" />
         <link rel="stylesheet" href=${cssPath} />
-        <link rel="stylesheet" href=${gridPath} />
       </head>
       <body>
         <div id="root">
-          <div class="loader">Loading...</div>
+          <div class="loader">${html}</div>
         </div>
         <script src="/dist/bundle.js"></script>
       </body>
@@ -58,8 +58,29 @@ function renderFullPage() {
   `;
 }
 
-app.get('/', (req, res) => {
-  res.send(renderFullPage());
+// Server Side Rendering based on routes matched by React-router.
+app.use((req, res, next) => {
+  match({ routes, location: req.url }, (err, redirectLocation, renderProps) => {
+    if (err) {
+      return res.status(500).end('Internal server error');
+    }
+
+    if (redirectLocation) {
+      return res.redirect(302, redirectLocation.pathname + redirectLocation.search);
+    }
+
+    if (!renderProps) {
+      return next();
+    }
+
+    const initialView = renderToString(
+      <RouterContext {...renderProps} />
+    );
+
+    res.status(200).end(renderFullPage(initialView));
+
+    return 1;
+  });
 });
 
 // start app

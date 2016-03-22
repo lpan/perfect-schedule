@@ -8,13 +8,14 @@ class AutoSuggest extends React.Component {
   constructor(props) {
     super(props);
 
+    this.handleUpdateInput = this.handleUpdateInput.bind(this);
     this.state = {
       // possible schools according to user input
       dataSource: [],
     };
   }
 
-  handleUpdateInput = (input) => {
+  handleUpdateInput(input) {
     // fetch data from server to show suggestions
     getSuggest(this.props.school, this.props.inputType, input, (err, data) => {
       if (data.length !== 0) {
