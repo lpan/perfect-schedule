@@ -22,7 +22,13 @@ class Header extends Component {
       <div>
         <AppBar
           title="Perfect Schedule"
-          iconElementRight={<IconButton iconClassName="fa fa-github" />}
+          iconElementRight={
+            <IconButton
+              linkButton
+              href="https:github.com/lorix-lpan/perfect-schedule"
+              iconClassName="fa fa-github"
+            />
+          }
           onLeftIconButtonTouchTap={this.handleToggle}
         />
         <LeftNav

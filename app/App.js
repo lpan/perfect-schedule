@@ -1,4 +1,5 @@
 import React, { PropTypes } from 'react';
+import { blue700 } from 'material-ui/lib/styles/colors';
 
 import Header from './layouts/Header/Header';
 import Footer from './layouts/Footer/Footer';
@@ -26,4 +27,4 @@ App.propTypes = {
   children: PropTypes.object.isRequired,
 };
 
-export default themeDecorator(getMuiTheme(null, { userAgent: 'all' }))(App);
+export default themeDecorator(getMuiTheme({ palette: { primary1Color: blue700 } }, { userAgent: 'all' }))(App);
