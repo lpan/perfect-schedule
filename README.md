@@ -1,5 +1,5 @@
 # [Perfect Schedule](http://schedule-perfect.me)
-Create your perfect semester schedule with easiness. A free, opensource and
+Create your perfect semester schedule with ease. A free, opensource and
 extensible mock schedule maker.
 
 ##### Note
@@ -21,7 +21,7 @@ Our ultimate goal is to support all colleges in the world! Expand the database o
 
 ##### Server and Database
 - [x] Extensible (has a configuration file keeps track of a list of supported school)
-- [x] Feed course data to DB -> if a school is in config file but its collections are empty
+- [x] Feed course data to DB -> if a school is in the config file but its collections are empty
 - [x] Handle GET '/api/suggest' request.
 - [x] Handle GET '/api/search' request.
 
