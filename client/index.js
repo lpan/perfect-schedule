@@ -1,5 +1,5 @@
 import React from 'react';
-import routes from '../shared/config/routes';
+import routes from '../app/routes';
 import { render } from 'react-dom';
 import { Router, browserHistory } from 'react-router';
 

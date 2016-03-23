@@ -1,23 +1,41 @@
-import React from 'react';
-import Paper from 'material-ui/lib/paper';
+import React, { Component } from 'react';
 
-import HomeIcon from './HomeIcon';
-import NavTab from './NavTab';
+import AppBar from 'material-ui/lib/app-bar';
+import IconButton from 'material-ui/lib/icon-button';
+import LeftNav from 'material-ui/lib/left-nav';
+import MenuItem from 'material-ui/lib/menus/menu-item';
 
-const contStyle = {
-  marginRight: '1.5em',
-};
+class Header extends Component {
+  constructor() {
+    super();
 
-function Header() {
-  return (
-    <Paper className="row middle-xs between-xs" zDepth={2}>
-      <HomeIcon link="/" />
-      <div style={contStyle}>
-        <NavTab name="About" link="/about" />
-        <NavTab name="Contribute" link="/contribute" />
+    this.handleToggle = this.handleToggle.bind(this);
+    this.state = { open: false };
+  }
+
+  handleToggle() {
+    this.setState({ open: !this.state.open });
+  }
+
+  render() {
+    return (
+      <div>
+        <AppBar
+          title="Perfect Schedule"
+          iconElementRight={<IconButton iconClassName="fa fa-github" />}
+          onLeftIconButtonTouchTap={this.handleToggle}
+        />
+        <LeftNav
+          docked={false}
+          open={this.state.open}
+          onRequestChange={this.handleToggle}
+        >
+          <MenuItem>Menu Item</MenuItem>
+          <MenuItem>Menu Item 2</MenuItem>
+        </LeftNav>
       </div>
-    </Paper>
-  );
+    );
+  }
 }
 
 export default Header;

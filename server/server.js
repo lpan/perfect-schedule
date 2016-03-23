@@ -21,7 +21,7 @@ import { renderToString } from 'react-dom/server';
 import { match, RouterContext } from 'react-router';
 
 // Import required modules
-import routes from '../shared/config/routes';
+import routes from '../app/routes';
 import apiRoutes from './routes/api.routes';
 import { serverConfig } from './config';
 
@@ -47,6 +47,7 @@ function renderFullPage(html) {
         <title>Perfect Schedule | A Free and Opensource Schedule Generator</title>
         <link rel="shortcut icon" href="/img/icon.png" />
         <link rel="stylesheet" href=${cssPath} />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
       </head>
       <body>
         <div id="root">
