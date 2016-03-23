@@ -34,6 +34,12 @@ feedData();
 app.use(Express.static(path.resolve(__dirname, '../static')));
 app.use('/api', apiRoutes);
 
+// if using a mobile browser
+function isMobile(req) {
+  const ua = req.header('user-agent');
+  return /mobile/i.test(ua);
+}
+
 // Render Initial HTML
 function renderFullPage(html) {
   const cssPath = process.env.NODE_ENV === 'production' ? '/css/app.min.css' : '/css/app.css';
@@ -50,15 +56,30 @@ function renderFullPage(html) {
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
       </head>
       <body>
-        <div id="root">
-          <div class="loader">${html}</div>
-        </div>
+        <div id="root">${html}</div>
         <script src="/dist/bundle.js"></script>
       </body>
     </html>
   `;
 }
 
+function renderMobilePage() {
+  return `
+    <!doctype html>
+    <html>
+      <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Perfect Schedule | A Free and Opensource Schedule Generator</title>
+        <link rel="shortcut icon" href="/img/icon.png" />
+      </head>
+      <body>
+        <div id="root"><p>Please view our site on a PC for better user experience</p></div>
+      </body>
+    </html>
+  `;
+}
 // Server Side Rendering based on routes matched by React-router.
 app.use((req, res, next) => {
   match({ routes, location: req.url }, (err, redirectLocation, renderProps) => {
@@ -78,9 +99,12 @@ app.use((req, res, next) => {
       <RouterContext {...renderProps} />
     );
 
-    res.status(200).end(renderFullPage(initialView));
+    // use mobile template if use mobile browser
+    if (isMobile(req)) {
+      return res.status(200).end(renderMobilePage());
+    }
 
-    return 1;
+    return res.status(200).end(renderFullPage(initialView));
   });
 });
 
