@@ -1,11 +1,14 @@
 import React, { PropTypes } from 'react';
-import { blue700 } from 'material-ui/lib/styles/colors';
 
 import Header from './layouts/Header/Header';
 import Footer from './layouts/Footer/Footer';
 
-import themeDecorator from 'material-ui/lib/styles/theme-decorator';
 import getMuiTheme from 'material-ui/lib/styles/getMuiTheme';
+import MuiThemeProvider from 'material-ui/lib/MuiThemeProvider';
+
+import MyRawTheme from './config/theme';
+
+const muiTheme = getMuiTheme(MyRawTheme, { userAgent: 'all' });
 
 // footer height
 const spaceStyle = {
@@ -14,12 +17,14 @@ const spaceStyle = {
 
 function App(props) {
   return (
-    <div>
-      <Header />
-      { props.children }
-      <div style={spaceStyle}></div>
-      <Footer />
-    </div>
+    <MuiThemeProvider muiTheme={muiTheme}>
+      <div>
+        <Header />
+        { props.children }
+        <div style={spaceStyle}></div>
+        <Footer />
+      </div>
+    </MuiThemeProvider>
   );
 }
 
@@ -27,4 +32,4 @@ App.propTypes = {
   children: PropTypes.object.isRequired,
 };
 
-export default themeDecorator(getMuiTheme({ palette: { primary1Color: blue700 } }, { userAgent: 'all' }))(App);
+export default App;

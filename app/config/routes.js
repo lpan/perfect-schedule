@@ -1,11 +1,11 @@
 import React from 'react';
 import { Route, IndexRoute } from 'react-router';
 
-import App from './App';
-import Home from './pages/home/Home';
-import About from './pages/about/About';
-import Contribute from './pages/contribute/Contribute';
-import Generate from './pages/generate/Generate';
+import App from '../App';
+import Home from '../pages/home/Home';
+import About from '../pages/about/About';
+import Contribute from '../pages/contribute/Contribute';
+import Generate from '../pages/generate/Generate';
 
 const routes = (
   <Route path="/" component={App} >
