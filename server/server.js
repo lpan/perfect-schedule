@@ -21,7 +21,7 @@ import { renderToString } from 'react-dom/server';
 import { match, RouterContext } from 'react-router';
 
 // Import required modules
-import routes from '../app/routes';
+import routes from '../app/config/routes';
 import apiRoutes from './routes/api.routes';
 import { serverConfig } from './config';
 
