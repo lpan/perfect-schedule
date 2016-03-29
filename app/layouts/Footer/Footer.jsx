@@ -22,8 +22,8 @@ function Footer() {
     <div style={contStyle} className="row end-xs">
       <p style={textStyle}>
         A project by &nbsp;
-        <a style={hrefStyle} href={'https://github.com/lorix-lpan'} target="_blank">
-          @lorix-lpan
+        <a style={hrefStyle} href={'http://lawry.io'} target="_blank">
+          Lawrence Pan
         </a>
       </p>
     </div>
