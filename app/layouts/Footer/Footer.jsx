@@ -10,7 +10,7 @@ const contStyle = {
 const textStyle = {
   fontSize: '0.8em',
   color: blue100,
-  paddingRight: '2em',
+  margin: '0 1em 0.5em 0',
 };
 
 const hrefStyle = {

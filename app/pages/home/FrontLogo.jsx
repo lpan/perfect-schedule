@@ -10,11 +10,12 @@ const containerStyle = {
 const priStyle = {
   fontWeight: '500',
   fontSize: '2.3em',
-  marginBottom: '0',
+  marginBottom: '0.3em',
+  marginTop: '1em',
 };
 
 const secStyle = {
-  fontSize: '1em',
+  fontSize: '1.1em',
 };
 
 const imgStyle = {

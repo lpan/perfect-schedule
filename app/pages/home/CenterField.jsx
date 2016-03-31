@@ -5,6 +5,7 @@ import AutoSuggest from '../../shared/AutoSuggest/AutoSuggest';
 import { blue500 } from 'material-ui/lib/styles/colors';
 
 const centerStyle = {
+  paddingTop: '2em',
   marginTop: '3%',
   textAlign: 'center',
 };
@@ -13,6 +14,7 @@ const titleStyle = {
   color: blue500,
   fontSize: '1.3em',
   fontWeight: '300',
+  marginBottom: '1em',
 };
 
 const containerStyle = {

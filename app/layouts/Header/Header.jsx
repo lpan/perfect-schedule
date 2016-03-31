@@ -36,8 +36,7 @@ class Header extends Component {
           open={this.state.open}
           onRequestChange={this.handleToggle}
         >
-          <MenuItem>Menu Item</MenuItem>
-          <MenuItem>Menu Item 2</MenuItem>
+          <MenuItem />
         </LeftNav>
       </div>
     );
