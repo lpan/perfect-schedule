@@ -27,7 +27,7 @@ function FrontLogo() {
     <div style={containerStyle}>
       <img style={imgStyle} src={'./img/big-logo.png'} />
       <p style={priStyle}>Your Perfect Schedule</p>
-      <p style={secStyle}>Make your perfect mock schedule with easiness</p>
+      <p style={secStyle}>Make your perfect mock schedule with ease</p>
     </div>
   );
 }
