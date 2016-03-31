@@ -15,4 +15,25 @@ export const schools = [
     term: 'w',
     data: ['details', 'teachers', 'courses', 'codes'],
   },
+  {
+    name: 'vanier',
+    full: 'Vanier College',
+    year: '2015',
+    term: 'w',
+    data: ['details', 'teachers', 'courses', 'codes'],
+  },
+  {
+    name: 'dawson',
+    full: 'Dawson College',
+    year: '2015',
+    term: 'w',
+    data: ['details', 'teachers', 'courses', 'codes'],
+  },
+  {
+    name: 'John Abbott',
+    full: 'John Abbott College',
+    year: '2015',
+    term: 'w',
+    data: ['details', 'teachers', 'courses', 'codes'],
+  },
 ];

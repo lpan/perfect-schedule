@@ -10,7 +10,9 @@ function feed(name, filePath, db) {
     if (!err1 && count === 0) {
       // populate db
       fs.readFile(filePath, (err2, data) => {
-        collect.insert(JSON.parse(data), () => db.close());
+        if (!err2) {
+          collect.insert(JSON.parse(data), () => db.close());
+        }
       });
     }
   });
