@@ -1,4 +1,5 @@
 import React, { PropTypes } from 'react';
+import { browserHistory } from 'react-router';
 import { connect } from 'react-redux';
 import AutoComplete from 'material-ui/lib/auto-complete';
 import RaisedButton from 'material-ui/lib/raised-button';
@@ -22,6 +23,7 @@ class AutoSuggest extends React.Component {
   setSchool() {
     if (this.state.schools.length === 1) {
       this.props.dispatch(Actions.setSchool(this.state.schools[0]));
+      browserHistory.push('/generate');
     }
   }
 
