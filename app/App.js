@@ -1,4 +1,5 @@
 import React, { PropTypes } from 'react';
+import { connect } from 'react-redux';
 
 import Header from './layouts/Header/Header';
 import Footer from './layouts/Footer/Footer';
@@ -32,4 +33,4 @@ App.propTypes = {
   children: PropTypes.object.isRequired,
 };
 
-export default App;
+export default connect()(App);
