@@ -16,12 +16,16 @@ if (process.env.NODE_ENV !== 'production') {
 }
 
 // React And Redux Setup
+import { configureStore } from '../app/redux/store/configureStore';
+import { Provider } from 'react-redux';
+
 import React from 'react';
 import { renderToString } from 'react-dom/server';
 import { match, RouterContext } from 'react-router';
 
 // Import required modules
 import routes from '../app/config/routes';
+import { fetchComponentData } from './util/fetchData';
 import apiRoutes from './routes/api.routes';
 import { serverConfig } from './config';
 
@@ -34,14 +38,8 @@ feedData();
 app.use(Express.static(path.resolve(__dirname, '../static')));
 app.use('/api', apiRoutes);
 
-// if using a mobile browser
-function isMobile(req) {
-  const ua = req.header('user-agent');
-  return /mobile/i.test(ua);
-}
-
 // Render Initial HTML
-function renderFullPage(html) {
+function renderFullPage(html, initialState) {
   const cssPath = process.env.NODE_ENV === 'production' ? '/css/app.min.css' : '/css/app.css';
   return `
     <!doctype html>
@@ -57,34 +55,27 @@ function renderFullPage(html) {
       </head>
       <body>
         <div id="root">${html}</div>
+        <script>
+          window.__INITIAL_STATE__ = ${JSON.stringify(initialState)};
+        </script>
         <script src="/dist/bundle.js"></script>
       </body>
     </html>
   `;
 }
 
-function renderMobilePage() {
-  return `
-    <!doctype html>
-    <html>
-      <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Perfect Schedule | A Free and Opensource Schedule Generator</title>
-        <link rel="shortcut icon" href="/img/icon.png" />
-      </head>
-      <body>
-        <div id="root"><p>Please view our site on a PC for better user experience</p></div>
-      </body>
-    </html>
-  `;
-}
+const renderError = err => {
+  const softTab = '&#32;&#32;&#32;&#32;';
+  const errTrace = process.env.NODE_ENV !== 'production' ?
+    `:<br><br><pre style="color:red">${softTab}${err.stack.replace(/\n/g, `<br>${softTab}`)}</pre>` : '';
+  return renderFullPage(`Server Error${errTrace}`, {});
+};
+
 // Server Side Rendering based on routes matched by React-router.
 app.use((req, res, next) => {
   match({ routes, location: req.url }, (err, redirectLocation, renderProps) => {
     if (err) {
-      return res.status(500).end('Internal server error');
+      return res.status(500).end(renderError(err));
     }
 
     if (redirectLocation) {
@@ -95,16 +86,21 @@ app.use((req, res, next) => {
       return next();
     }
 
-    const initialView = renderToString(
-      <RouterContext {...renderProps} />
-    );
+    const initialState = { school: {}, classes: [] };
 
-    // use mobile template if use mobile browser
-    if (isMobile(req)) {
-      return res.status(200).end(renderMobilePage());
-    }
+    const store = configureStore(initialState);
 
-    return res.status(200).end(renderFullPage(initialView));
+    return fetchComponentData(store, renderProps.components, renderProps.params)
+      .then(() => {
+        const initialView = renderToString(
+          <Provider store={store}>
+            <RouterContext {...renderProps} />
+          </Provider>
+        );
+        const finalState = store.getState();
+
+        res.status(200).end(renderFullPage(initialView, finalState));
+      });
   });
 });
 
