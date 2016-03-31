@@ -7,7 +7,10 @@ const schoolReducer = (state = initialState, action) => {
     case ActionTypes.SET_SCHOOL:
     // reset classes when school is reset
       return {
-        school: action.school,
+        school: {
+          name: action.name,
+          full: action.full,
+        },
         classes: [],
       };
 

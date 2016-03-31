@@ -25,9 +25,9 @@ export function getSuggests(req, res) {
     const matched = [];
 
     for (let i = 0; i < schools.length; i++) {
-      if (schools[i].name.indexOf(req.query.val) !== -1) {
+      if (schools[i].full.toLowerCase().indexOf(req.query.val.toLowerCase()) !== -1) {
         // school object => { reference, fullname }
-        matched.push({ val: schools[i].full, ref: schools[i].name });
+        matched.push({ full: schools[i].full, name: schools[i].name });
       }
 
       if (matched.length === 5) {
