@@ -1,7 +1,7 @@
 import request from 'superagent';
 import * as ActionTypes from '../constants/constants';
 
-let host = 'http://localhost:8000';
+let host = 'localhost:8000';
 
 if (typeof(window) !== 'undefined') {
   const url = window.location.hostname;
@@ -30,7 +30,7 @@ export function addCourses(courses, code) {
 
 export function fetchPossibleCourses(code, school) {
   return (dispatch) => {
-    request.get(`${host}/api/search?school=${school}&code=${code}`).end((err, data) => {
+    request.get(`http://${host}/api/search?school=${school}&code=${code}`).end((err, data) => {
       dispatch(addCourses(JSON.parse(data.text), code));
     });
   };
