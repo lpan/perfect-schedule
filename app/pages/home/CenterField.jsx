@@ -1,7 +1,7 @@
 import React from 'react';
 import Paper from 'material-ui/lib/paper';
 
-import AutoSuggest from '../../shared/AutoSuggest/AutoSuggest';
+import SuggestSchool from './SuggestSchool';
 import { blue500 } from 'material-ui/lib/styles/colors';
 
 const centerStyle = {
@@ -30,7 +30,7 @@ function CenterField() {
           <div className="row center-xs">
             <p style={titleStyle}>Find Your Perfect Schedule Now</p>
           </div>
-          <AutoSuggest school="marianopolis" inputType="school" />
+          <SuggestSchool inputType="school" />
         </div>
       </Paper>
     </div>

@@ -10,7 +10,7 @@ export function getCourses(req, res) {
     const collect = db.collection(`${req.query.school}-details`);
     const query = _.omit(req.query, 'school');
 
-    collect.find(query).limit(5).toArray((e, docs) => {
+    collect.find(query).toArray((e, docs) => {
       res.send(docs);
     });
   });
@@ -18,7 +18,7 @@ export function getCourses(req, res) {
 
 // give hint to the users while inputing teacher/course/code
 // req.query => school, type, val
-// type => (teacher|code|course)
+// type => (teacher|code|course|school)
 export function getSuggests(req, res) {
   // if it is school no need to connect to db
   if (req.query.type === 'school') {

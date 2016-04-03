@@ -1,35 +1,35 @@
-import React, { PropTypes } from 'react';
+import React, { PropTypes, Component } from 'react';
 import { browserHistory } from 'react-router';
 import { connect } from 'react-redux';
 import AutoComplete from 'material-ui/lib/auto-complete';
 import RaisedButton from 'material-ui/lib/raised-button';
 import * as Actions from '../../redux/actions/actions';
 
-import getSuggest from './getSuggestions';
+import getSuggest from '../../shared/AutoSuggest/getSuggestions';
 
-class AutoSuggest extends React.Component {
+class SuggestSchool extends Component {
 
   constructor(props) {
     super(props);
 
     this.handleUpdateInput = this.handleUpdateInput.bind(this);
+    this.handleNewRequest = this.handleNewRequest.bind(this);
     this.setSchool = this.setSchool.bind(this);
     this.state = {
       // possible schools according to user input
+      button: false,
       dataSource: [],
     };
   }
 
   setSchool() {
-    if (this.state.schools.length === 1) {
-      this.props.dispatch(Actions.setSchool(this.state.schools[0]));
-      browserHistory.push('/generate');
-    }
+    this.props.dispatch(Actions.setSchool(this.state.school));
+    browserHistory.push('/generate');
   }
 
   handleUpdateInput(input) {
     // fetch data from server to show suggestions
-    getSuggest(this.props.school, this.props.inputType, input, (err, data) => {
+    getSuggest(null, this.props.inputType, input, (err, data) => {
       if (data.length !== 0) {
         this.setState({
           dataSource: JSON.parse(data.text).map(file => file.full),
@@ -37,6 +37,15 @@ class AutoSuggest extends React.Component {
         });
       }
     });
+  }
+
+  handleNewRequest(input) {
+    for (let i = 0; i < this.state.dataSource.length; i++) {
+      if (this.state.schools[i].full === input) {
+        this.setState({ school: this.state.schools[i], button: true });
+        break;
+      }
+    }
   }
 
   render() {
@@ -48,21 +57,26 @@ class AutoSuggest extends React.Component {
             filter={AutoComplete.caseInsensitiveFilter}
             dataSource={this.state.dataSource}
             onUpdateInput={this.handleUpdateInput}
-            onNewRequest={this.handleUpdateInput}
+            onNewRequest={this.handleNewRequest}
           />
         </div>
         <div className="col-md-4 col-xs-12">
-          <RaisedButton label="Get Schedules" secondary style={{ marginLeft: '5' }} onClick={this.setSchool} />
+          <RaisedButton
+            label="Get Schedules"
+            secondary
+            disabled={!this.state.button}
+            style={{ marginLeft: '5' }}
+            onClick={this.setSchool}
+          />
         </div>
       </div>
     );
   }
 }
 
-AutoSuggest.propTypes = {
-  school: PropTypes.string.isRequired,
+SuggestSchool.propTypes = {
   inputType: PropTypes.string.isRequired,
   dispatch: PropTypes.func.isRequired,
 };
 
-export default connect()(AutoSuggest);
+export default connect()(SuggestSchool);

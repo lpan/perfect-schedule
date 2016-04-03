@@ -86,7 +86,7 @@ app.use((req, res, next) => {
       return next();
     }
 
-    const initialState = { school: {}, classes: [] };
+    const initialState = { school: {} };
 
     const store = configureStore(initialState);
 
