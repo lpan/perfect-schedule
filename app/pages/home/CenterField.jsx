@@ -1,8 +1,8 @@
 import React from 'react';
-import Paper from 'material-ui/lib/paper';
+import Paper from 'material-ui/Paper';
 
 import SuggestSchool from './SuggestSchool';
-import { blue500 } from 'material-ui/lib/styles/colors';
+import { blue500 } from 'material-ui/styles/colors';
 
 const centerStyle = {
   paddingTop: '2em',

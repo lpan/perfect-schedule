@@ -1,4 +1,4 @@
-import { blue700 } from 'material-ui/lib/styles/colors';
+import { blue700 } from 'material-ui/styles/colors';
 
 const theme = {
   palette: {

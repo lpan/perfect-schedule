@@ -1,11 +1,11 @@
 import React, { PropTypes, Component } from 'react';
 import { connect } from 'react-redux';
 
-import Dialog from 'material-ui/lib/dialog';
-import FlatButton from 'material-ui/lib/flat-button';
-import FloatingActionButton from 'material-ui/lib/floating-action-button';
-import ContentAdd from 'material-ui/lib/svg-icons/content/add';
-import AutoComplete from 'material-ui/lib/auto-complete';
+import Dialog from 'material-ui/Dialog';
+import FlatButton from 'material-ui/FlatButton';
+import FloatingActionButton from 'material-ui/FloatingActionButton';
+import AutoComplete from 'material-ui/AutoComplete';
+import ContentAdd from 'material-ui/svg-icons/content/add';
 import getSuggest from '../../shared/AutoSuggest/getSuggestions';
 
 import * as Actions from '../../redux/actions/actions';

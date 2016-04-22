@@ -1,7 +1,7 @@
 import React, { Component, PropTypes } from 'react';
 import { connect } from 'react-redux';
-import Table from 'material-ui/lib/table/table';
-import TableBody from 'material-ui/lib/table/table-body';
+import Table from 'material-ui/Table/Table';
+import TableBody from 'material-ui/Table/TableBody';
 
 class InputGrid extends Component {
 

@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 
-import AppBar from 'material-ui/lib/app-bar';
-import IconButton from 'material-ui/lib/icon-button';
-import LeftNav from 'material-ui/lib/left-nav';
-import MenuItem from 'material-ui/lib/menus/menu-item';
+import AppBar from 'material-ui/AppBar';
+import IconButton from 'material-ui/IconButton';
+import LeftNav from 'material-ui/Drawer';
+import MenuItem from 'material-ui/MenuItem';
 
 class Header extends Component {
   constructor() {

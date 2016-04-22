@@ -1,8 +1,8 @@
 import React, { PropTypes, Component } from 'react';
 import { browserHistory } from 'react-router';
 import { connect } from 'react-redux';
-import AutoComplete from 'material-ui/lib/auto-complete';
-import RaisedButton from 'material-ui/lib/raised-button';
+import AutoComplete from 'material-ui/AutoComplete';
+import RaisedButton from 'material-ui/RaisedButton';
 import * as Actions from '../../redux/actions/actions';
 
 import getSuggest from '../../shared/AutoSuggest/getSuggestions';
@@ -65,7 +65,7 @@ class SuggestSchool extends Component {
             label="Get Schedules"
             secondary
             disabled={!this.state.button}
-            style={{ marginLeft: '5' }}
+            style={{ marginLeft: '1em' }}
             onClick={this.setSchool}
           />
         </div>

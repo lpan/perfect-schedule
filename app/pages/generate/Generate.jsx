@@ -1,8 +1,8 @@
 import React, { PropTypes, Component } from 'react';
 import { connect } from 'react-redux';
 
-import Paper from 'material-ui/lib/paper';
-import { blue500 } from 'material-ui/lib/styles/colors';
+import Paper from 'material-ui/Paper';
+import { blue500 } from 'material-ui/styles/colors';
 
 import InputGrid from './InputGrid';
 import AddCourse from './AddCourse';

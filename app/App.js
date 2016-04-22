@@ -4,8 +4,8 @@ import { connect } from 'react-redux';
 import Header from './layouts/Header/Header';
 import Footer from './layouts/Footer/Footer';
 
-import getMuiTheme from 'material-ui/lib/styles/getMuiTheme';
-import MuiThemeProvider from 'material-ui/lib/MuiThemeProvider';
+import getMuiTheme from 'material-ui/styles/getMuiTheme';
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 
 import MyRawTheme from './config/theme';
 
